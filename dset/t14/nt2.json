@@ -1,0 +1,641 @@
+{
+  "video_test_0000461.mp4": {
+    "Diving": {
+      "stages": [
+        "Woman stands at the edge of the diving board",
+        "Woman leaps off the board with arms extended*",
+        "Woman rotates in mid-air*",
+        "Woman enters the water with a splash*"
+      ]
+    }
+  },
+  "video_test_0000464.mp4": {
+    "PoleVault": {
+      "stages": [
+        "People are preparing at the starting point*",
+        "People are running up with the pole*",
+        "People are planting the pole and lifting off*",
+        "People are clearing the bar and arching over*",
+        "People are landing on the mat*"
+      ]
+    }
+  },
+  "video_test_0000504.mp4": {
+    "CleanAndJerk": {
+      "stages": [
+        "People grip the barbell",
+        "People lift the barbell to shoulders*",
+        "People push the barbell overhead*",
+        "People hold the barbell above head*",
+        "People lower the barbell to the ground"
+      ]
+    }
+  },
+  "video_test_0000505.mp4": {
+    "CleanAndJerk": {
+      "stages": [
+        "People lift the barbell from the floor to their shoulders*",
+        "People adjust their grip and stance",
+        "People press the barbell overhead*",
+        "People lower the barbell to the ground"
+      ]
+    }
+  },
+  "video_test_0000538.mp4": {
+    "HighJump": {
+      "stages": [
+        "People are preparing for the jump*",
+        "People are running up",
+        "People are leaping over the bar*",
+        "People are landing on the mat*"
+      ]
+    }
+  },
+  "video_test_0000541.mp4": {
+    "SoccerPenalty": {
+      "stages": [
+        "Player runs up to the ball",
+        "Player kicks the ball towards the goal*",
+        "Goalkeeper dives to the right*",
+        "Ball goes into the net*",
+        "Player celebrates by running around the goalpost*"
+      ]
+    }
+  },
+  "video_test_0000549.mp4": {
+    "CricketBowling": {
+      "stages": [
+        "People are standing in a wide stance*",
+        "People are raising the ball above their head*",
+        "People are leaning forward and swinging their arm down*",
+        "People are delivering the ball towards the batsman*"
+      ]
+    },
+    "CricketShot": {
+      "stages": [
+        "Bowler bowls the ball*",
+        "Batsman watches the ball*",
+        "Batsman swings the bat*",
+        "Batsman hits the ball*",
+        "Wicket-keeper prepares to catch the ball*"
+      ]
+    }
+  },
+  "video_test_0000556.mp4": {
+    "Billiards": {
+      "stages": [
+        "People are preparing for a shot*",
+        "People are taking a shot*",
+        "People are observing the outcome of the shot*",
+        "People are preparing for the next shot*"
+      ]
+    }
+  },
+  "video_test_0000558.mp4": {
+    "Billiards": {
+      "stages": [
+        "Player positions cue stick*",
+        "Player aims at cue ball*",
+        "Player strikes cue ball*",
+        "Player follows through with swing*"
+      ]
+    }
+  },
+  "video_test_0000560.mp4": {
+    "BasketballDunk": {
+      "stages": [
+        "People dribble the ball",
+        "People approach the basket",
+        "People leap into the air*",
+        "People perform a dunk*",
+        "People land back on the court"
+      ]
+    }
+  },
+  "video_test_0000569.mp4": {
+    "CricketBowling": {
+      "stages": [
+        "People are running up",
+        "People are delivering the ball*",
+        "People are releasing the ball*",
+        "People are watching the ball in mid-air*"
+      ]
+    },
+    "CricketShot": {
+      "stages": [
+        "People are running up",
+        "People are delivering the ball*",
+        "People are preparing to hit the ball*",
+        "People are hitting the ball*",
+        "People are following through*"
+      ]
+    }
+  },
+  "video_test_0000577.mp4": {
+    "Billiards": {
+      "stages": [
+        "Person prepares to take a shot*",
+        "Person strikes the 8-ball*",
+        "Person watches the balls scatter*",
+        "Person steps back and observes the outcome*"
+      ]
+    }
+  },
+  "video_test_0000591.mp4": {
+    "SoccerPenalty": {
+      "stages": [
+        "Player approaches the penalty spot*",
+        "Player kicks the ball*",
+        "Goalkeeper attempts to save*",
+        "Ball misses the target and flies into the netting*"
+      ]
+    }
+  },
+  "video_test_0000593.mp4": {
+    "Shotput": {
+      "stages": [
+        "People are positioning their feet and gripping the shot put*",
+        "People are shifting weight and rotating their torso*",
+        "People are extending their arm and releasing the shot put*",
+        "People are following through with a full body rotation*"
+      ]
+    }
+  },
+  "video_test_0000601.mp4": {
+    "BasketballDunk": {
+      "stages": [
+        "Player prepares for the dunk*",
+        "Player leaps into the air*",
+        "Player dunks the ball through the net*",
+        "Player lands on the court"
+      ]
+    }
+  },
+  "video_test_0000602.mp4": {
+    "Diving": {
+      "stages": [
+        "People are standing on the diving board",
+        "People leap off the board*",
+        "People perform flips and twists in the air*",
+        "People enter the water with a splash*"
+      ]
+    }
+  },
+  "video_test_0000611.mp4": {
+    "GolfSwing": {
+      "stages": [
+        "People position their feet and grip the club*",
+        "People rotate their body and swing the club*",
+        "People follow through with the swing*"
+      ]
+    }
+  },
+  "video_test_0000615.mp4": {
+    "VolleyballSpiking": {
+      "stages": [
+        "Player approaches the net*",
+        "Player jumps and swings arm*",
+        "Player contacts the ball*",
+        "Player follows through with wrist snap*"
+      ]
+    }
+  },
+  "video_test_0000617.mp4": {
+    "CleanAndJerk": {
+      "stages": [
+        "People grip the barbell",
+        "People lift the barbell to shoulders*",
+        "People push the barbell overhead*",
+        "People stabilize the barbell above head*"
+      ]
+    }
+  },
+  "video_test_0000622.mp4": {
+    "CricketBowling": {
+      "stages": [
+        "People are running up",
+        "People are delivering the ball*",
+        "People are attempting to hit the ball*",
+        "People are catching the ball*",
+        "People are signaling the end of the innings*"
+      ]
+    },
+    "CricketShot": {
+      "stages": [
+        "Batsman prepares stance*",
+        "Batsman swings bat and hits ball*",
+        "Ball soars through the air*",
+        "Fielders react to ball's trajectory*"
+      ]
+    }
+  },
+  "video_test_0000624.mp4": {
+    "Diving": {
+      "stages": [
+        "People are preparing on the springboard",
+        "People jump and extend their bodies*",
+        "People twist or rotate in mid-air*",
+        "People enter the water with a splash*",
+        "People recover and reflect after the dive*"
+      ]
+    }
+  },
+  "video_test_0000626.mp4": {
+    "PoleVault": {
+      "stages": [
+        "People are running up",
+        "People plant the pole and push off*",
+        "People ascending over the bar*",
+        "People landing"
+      ]
+    }
+  },
+  "video_test_0000635.mp4": {
+    "CleanAndJerk": {
+      "stages": [
+        "People lift the barbell from the floor*",
+        "People squat down to catch the barbell at shoulder height*",
+        "People stand up with the barbell at shoulder height",
+        "People push the barbell overhead*",
+        "People stabilize the barbell overhead"
+      ]
+    }
+  },
+  "video_test_0000664.mp4": {
+    "BaseballPitch": {
+      "stages": [
+        "Player winds up*",
+        "Player throws the ball*",
+        "Batter swings and misses*",
+        "Catcher catches the ball*"
+      ]
+    }
+  },
+  "video_test_0000665.mp4": {
+    "PoleVault": {
+      "stages": [
+        "People are running up with a pole",
+        "People planting the pole into the box*",
+        "People vaulting over the bar*",
+        "People landing"
+      ]
+    }
+  },
+  "video_test_0000671.mp4": {
+    "ThrowDiscus": {
+      "stages": [
+        "People are positioning their bodies*",
+        "People are twisting and extending their arms*",
+        "People are releasing the discus*",
+        "People are following through with their motion*"
+      ]
+    },
+    "Shotput": {
+      "stages": [
+        "People grip the shot put and position themselves*",
+        "People rotate their bodies to generate momentum*",
+        "People release the shot put*",
+        "People follow through with their motion*"
+      ]
+    }
+  },
+  "video_test_0000672.mp4": {
+    "FrisbeeCatch": {
+      "stages": [
+        "Player crouches and runs*",
+        "Player extends arm and releases Frisbee*",
+        "Frisbee flies through the air*",
+        "Player watches Frisbee*"
+      ]
+    }
+  },
+  "video_test_0000673.mp4": {
+    "CliffDiving": {
+      "stages": [
+        "People are standing poised at the edge*",
+        "People are leaping off the platform*",
+        "People are executing flips in mid-air*",
+        "People are plunging into the water*",
+        "People are emerging and celebrating*"
+      ]
+    }
+  },
+  "video_test_0000689.mp4": {
+    "SoccerPenalty": {
+      "stages": [
+        "People approach the ball",
+        "People position themselves for the kick*",
+        "People kick the ball*",
+        "People watch the ball trajectory*"
+      ]
+    }
+  },
+  "video_test_0000691.mp4": {
+    "Shotput": {
+      "stages": [
+        "People grip the shot put with both hands*",
+        "People take a few steps back*",
+        "People swing arms forward to build momentum*",
+        "People release the shot put with a powerful throw*",
+        "People follow through with arm extended*"
+      ]
+    },
+    "HammerThrow": {
+      "stages": [
+        "People are standing in the throwing area",
+        "People are gripping the hammer*",
+        "People are swinging the hammer and rotating*",
+        "People are releasing the hammer*",
+        "People are maintaining balance after release*"
+      ]
+    }
+  },
+  "video_test_0000698.mp4": {
+    "CleanAndJerk": {
+      "stages": [
+        "People squat down and grip the barbell*",
+        "People lift the barbell to their shoulders*",
+        "People stand up with the barbell*",
+        "People jerk the barbell overhead*"
+      ]
+    }
+  },
+  "video_test_0000701.mp4": {
+    "SoccerPenalty": {
+      "stages": [
+        "Player positions weak foot behind the ball*",
+        "Player swings strong foot back*",
+        "Player strikes the ball*",
+        "Player follows through with the kick*"
+      ]
+    }
+  },
+  "video_test_0000714.mp4": {
+    "BaseballPitch": {
+      "stages": [
+        "Pitcher winds up and releases the ball*",
+        "Batter prepares to swing*",
+        "Batter swings at the ball*",
+        "Catcher prepares to catch the ball*",
+        "Umpire observes the play*"
+      ]
+    }
+  },
+  "video_test_0000716.mp4": {
+    "BasketballDunk": {
+      "stages": [
+        "Player approaches the basket",
+        "Player jumps and extends arms*",
+        "Player dunks the ball through the hoop*",
+        "Player lands after the dunk"
+      ]
+    }
+  },
+  "video_test_0000718.mp4": {
+    "BasketballDunk": {
+      "stages": [
+        "Player dribbles the ball",
+        "Player approaches the basket",
+        "Player leaps into the air*",
+        "Player dunks the ball*",
+        "Player lands on the court"
+      ]
+    }
+  },
+  "video_test_0000723.mp4": {
+    "VolleyballSpiking": {
+      "stages": [
+        "People are positioning near the net",
+        "People are jumping*",
+        "People are swinging their arm to strike the ball*",
+        "People are landing"
+      ]
+    }
+  },
+  "video_test_0000724.mp4": {
+    "CliffDiving": {
+      "stages": [
+        "People are standing at the edge*",
+        "People leap off the cliff*",
+        "People are mid-air performing maneuvers*",
+        "People enter the water*",
+        "People resurface*"
+      ]
+    }
+  },
+  "video_test_0000730.mp4": {
+    "CliffDiving": {
+      "stages": [
+        "People are preparing for the jump*",
+        "People raise their arms and leap off the platform*",
+        "People execute a dive into the water*",
+        "People create a splash upon impact*"
+      ]
+    }
+  },
+  "video_test_0000737.mp4": {
+    "CleanAndJerk": {
+      "stages": [
+        "People lift the barbell from the floor to their shoulders*",
+        "People secure the barbell on their shoulders",
+        "People drive the barbell overhead*",
+        "People hold the barbell momentarily*",
+        "People lower the barbell back to the floor"
+      ]
+    }
+  },
+  "video_test_0000740.mp4": {
+    "CleanAndJerk": {
+      "stages": [
+        "People grip the barbell and stand in initial stance*",
+        "People lift the barbell to shoulders (Clean)*",
+        "People throw the barbell overhead (Jerk)*",
+        "People catch and hold the barbell overhead*"
+      ]
+    }
+  },
+  "video_test_0000756.mp4": {
+    "TennisSwing": {
+      "stages": [
+        "Player prepares stance*",
+        "Player grips racket firmly*",
+        "Player rotates body and swings racket*",
+        "Player makes contact with ball*",
+        "Player follows through smoothly*"
+      ]
+    }
+  },
+  "video_test_0000762.mp4": {
+    "VolleyballSpiking": {
+      "stages": [
+        "Person bends knees and extends arms above head*",
+        "Person jumps up*",
+        "Person spikes the ball over the net*"
+      ]
+    }
+  },
+  "video_test_0000765.mp4": {
+    "Shotput": {
+      "stages": [
+        "People stand in ready position*",
+        "People swing shot put back and rotate body*",
+        "People release shot put with forward motion*",
+        "People follow through after throw*"
+      ]
+    },
+    "HammerThrow": {
+      "stages": [
+        "People are standing and holding the hammer*",
+        "People are rotating and swinging the hammer*",
+        "People are releasing the hammer*",
+        "People are following through with the motion*"
+      ]
+    }
+  },
+  "video_test_0000767.mp4": {
+    "BaseballPitch": {
+      "stages": [
+        "People grip the ball*",
+        "People wind up*",
+        "People release the ball*",
+        "People follow through*"
+      ]
+    }
+  },
+  "video_test_0000771.mp4": {
+    "Billiards": {
+      "stages": [
+        "People position themselves at the table*",
+        "People aim the cue stick*",
+        "People strike the cue ball*",
+        "People follow through with the shot*"
+      ]
+    }
+  },
+  "video_test_0000785.mp4": {
+    "CliffDiving": {
+      "stages": [
+        "Woman stands poised at the edge of the cliff*",
+        "Woman leaps off the cliff with arms outstretched*",
+        "Woman tucks into a streamlined position mid-air*",
+        "Woman splashes into the water*",
+        "Ripples spread across the water surface*"
+      ]
+    }
+  },
+  "video_test_0000786.mp4": {
+    "CricketBowling": {
+      "stages": [
+        "People are running up",
+        "People delivering the ball*",
+        "People following through*",
+        "People preparing to bat"
+      ]
+    },
+    "CricketShot": {
+      "stages": [
+        "People are running up",
+        "People are bowling*",
+        "People are batting*",
+        "People are fielding*",
+        "People are reacting*"
+      ]
+    }
+  },
+  "video_test_0000793.mp4": {
+    "PoleVault": {
+      "stages": [
+        "People are running with a pole",
+        "People plant the pole and propel upwards*",
+        "People clearing the bar*",
+        "People landing on the mat*"
+      ]
+    }
+  },
+  "video_test_0000796.mp4": {
+    "CricketBowling": {
+      "stages": [
+        "Bowler runs up*",
+        "Bowler swings arm and releases ball*",
+        "Batsman anticipates delivery*",
+        "Wicket-keeper crouches and prepares to catch*"
+      ]
+    },
+    "CricketShot": {
+      "stages": [
+        "Bowler runs up and delivers the ball*",
+        "Batsman anticipates and prepares to hit the ball*",
+        "Batsman swings the bat and hits the ball*",
+        "Fielders and wicket-keeper react to the shot*"
+      ]
+    }
+  },
+  "video_test_0000798.mp4": {
+    "CricketBowling": {
+      "stages": [
+        "Bowler takes run-up steps*",
+        "Bowler swings arm back and forth*",
+        "Bowler releases the ball*",
+        "Batsman prepares to face the delivery*"
+      ]
+    },
+    "CricketShot": {
+      "stages": [
+        "People are standing in batting stance",
+        "People are shifting body weight forward*",
+        "People are swinging the bat*",
+        "People are following through with the swing*"
+      ]
+    }
+  },
+  "video_test_0000807.mp4": {
+    "Diving": {
+      "stages": [
+        "People are standing on the diving board",
+        "People are running forward with arms outstretched*",
+        "People are leaping off the board and performing a flip*",
+        "People are landing in the water with a splash*"
+      ]
+    }
+  },
+  "video_test_0000814.mp4": {
+    "Shotput": {
+      "stages": [
+        "People stand in initial stance*",
+        "People rotate body and swing shotput back*",
+        "People release shotput with a throw*",
+        "People follow through with body movement*"
+      ]
+    },
+    "ThrowDiscus": {
+      "stages": [
+        "People are spinning*",
+        "People are releasing the discus*",
+        "People are following through*",
+        "People are relaxing after release*"
+      ]
+    }
+  },
+  "video_test_0000839.mp4": {
+    "HighJump": {
+      "stages": [
+        "People are preparing*",
+        "People are running up*",
+        "People are jumping over the bar*",
+        "People are landing*",
+        "People are walking away*"
+      ]
+    }
+  },
+  "video_test_0000844.mp4": {
+    "CliffDiving": {
+      "stages": [
+        "People are standing at the edge",
+        "People take a running start*",
+        "People leap off the cliff*",
+        "People descend towards the water*",
+        "People enter the water with a splash*"
+      ]
+    }
+  }
+}

@@ -1,0 +1,1002 @@
+{
+  "Applying sunscreen": {
+    "start": "Is the person beginning to perform applying sunscreen?",
+    "end": "Is the person finishing or stopping the applying sunscreen action?",
+    "description": "Performing the activity of applying sunscreen with distinguishing movements"
+  },
+  "Archery": {
+    "start": "Is the person beginning to perform archery?",
+    "end": "Is the person finishing or stopping the archery action?",
+    "description": "Performing the activity of archery with distinguishing movements"
+  },
+  "Arm wrestling": {
+    "start": "Is the person beginning to perform arm wrestling?",
+    "end": "Is the person finishing or stopping the arm wrestling action?",
+    "description": "Performing the activity of arm wrestling with distinguishing movements"
+  },
+  "Assembling bicycle": {
+    "start": "Is the person beginning to perform assembling bicycle?",
+    "end": "Is the person finishing or stopping the assembling bicycle action?",
+    "description": "Performing the activity of assembling bicycle with distinguishing movements"
+  },
+  "BMX": {
+    "start": "Is the person beginning to perform bmx?",
+    "end": "Is the person finishing or stopping the bmx action?",
+    "description": "Performing the activity of bmx with distinguishing movements"
+  },
+  "Baking cookies": {
+    "start": "Is the person beginning to perform baking cookies?",
+    "end": "Is the person finishing or stopping the baking cookies action?",
+    "description": "Performing the activity of baking cookies with distinguishing movements"
+  },
+  "Ballet": {
+    "start": "Is the person beginning to perform ballet?",
+    "end": "Is the person finishing or stopping the ballet action?",
+    "description": "Performing the activity of ballet with distinguishing movements"
+  },
+  "Bathing dog": {
+    "start": "Is the person beginning to perform bathing dog?",
+    "end": "Is the person finishing or stopping the bathing dog action?",
+    "description": "Performing the activity of bathing dog with distinguishing movements"
+  },
+  "Baton twirling": {
+    "start": "Is the person beginning to perform baton twirling?",
+    "end": "Is the person finishing or stopping the baton twirling action?",
+    "description": "Performing the activity of baton twirling with distinguishing movements"
+  },
+  "Beach soccer": {
+    "start": "Is the person beginning to perform beach soccer?",
+    "end": "Is the person finishing or stopping the beach soccer action?",
+    "description": "Performing the activity of beach soccer with distinguishing movements"
+  },
+  "Beer pong": {
+    "start": "Is the person beginning to perform beer pong?",
+    "end": "Is the person finishing or stopping the beer pong action?",
+    "description": "Performing the activity of beer pong with distinguishing movements"
+  },
+  "Belly dance": {
+    "start": "Is the person beginning to perform belly dance?",
+    "end": "Is the person finishing or stopping the belly dance action?",
+    "description": "Performing the activity of belly dance with distinguishing movements"
+  },
+  "Blow-drying hair": {
+    "start": "Is the person beginning to perform blow-drying hair?",
+    "end": "Is the person finishing or stopping the blow-drying hair action?",
+    "description": "Performing the activity of blow-drying hair with distinguishing movements"
+  },
+  "Blowing leaves": {
+    "start": "Is the person beginning to perform blowing leaves?",
+    "end": "Is the person finishing or stopping the blowing leaves action?",
+    "description": "Performing the activity of blowing leaves with distinguishing movements"
+  },
+  "Braiding hair": {
+    "start": "Is the person beginning to perform braiding hair?",
+    "end": "Is the person finishing or stopping the braiding hair action?",
+    "description": "Performing the activity of braiding hair with distinguishing movements"
+  },
+  "Breakdancing": {
+    "start": "Is the person beginning to perform breakdancing?",
+    "end": "Is the person finishing or stopping the breakdancing action?",
+    "description": "Performing the activity of breakdancing with distinguishing movements"
+  },
+  "Brushing hair": {
+    "start": "Is the person beginning to perform brushing hair?",
+    "end": "Is the person finishing or stopping the brushing hair action?",
+    "description": "Performing the activity of brushing hair with distinguishing movements"
+  },
+  "Brushing teeth": {
+    "start": "Is the person beginning to perform brushing teeth?",
+    "end": "Is the person finishing or stopping the brushing teeth action?",
+    "description": "Performing the activity of brushing teeth with distinguishing movements"
+  },
+  "Building sandcastles": {
+    "start": "Is the person beginning to perform building sandcastles?",
+    "end": "Is the person finishing or stopping the building sandcastles action?",
+    "description": "Performing the activity of building sandcastles with distinguishing movements"
+  },
+  "Bullfighting": {
+    "start": "Is the person beginning to perform bullfighting?",
+    "end": "Is the person finishing or stopping the bullfighting action?",
+    "description": "Performing the activity of bullfighting with distinguishing movements"
+  },
+  "Bungee jumping": {
+    "start": "Is the person beginning to perform bungee jumping?",
+    "end": "Is the person finishing or stopping the bungee jumping action?",
+    "description": "Performing the activity of bungee jumping with distinguishing movements"
+  },
+  "Calf roping": {
+    "start": "Is the person beginning to perform calf roping?",
+    "end": "Is the person finishing or stopping the calf roping action?",
+    "description": "Performing the activity of calf roping with distinguishing movements"
+  },
+  "Camel ride": {
+    "start": "Is the person beginning to perform camel ride?",
+    "end": "Is the person finishing or stopping the camel ride action?",
+    "description": "Performing the activity of camel ride with distinguishing movements"
+  },
+  "Canoeing": {
+    "start": "Is the person beginning to perform canoeing?",
+    "end": "Is the person finishing or stopping the canoeing action?",
+    "description": "Performing the activity of canoeing with distinguishing movements"
+  },
+  "Capoeira": {
+    "start": "Is the person beginning to perform capoeira?",
+    "end": "Is the person finishing or stopping the capoeira action?",
+    "description": "Performing the activity of capoeira with distinguishing movements"
+  },
+  "Carving jack-o-lanterns": {
+    "start": "Is the person beginning to perform carving jack-o-lanterns?",
+    "end": "Is the person finishing or stopping the carving jack-o-lanterns action?",
+    "description": "Performing the activity of carving jack-o-lanterns with distinguishing movements"
+  },
+  "Changing car wheel": {
+    "start": "Is the person beginning to perform changing car wheel?",
+    "end": "Is the person finishing or stopping the changing car wheel action?",
+    "description": "Performing the activity of changing car wheel with distinguishing movements"
+  },
+  "Cheerleading": {
+    "start": "Is the person beginning to perform cheerleading?",
+    "end": "Is the person finishing or stopping the cheerleading action?",
+    "description": "Performing the activity of cheerleading with distinguishing movements"
+  },
+  "Chopping wood": {
+    "start": "Is the person beginning to perform chopping wood?",
+    "end": "Is the person finishing or stopping the chopping wood action?",
+    "description": "Performing the activity of chopping wood with distinguishing movements"
+  },
+  "Clean and jerk": {
+    "start": "Is the person beginning to perform clean and jerk?",
+    "end": "Is the person finishing or stopping the clean and jerk action?",
+    "description": "Performing the activity of clean and jerk with distinguishing movements"
+  },
+  "Cleaning shoes": {
+    "start": "Is the person beginning to perform cleaning shoes?",
+    "end": "Is the person finishing or stopping the cleaning shoes action?",
+    "description": "Performing the activity of cleaning shoes with distinguishing movements"
+  },
+  "Cleaning sink": {
+    "start": "Is the person beginning to perform cleaning sink?",
+    "end": "Is the person finishing or stopping the cleaning sink action?",
+    "description": "Performing the activity of cleaning sink with distinguishing movements"
+  },
+  "Cleaning windows": {
+    "start": "Is the person beginning to perform cleaning windows?",
+    "end": "Is the person finishing or stopping the cleaning windows action?",
+    "description": "Performing the activity of cleaning windows with distinguishing movements"
+  },
+  "Clipping cat claws": {
+    "start": "Is the person beginning to perform clipping cat claws?",
+    "end": "Is the person finishing or stopping the clipping cat claws action?",
+    "description": "Performing the activity of clipping cat claws with distinguishing movements"
+  },
+  "Cricket": {
+    "start": "Is the person beginning to perform cricket?",
+    "end": "Is the person finishing or stopping the cricket action?",
+    "description": "Performing the activity of cricket with distinguishing movements"
+  },
+  "Croquet": {
+    "start": "Is the person beginning to perform croquet?",
+    "end": "Is the person finishing or stopping the croquet action?",
+    "description": "Performing the activity of croquet with distinguishing movements"
+  },
+  "Cumbia": {
+    "start": "Is the person beginning to perform cumbia?",
+    "end": "Is the person finishing or stopping the cumbia action?",
+    "description": "Performing the activity of cumbia with distinguishing movements"
+  },
+  "Curling": {
+    "start": "Is the person beginning to perform curling?",
+    "end": "Is the person finishing or stopping the curling action?",
+    "description": "Performing the activity of curling with distinguishing movements"
+  },
+  "Cutting the grass": {
+    "start": "Is the person beginning to perform cutting the grass?",
+    "end": "Is the person finishing or stopping the cutting the grass action?",
+    "description": "Performing the activity of cutting the grass with distinguishing movements"
+  },
+  "Decorating the Christmas tree": {
+    "start": "Is the person beginning to perform decorating the christmas tree?",
+    "end": "Is the person finishing or stopping the decorating the christmas tree action?",
+    "description": "Performing the activity of decorating the christmas tree with distinguishing movements"
+  },
+  "Disc dog": {
+    "start": "Is the person beginning to perform disc dog?",
+    "end": "Is the person finishing or stopping the disc dog action?",
+    "description": "Performing the activity of disc dog with distinguishing movements"
+  },
+  "Discus throw": {
+    "start": "Is the person beginning to perform discus throw?",
+    "end": "Is the person finishing or stopping the discus throw action?",
+    "description": "Performing the activity of discus throw with distinguishing movements"
+  },
+  "Dodgeball": {
+    "start": "Is the person beginning to perform dodgeball?",
+    "end": "Is the person finishing or stopping the dodgeball action?",
+    "description": "Performing the activity of dodgeball with distinguishing movements"
+  },
+  "Doing a powerbomb": {
+    "start": "Is the person beginning to perform doing a powerbomb?",
+    "end": "Is the person finishing or stopping the doing a powerbomb action?",
+    "description": "Performing the activity of doing a powerbomb with distinguishing movements"
+  },
+  "Doing crunches": {
+    "start": "Is the person beginning to perform doing crunches?",
+    "end": "Is the person finishing or stopping the doing crunches action?",
+    "description": "Performing the activity of doing crunches with distinguishing movements"
+  },
+  "Doing fencing": {
+    "start": "Is the person beginning to perform doing fencing?",
+    "end": "Is the person finishing or stopping the doing fencing action?",
+    "description": "Performing the activity of doing fencing with distinguishing movements"
+  },
+  "Doing karate": {
+    "start": "Is the person beginning to perform doing karate?",
+    "end": "Is the person finishing or stopping the doing karate action?",
+    "description": "Performing the activity of doing karate with distinguishing movements"
+  },
+  "Doing kickboxing": {
+    "start": "Is the person beginning to perform doing kickboxing?",
+    "end": "Is the person finishing or stopping the doing kickboxing action?",
+    "description": "Performing the activity of doing kickboxing with distinguishing movements"
+  },
+  "Doing motocross": {
+    "start": "Is the person beginning to perform doing motocross?",
+    "end": "Is the person finishing or stopping the doing motocross action?",
+    "description": "Performing the activity of doing motocross with distinguishing movements"
+  },
+  "Doing nails": {
+    "start": "Is the person beginning to perform doing nails?",
+    "end": "Is the person finishing or stopping the doing nails action?",
+    "description": "Performing the activity of doing nails with distinguishing movements"
+  },
+  "Doing step aerobics": {
+    "start": "Is the person beginning to perform doing step aerobics?",
+    "end": "Is the person finishing or stopping the doing step aerobics action?",
+    "description": "Performing the activity of doing step aerobics with distinguishing movements"
+  },
+  "Drinking beer": {
+    "start": "Is the person beginning to perform drinking beer?",
+    "end": "Is the person finishing or stopping the drinking beer action?",
+    "description": "Performing the activity of drinking beer with distinguishing movements"
+  },
+  "Drinking coffee": {
+    "start": "Is the person beginning to perform drinking coffee?",
+    "end": "Is the person finishing or stopping the drinking coffee action?",
+    "description": "Performing the activity of drinking coffee with distinguishing movements"
+  },
+  "Drum corps": {
+    "start": "Is the person beginning to perform drum corps?",
+    "end": "Is the person finishing or stopping the drum corps action?",
+    "description": "Performing the activity of drum corps with distinguishing movements"
+  },
+  "Elliptical trainer": {
+    "start": "Is the person beginning to perform elliptical trainer?",
+    "end": "Is the person finishing or stopping the elliptical trainer action?",
+    "description": "Performing the activity of elliptical trainer with distinguishing movements"
+  },
+  "Fixing bicycle": {
+    "start": "Is the person beginning to perform fixing bicycle?",
+    "end": "Is the person finishing or stopping the fixing bicycle action?",
+    "description": "Performing the activity of fixing bicycle with distinguishing movements"
+  },
+  "Fixing the roof": {
+    "start": "Is the person beginning to perform fixing the roof?",
+    "end": "Is the person finishing or stopping the fixing the roof action?",
+    "description": "Performing the activity of fixing the roof with distinguishing movements"
+  },
+  "Fun sliding down": {
+    "start": "Is the person beginning to perform fun sliding down?",
+    "end": "Is the person finishing or stopping the fun sliding down action?",
+    "description": "Performing the activity of fun sliding down with distinguishing movements"
+  },
+  "Futsal": {
+    "start": "Is the person beginning to perform futsal?",
+    "end": "Is the person finishing or stopping the futsal action?",
+    "description": "Performing the activity of futsal with distinguishing movements"
+  },
+  "Gargling mouthwash": {
+    "start": "Is the person beginning to perform gargling mouthwash?",
+    "end": "Is the person finishing or stopping the gargling mouthwash action?",
+    "description": "Performing the activity of gargling mouthwash with distinguishing movements"
+  },
+  "Getting a haircut": {
+    "start": "Is the person beginning to perform getting a haircut?",
+    "end": "Is the person finishing or stopping the getting a haircut action?",
+    "description": "Performing the activity of getting a haircut with distinguishing movements"
+  },
+  "Getting a piercing": {
+    "start": "Is the person beginning to perform getting a piercing?",
+    "end": "Is the person finishing or stopping the getting a piercing action?",
+    "description": "Performing the activity of getting a piercing with distinguishing movements"
+  },
+  "Getting a tattoo": {
+    "start": "Is the person beginning to perform getting a tattoo?",
+    "end": "Is the person finishing or stopping the getting a tattoo action?",
+    "description": "Performing the activity of getting a tattoo with distinguishing movements"
+  },
+  "Grooming dog": {
+    "start": "Is the person beginning to perform grooming dog?",
+    "end": "Is the person finishing or stopping the grooming dog action?",
+    "description": "Performing the activity of grooming dog with distinguishing movements"
+  },
+  "Grooming horse": {
+    "start": "Is the person beginning to perform grooming horse?",
+    "end": "Is the person finishing or stopping the grooming horse action?",
+    "description": "Performing the activity of grooming horse with distinguishing movements"
+  },
+  "Hammer throw": {
+    "start": "Is the person beginning to perform hammer throw?",
+    "end": "Is the person finishing or stopping the hammer throw action?",
+    "description": "Performing the activity of hammer throw with distinguishing movements"
+  },
+  "Hand car wash": {
+    "start": "Is the person beginning to perform hand car wash?",
+    "end": "Is the person finishing or stopping the hand car wash action?",
+    "description": "Performing the activity of hand car wash with distinguishing movements"
+  },
+  "Hand washing clothes": {
+    "start": "Is the person beginning to perform hand washing clothes?",
+    "end": "Is the person finishing or stopping the hand washing clothes action?",
+    "description": "Performing the activity of hand washing clothes with distinguishing movements"
+  },
+  "Hanging wallpaper": {
+    "start": "Is the person beginning to perform hanging wallpaper?",
+    "end": "Is the person finishing or stopping the hanging wallpaper action?",
+    "description": "Performing the activity of hanging wallpaper with distinguishing movements"
+  },
+  "Having an ice cream": {
+    "start": "Is the person beginning to perform having an ice cream?",
+    "end": "Is the person finishing or stopping the having an ice cream action?",
+    "description": "Performing the activity of having an ice cream with distinguishing movements"
+  },
+  "High jump": {
+    "start": "Is the person beginning to perform high jump?",
+    "end": "Is the person finishing or stopping the high jump action?",
+    "description": "Performing the activity of high jump with distinguishing movements"
+  },
+  "Hitting a pinata": {
+    "start": "Is the person beginning to perform hitting a pinata?",
+    "end": "Is the person finishing or stopping the hitting a pinata action?",
+    "description": "Performing the activity of hitting a pinata with distinguishing movements"
+  },
+  "Hopscotch": {
+    "start": "Is the person beginning to perform hopscotch?",
+    "end": "Is the person finishing or stopping the hopscotch action?",
+    "description": "Performing the activity of hopscotch with distinguishing movements"
+  },
+  "Horseback riding": {
+    "start": "Is the person beginning to perform horseback riding?",
+    "end": "Is the person finishing or stopping the horseback riding action?",
+    "description": "Performing the activity of horseback riding with distinguishing movements"
+  },
+  "Hula hoop": {
+    "start": "Is the person beginning to perform hula hoop?",
+    "end": "Is the person finishing or stopping the hula hoop action?",
+    "description": "Performing the activity of hula hoop with distinguishing movements"
+  },
+  "Hurling": {
+    "start": "Is the person beginning to perform hurling?",
+    "end": "Is the person finishing or stopping the hurling action?",
+    "description": "Performing the activity of hurling with distinguishing movements"
+  },
+  "Ice fishing": {
+    "start": "Is the person beginning to perform ice fishing?",
+    "end": "Is the person finishing or stopping the ice fishing action?",
+    "description": "Performing the activity of ice fishing with distinguishing movements"
+  },
+  "Installing carpet": {
+    "start": "Is the person beginning to perform installing carpet?",
+    "end": "Is the person finishing or stopping the installing carpet action?",
+    "description": "Performing the activity of installing carpet with distinguishing movements"
+  },
+  "Ironing clothes": {
+    "start": "Is the person beginning to perform ironing clothes?",
+    "end": "Is the person finishing or stopping the ironing clothes action?",
+    "description": "Performing the activity of ironing clothes with distinguishing movements"
+  },
+  "Javelin throw": {
+    "start": "Is the person beginning to perform javelin throw?",
+    "end": "Is the person finishing or stopping the javelin throw action?",
+    "description": "Performing the activity of javelin throw with distinguishing movements"
+  },
+  "Kayaking": {
+    "start": "Is the person beginning to perform kayaking?",
+    "end": "Is the person finishing or stopping the kayaking action?",
+    "description": "Performing the activity of kayaking with distinguishing movements"
+  },
+  "Kite flying": {
+    "start": "Is the person beginning to perform kite flying?",
+    "end": "Is the person finishing or stopping the kite flying action?",
+    "description": "Performing the activity of kite flying with distinguishing movements"
+  },
+  "Kneeling": {
+    "start": "Is the person beginning to perform kneeling?",
+    "end": "Is the person finishing or stopping the kneeling action?",
+    "description": "Performing the activity of kneeling with distinguishing movements"
+  },
+  "Knitting": {
+    "start": "Is the person beginning to perform knitting?",
+    "end": "Is the person finishing or stopping the knitting action?",
+    "description": "Performing the activity of knitting with distinguishing movements"
+  },
+  "Laying tile": {
+    "start": "Is the person beginning to perform laying tile?",
+    "end": "Is the person finishing or stopping the laying tile action?",
+    "description": "Performing the activity of laying tile with distinguishing movements"
+  },
+  "Layup drill in basketball": {
+    "start": "Is the person beginning to perform layup drill in basketball?",
+    "end": "Is the person finishing or stopping the layup drill in basketball action?",
+    "description": "Performing the activity of layup drill in basketball with distinguishing movements"
+  },
+  "Long jump": {
+    "start": "Is the person beginning to perform long jump?",
+    "end": "Is the person finishing or stopping the long jump action?",
+    "description": "Performing the activity of long jump with distinguishing movements"
+  },
+  "Longboarding": {
+    "start": "Is the person beginning to perform longboarding?",
+    "end": "Is the person finishing or stopping the longboarding action?",
+    "description": "Performing the activity of longboarding with distinguishing movements"
+  },
+  "Making a cake": {
+    "start": "Is the person beginning to perform making a cake?",
+    "end": "Is the person finishing or stopping the making a cake action?",
+    "description": "Performing the activity of making a cake with distinguishing movements"
+  },
+  "Making a lemonade": {
+    "start": "Is the person beginning to perform making a lemonade?",
+    "end": "Is the person finishing or stopping the making a lemonade action?",
+    "description": "Performing the activity of making a lemonade with distinguishing movements"
+  },
+  "Making a sandwich": {
+    "start": "Is the person beginning to perform making a sandwich?",
+    "end": "Is the person finishing or stopping the making a sandwich action?",
+    "description": "Performing the activity of making a sandwich with distinguishing movements"
+  },
+  "Making an omelette": {
+    "start": "Is the person beginning to perform making an omelette?",
+    "end": "Is the person finishing or stopping the making an omelette action?",
+    "description": "Performing the activity of making an omelette with distinguishing movements"
+  },
+  "Mixing drinks": {
+    "start": "Is the person beginning to perform mixing drinks?",
+    "end": "Is the person finishing or stopping the mixing drinks action?",
+    "description": "Performing the activity of mixing drinks with distinguishing movements"
+  },
+  "Mooping floor": {
+    "start": "Is the person beginning to perform mooping floor?",
+    "end": "Is the person finishing or stopping the mooping floor action?",
+    "description": "Performing the activity of mooping floor with distinguishing movements"
+  },
+  "Mowing the lawn": {
+    "start": "Is the person beginning to perform mowing the lawn?",
+    "end": "Is the person finishing or stopping the mowing the lawn action?",
+    "description": "Performing the activity of mowing the lawn with distinguishing movements"
+  },
+  "Paintball": {
+    "start": "Is the person beginning to perform paintball?",
+    "end": "Is the person finishing or stopping the paintball action?",
+    "description": "Performing the activity of paintball with distinguishing movements"
+  },
+  "Painting": {
+    "start": "Is the person beginning to perform painting?",
+    "end": "Is the person finishing or stopping the painting action?",
+    "description": "Performing the activity of painting with distinguishing movements"
+  },
+  "Painting fence": {
+    "start": "Is the person beginning to perform painting fence?",
+    "end": "Is the person finishing or stopping the painting fence action?",
+    "description": "Performing the activity of painting fence with distinguishing movements"
+  },
+  "Painting furniture": {
+    "start": "Is the person beginning to perform painting furniture?",
+    "end": "Is the person finishing or stopping the painting furniture action?",
+    "description": "Performing the activity of painting furniture with distinguishing movements"
+  },
+  "Peeling potatoes": {
+    "start": "Is the person beginning to perform peeling potatoes?",
+    "end": "Is the person finishing or stopping the peeling potatoes action?",
+    "description": "Performing the activity of peeling potatoes with distinguishing movements"
+  },
+  "Ping-pong": {
+    "start": "Is the person beginning to perform ping-pong?",
+    "end": "Is the person finishing or stopping the ping-pong action?",
+    "description": "Performing the activity of ping-pong with distinguishing movements"
+  },
+  "Plastering": {
+    "start": "Is the person beginning to perform plastering?",
+    "end": "Is the person finishing or stopping the plastering action?",
+    "description": "Performing the activity of plastering with distinguishing movements"
+  },
+  "Plataform diving": {
+    "start": "Is the person beginning to perform plataform diving?",
+    "end": "Is the person finishing or stopping the plataform diving action?",
+    "description": "Performing the activity of plataform diving with distinguishing movements"
+  },
+  "Playing accordion": {
+    "start": "Is the person beginning to perform playing accordion?",
+    "end": "Is the person finishing or stopping the playing accordion action?",
+    "description": "Performing the activity of playing accordion with distinguishing movements"
+  },
+  "Playing badminton": {
+    "start": "Is the person beginning to perform playing badminton?",
+    "end": "Is the person finishing or stopping the playing badminton action?",
+    "description": "Performing the activity of playing badminton with distinguishing movements"
+  },
+  "Playing bagpipes": {
+    "start": "Is the person beginning to perform playing bagpipes?",
+    "end": "Is the person finishing or stopping the playing bagpipes action?",
+    "description": "Performing the activity of playing bagpipes with distinguishing movements"
+  },
+  "Playing beach volleyball": {
+    "start": "Is the person beginning to perform playing beach volleyball?",
+    "end": "Is the person finishing or stopping the playing beach volleyball action?",
+    "description": "Performing the activity of playing beach volleyball with distinguishing movements"
+  },
+  "Playing blackjack": {
+    "start": "Is the person beginning to perform playing blackjack?",
+    "end": "Is the person finishing or stopping the playing blackjack action?",
+    "description": "Performing the activity of playing blackjack with distinguishing movements"
+  },
+  "Playing congas": {
+    "start": "Is the person beginning to perform playing congas?",
+    "end": "Is the person finishing or stopping the playing congas action?",
+    "description": "Performing the activity of playing congas with distinguishing movements"
+  },
+  "Playing drums": {
+    "start": "Is the person beginning to perform playing drums?",
+    "end": "Is the person finishing or stopping the playing drums action?",
+    "description": "Performing the activity of playing drums with distinguishing movements"
+  },
+  "Playing field hockey": {
+    "start": "Is the person beginning to perform playing field hockey?",
+    "end": "Is the person finishing or stopping the playing field hockey action?",
+    "description": "Performing the activity of playing field hockey with distinguishing movements"
+  },
+  "Playing flauta": {
+    "start": "Is the person beginning to perform playing flauta?",
+    "end": "Is the person finishing or stopping the playing flauta action?",
+    "description": "Performing the activity of playing flauta with distinguishing movements"
+  },
+  "Playing guitarra": {
+    "start": "Is the person beginning to perform playing guitarra?",
+    "end": "Is the person finishing or stopping the playing guitarra action?",
+    "description": "Performing the activity of playing guitarra with distinguishing movements"
+  },
+  "Playing harmonica": {
+    "start": "Is the person beginning to perform playing harmonica?",
+    "end": "Is the person finishing or stopping the playing harmonica action?",
+    "description": "Performing the activity of playing harmonica with distinguishing movements"
+  },
+  "Playing ice hockey": {
+    "start": "Is the person beginning to perform playing ice hockey?",
+    "end": "Is the person finishing or stopping the playing ice hockey action?",
+    "description": "Performing the activity of playing ice hockey with distinguishing movements"
+  },
+  "Playing kickball": {
+    "start": "Is the person beginning to perform playing kickball?",
+    "end": "Is the person finishing or stopping the playing kickball action?",
+    "description": "Performing the activity of playing kickball with distinguishing movements"
+  },
+  "Playing lacrosse": {
+    "start": "Is the person beginning to perform playing lacrosse?",
+    "end": "Is the person finishing or stopping the playing lacrosse action?",
+    "description": "Performing the activity of playing lacrosse with distinguishing movements"
+  },
+  "Playing piano": {
+    "start": "Is the person beginning to perform playing piano?",
+    "end": "Is the person finishing or stopping the playing piano action?",
+    "description": "Performing the activity of playing piano with distinguishing movements"
+  },
+  "Playing polo": {
+    "start": "Is the person beginning to perform playing polo?",
+    "end": "Is the person finishing or stopping the playing polo action?",
+    "description": "Performing the activity of playing polo with distinguishing movements"
+  },
+  "Playing pool": {
+    "start": "Is the person beginning to perform playing pool?",
+    "end": "Is the person finishing or stopping the playing pool action?",
+    "description": "Performing the activity of playing pool with distinguishing movements"
+  },
+  "Playing racquetball": {
+    "start": "Is the person beginning to perform playing racquetball?",
+    "end": "Is the person finishing or stopping the playing racquetball action?",
+    "description": "Performing the activity of playing racquetball with distinguishing movements"
+  },
+  "Playing rubik cube": {
+    "start": "Is the person beginning to perform playing rubik cube?",
+    "end": "Is the person finishing or stopping the playing rubik cube action?",
+    "description": "Performing the activity of playing rubik cube with distinguishing movements"
+  },
+  "Playing saxophone": {
+    "start": "Is the person beginning to perform playing saxophone?",
+    "end": "Is the person finishing or stopping the playing saxophone action?",
+    "description": "Performing the activity of playing saxophone with distinguishing movements"
+  },
+  "Playing squash": {
+    "start": "Is the person beginning to perform playing squash?",
+    "end": "Is the person finishing or stopping the playing squash action?",
+    "description": "Performing the activity of playing squash with distinguishing movements"
+  },
+  "Playing ten pins": {
+    "start": "Is the person beginning to perform playing ten pins?",
+    "end": "Is the person finishing or stopping the playing ten pins action?",
+    "description": "Performing the activity of playing ten pins with distinguishing movements"
+  },
+  "Playing violin": {
+    "start": "Is the person beginning to perform playing violin?",
+    "end": "Is the person finishing or stopping the playing violin action?",
+    "description": "Performing the activity of playing violin with distinguishing movements"
+  },
+  "Playing water polo": {
+    "start": "Is the person beginning to perform playing water polo?",
+    "end": "Is the person finishing or stopping the playing water polo action?",
+    "description": "Performing the activity of playing water polo with distinguishing movements"
+  },
+  "Pole vault": {
+    "start": "Is the person beginning to perform pole vault?",
+    "end": "Is the person finishing or stopping the pole vault action?",
+    "description": "Performing the activity of pole vault with distinguishing movements"
+  },
+  "Polishing forniture": {
+    "start": "Is the person beginning to perform polishing forniture?",
+    "end": "Is the person finishing or stopping the polishing forniture action?",
+    "description": "Performing the activity of polishing forniture with distinguishing movements"
+  },
+  "Polishing shoes": {
+    "start": "Is the person beginning to perform polishing shoes?",
+    "end": "Is the person finishing or stopping the polishing shoes action?",
+    "description": "Performing the activity of polishing shoes with distinguishing movements"
+  },
+  "Powerbocking": {
+    "start": "Is the person beginning to perform powerbocking?",
+    "end": "Is the person finishing or stopping the powerbocking action?",
+    "description": "Performing the activity of powerbocking with distinguishing movements"
+  },
+  "Preparing pasta": {
+    "start": "Is the person beginning to perform preparing pasta?",
+    "end": "Is the person finishing or stopping the preparing pasta action?",
+    "description": "Performing the activity of preparing pasta with distinguishing movements"
+  },
+  "Preparing salad": {
+    "start": "Is the person beginning to perform preparing salad?",
+    "end": "Is the person finishing or stopping the preparing salad action?",
+    "description": "Performing the activity of preparing salad with distinguishing movements"
+  },
+  "Putting in contact lenses": {
+    "start": "Is the person beginning to perform putting in contact lenses?",
+    "end": "Is the person finishing or stopping the putting in contact lenses action?",
+    "description": "Performing the activity of putting in contact lenses with distinguishing movements"
+  },
+  "Putting on makeup": {
+    "start": "Is the person beginning to perform putting on makeup?",
+    "end": "Is the person finishing or stopping the putting on makeup action?",
+    "description": "Performing the activity of putting on makeup with distinguishing movements"
+  },
+  "Putting on shoes": {
+    "start": "Is the person beginning to perform putting on shoes?",
+    "end": "Is the person finishing or stopping the putting on shoes action?",
+    "description": "Performing the activity of putting on shoes with distinguishing movements"
+  },
+  "Rafting": {
+    "start": "Is the person beginning to perform rafting?",
+    "end": "Is the person finishing or stopping the rafting action?",
+    "description": "Performing the activity of rafting with distinguishing movements"
+  },
+  "Raking leaves": {
+    "start": "Is the person beginning to perform raking leaves?",
+    "end": "Is the person finishing or stopping the raking leaves action?",
+    "description": "Performing the activity of raking leaves with distinguishing movements"
+  },
+  "Removing curlers": {
+    "start": "Is the person beginning to perform removing curlers?",
+    "end": "Is the person finishing or stopping the removing curlers action?",
+    "description": "Performing the activity of removing curlers with distinguishing movements"
+  },
+  "Removing ice from car": {
+    "start": "Is the person beginning to perform removing ice from car?",
+    "end": "Is the person finishing or stopping the removing ice from car action?",
+    "description": "Performing the activity of removing ice from car with distinguishing movements"
+  },
+  "Riding bumper cars": {
+    "start": "Is the person beginning to perform riding bumper cars?",
+    "end": "Is the person finishing or stopping the riding bumper cars action?",
+    "description": "Performing the activity of riding bumper cars with distinguishing movements"
+  },
+  "River tubing": {
+    "start": "Is the person beginning to perform river tubing?",
+    "end": "Is the person finishing or stopping the river tubing action?",
+    "description": "Performing the activity of river tubing with distinguishing movements"
+  },
+  "Rock climbing": {
+    "start": "Is the person beginning to perform rock climbing?",
+    "end": "Is the person finishing or stopping the rock climbing action?",
+    "description": "Performing the activity of rock climbing with distinguishing movements"
+  },
+  "Rock-paper-scissors": {
+    "start": "Is the person beginning to perform rock-paper-scissors?",
+    "end": "Is the person finishing or stopping the rock-paper-scissors action?",
+    "description": "Performing the activity of rock-paper-scissors with distinguishing movements"
+  },
+  "Rollerblading": {
+    "start": "Is the person beginning to perform rollerblading?",
+    "end": "Is the person finishing or stopping the rollerblading action?",
+    "description": "Performing the activity of rollerblading with distinguishing movements"
+  },
+  "Roof shingle removal": {
+    "start": "Is the person beginning to perform roof shingle removal?",
+    "end": "Is the person finishing or stopping the roof shingle removal action?",
+    "description": "Performing the activity of roof shingle removal with distinguishing movements"
+  },
+  "Rope skipping": {
+    "start": "Is the person beginning to perform rope skipping?",
+    "end": "Is the person finishing or stopping the rope skipping action?",
+    "description": "Performing the activity of rope skipping with distinguishing movements"
+  },
+  "Running a marathon": {
+    "start": "Is the person beginning to perform running a marathon?",
+    "end": "Is the person finishing or stopping the running a marathon action?",
+    "description": "Performing the activity of running a marathon with distinguishing movements"
+  },
+  "Sailing": {
+    "start": "Is the person beginning to perform sailing?",
+    "end": "Is the person finishing or stopping the sailing action?",
+    "description": "Performing the activity of sailing with distinguishing movements"
+  },
+  "Scuba diving": {
+    "start": "Is the person beginning to perform scuba diving?",
+    "end": "Is the person finishing or stopping the scuba diving action?",
+    "description": "Performing the activity of scuba diving with distinguishing movements"
+  },
+  "Sharpening knives": {
+    "start": "Is the person beginning to perform sharpening knives?",
+    "end": "Is the person finishing or stopping the sharpening knives action?",
+    "description": "Performing the activity of sharpening knives with distinguishing movements"
+  },
+  "Shaving": {
+    "start": "Is the person beginning to perform shaving?",
+    "end": "Is the person finishing or stopping the shaving action?",
+    "description": "Performing the activity of shaving with distinguishing movements"
+  },
+  "Shaving legs": {
+    "start": "Is the person beginning to perform shaving legs?",
+    "end": "Is the person finishing or stopping the shaving legs action?",
+    "description": "Performing the activity of shaving legs with distinguishing movements"
+  },
+  "Shot put": {
+    "start": "Is the person beginning to perform shot put?",
+    "end": "Is the person finishing or stopping the shot put action?",
+    "description": "Performing the activity of shot put with distinguishing movements"
+  },
+  "Shoveling snow": {
+    "start": "Is the person beginning to perform shoveling snow?",
+    "end": "Is the person finishing or stopping the shoveling snow action?",
+    "description": "Performing the activity of shoveling snow with distinguishing movements"
+  },
+  "Shuffleboard": {
+    "start": "Is the person beginning to perform shuffleboard?",
+    "end": "Is the person finishing or stopping the shuffleboard action?",
+    "description": "Performing the activity of shuffleboard with distinguishing movements"
+  },
+  "Skateboarding": {
+    "start": "Is the person beginning to perform skateboarding?",
+    "end": "Is the person finishing or stopping the skateboarding action?",
+    "description": "Performing the activity of skateboarding with distinguishing movements"
+  },
+  "Skiing": {
+    "start": "Is the person beginning to perform skiing?",
+    "end": "Is the person finishing or stopping the skiing action?",
+    "description": "Performing the activity of skiing with distinguishing movements"
+  },
+  "Slacklining": {
+    "start": "Is the person beginning to perform slacklining?",
+    "end": "Is the person finishing or stopping the slacklining action?",
+    "description": "Performing the activity of slacklining with distinguishing movements"
+  },
+  "Smoking a cigarette": {
+    "start": "Is the person beginning to perform smoking a cigarette?",
+    "end": "Is the person finishing or stopping the smoking a cigarette action?",
+    "description": "Performing the activity of smoking a cigarette with distinguishing movements"
+  },
+  "Smoking hookah": {
+    "start": "Is the person beginning to perform smoking hookah?",
+    "end": "Is the person finishing or stopping the smoking hookah action?",
+    "description": "Performing the activity of smoking hookah with distinguishing movements"
+  },
+  "Snatch": {
+    "start": "Is the person beginning to perform snatch?",
+    "end": "Is the person finishing or stopping the snatch action?",
+    "description": "Performing the activity of snatch with distinguishing movements"
+  },
+  "Snow tubing": {
+    "start": "Is the person beginning to perform snow tubing?",
+    "end": "Is the person finishing or stopping the snow tubing action?",
+    "description": "Performing the activity of snow tubing with distinguishing movements"
+  },
+  "Snowboarding": {
+    "start": "Is the person beginning to perform snowboarding?",
+    "end": "Is the person finishing or stopping the snowboarding action?",
+    "description": "Performing the activity of snowboarding with distinguishing movements"
+  },
+  "Spinning": {
+    "start": "Is the person beginning to perform spinning?",
+    "end": "Is the person finishing or stopping the spinning action?",
+    "description": "Performing the activity of spinning with distinguishing movements"
+  },
+  "Spread mulch": {
+    "start": "Is the person beginning to perform spread mulch?",
+    "end": "Is the person finishing or stopping the spread mulch action?",
+    "description": "Performing the activity of spread mulch with distinguishing movements"
+  },
+  "Springboard diving": {
+    "start": "Is the person beginning to perform springboard diving?",
+    "end": "Is the person finishing or stopping the springboard diving action?",
+    "description": "Performing the activity of springboard diving with distinguishing movements"
+  },
+  "Starting a campfire": {
+    "start": "Is the person beginning to perform starting a campfire?",
+    "end": "Is the person finishing or stopping the starting a campfire action?",
+    "description": "Performing the activity of starting a campfire with distinguishing movements"
+  },
+  "Sumo": {
+    "start": "Is the person beginning to perform sumo?",
+    "end": "Is the person finishing or stopping the sumo action?",
+    "description": "Performing the activity of sumo with distinguishing movements"
+  },
+  "Surfing": {
+    "start": "Is the person beginning to perform surfing?",
+    "end": "Is the person finishing or stopping the surfing action?",
+    "description": "Performing the activity of surfing with distinguishing movements"
+  },
+  "Swimming": {
+    "start": "Is the person beginning to perform swimming?",
+    "end": "Is the person finishing or stopping the swimming action?",
+    "description": "Performing the activity of swimming with distinguishing movements"
+  },
+  "Swinging at the playground": {
+    "start": "Is the person beginning to perform swinging at the playground?",
+    "end": "Is the person finishing or stopping the swinging at the playground action?",
+    "description": "Performing the activity of swinging at the playground with distinguishing movements"
+  },
+  "Table soccer": {
+    "start": "Is the person beginning to perform table soccer?",
+    "end": "Is the person finishing or stopping the table soccer action?",
+    "description": "Performing the activity of table soccer with distinguishing movements"
+  },
+  "Tai chi": {
+    "start": "Is the person beginning to perform tai chi?",
+    "end": "Is the person finishing or stopping the tai chi action?",
+    "description": "Performing the activity of tai chi with distinguishing movements"
+  },
+  "Tango": {
+    "start": "Is the person beginning to perform tango?",
+    "end": "Is the person finishing or stopping the tango action?",
+    "description": "Performing the activity of tango with distinguishing movements"
+  },
+  "Tennis serve with ball bouncing": {
+    "start": "Is the person beginning to perform tennis serve with ball bouncing?",
+    "end": "Is the person finishing or stopping the tennis serve with ball bouncing action?",
+    "description": "Performing the activity of tennis serve with ball bouncing with distinguishing movements"
+  },
+  "Throwing darts": {
+    "start": "Is the person beginning to perform throwing darts?",
+    "end": "Is the person finishing or stopping the throwing darts action?",
+    "description": "Performing the activity of throwing darts with distinguishing movements"
+  },
+  "Trimming branches or hedges": {
+    "start": "Is the person beginning to perform trimming branches or hedges?",
+    "end": "Is the person finishing or stopping the trimming branches or hedges action?",
+    "description": "Performing the activity of trimming branches or hedges with distinguishing movements"
+  },
+  "Triple jump": {
+    "start": "Is the person beginning to perform triple jump?",
+    "end": "Is the person finishing or stopping the triple jump action?",
+    "description": "Performing the activity of triple jump with distinguishing movements"
+  },
+  "Tug of war": {
+    "start": "Is the person beginning to perform tug of war?",
+    "end": "Is the person finishing or stopping the tug of war action?",
+    "description": "Performing the activity of tug of war with distinguishing movements"
+  },
+  "Tumbling": {
+    "start": "Is the person beginning to perform tumbling?",
+    "end": "Is the person finishing or stopping the tumbling action?",
+    "description": "Performing the activity of tumbling with distinguishing movements"
+  },
+  "Using parallel bars": {
+    "start": "Is the person beginning to perform using parallel bars?",
+    "end": "Is the person finishing or stopping the using parallel bars action?",
+    "description": "Performing the activity of using parallel bars with distinguishing movements"
+  },
+  "Using the balance beam": {
+    "start": "Is the person beginning to perform using the balance beam?",
+    "end": "Is the person finishing or stopping the using the balance beam action?",
+    "description": "Performing the activity of using the balance beam with distinguishing movements"
+  },
+  "Using the monkey bar": {
+    "start": "Is the person beginning to perform using the monkey bar?",
+    "end": "Is the person finishing or stopping the using the monkey bar action?",
+    "description": "Performing the activity of using the monkey bar with distinguishing movements"
+  },
+  "Using the pommel horse": {
+    "start": "Is the person beginning to perform using the pommel horse?",
+    "end": "Is the person finishing or stopping the using the pommel horse action?",
+    "description": "Performing the activity of using the pommel horse with distinguishing movements"
+  },
+  "Using the rowing machine": {
+    "start": "Is the person beginning to perform using the rowing machine?",
+    "end": "Is the person finishing or stopping the using the rowing machine action?",
+    "description": "Performing the activity of using the rowing machine with distinguishing movements"
+  },
+  "Using uneven bars": {
+    "start": "Is the person beginning to perform using uneven bars?",
+    "end": "Is the person finishing or stopping the using uneven bars action?",
+    "description": "Performing the activity of using uneven bars with distinguishing movements"
+  },
+  "Vacuuming floor": {
+    "start": "Is the person beginning to perform vacuuming floor?",
+    "end": "Is the person finishing or stopping the vacuuming floor action?",
+    "description": "Performing the activity of vacuuming floor with distinguishing movements"
+  },
+  "Volleyball": {
+    "start": "Is the person beginning to perform volleyball?",
+    "end": "Is the person finishing or stopping the volleyball action?",
+    "description": "Performing the activity of volleyball with distinguishing movements"
+  },
+  "Wakeboarding": {
+    "start": "Is the person beginning to perform wakeboarding?",
+    "end": "Is the person finishing or stopping the wakeboarding action?",
+    "description": "Performing the activity of wakeboarding with distinguishing movements"
+  },
+  "Walking the dog": {
+    "start": "Is the person beginning to perform walking the dog?",
+    "end": "Is the person finishing or stopping the walking the dog action?",
+    "description": "Performing the activity of walking the dog with distinguishing movements"
+  },
+  "Washing dishes": {
+    "start": "Is the person beginning to perform washing dishes?",
+    "end": "Is the person finishing or stopping the washing dishes action?",
+    "description": "Performing the activity of washing dishes with distinguishing movements"
+  },
+  "Washing face": {
+    "start": "Is the person beginning to perform washing face?",
+    "end": "Is the person finishing or stopping the washing face action?",
+    "description": "Performing the activity of washing face with distinguishing movements"
+  },
+  "Washing hands": {
+    "start": "Is the person beginning to perform washing hands?",
+    "end": "Is the person finishing or stopping the washing hands action?",
+    "description": "Performing the activity of washing hands with distinguishing movements"
+  },
+  "Waterskiing": {
+    "start": "Is the person beginning to perform waterskiing?",
+    "end": "Is the person finishing or stopping the waterskiing action?",
+    "description": "Performing the activity of waterskiing with distinguishing movements"
+  },
+  "Waxing skis": {
+    "start": "Is the person beginning to perform waxing skis?",
+    "end": "Is the person finishing or stopping the waxing skis action?",
+    "description": "Performing the activity of waxing skis with distinguishing movements"
+  },
+  "Welding": {
+    "start": "Is the person beginning to perform welding?",
+    "end": "Is the person finishing or stopping the welding action?",
+    "description": "Performing the activity of welding with distinguishing movements"
+  },
+  "Windsurfing": {
+    "start": "Is the person beginning to perform windsurfing?",
+    "end": "Is the person finishing or stopping the windsurfing action?",
+    "description": "Performing the activity of windsurfing with distinguishing movements"
+  },
+  "Wrapping presents": {
+    "start": "Is the person beginning to perform wrapping presents?",
+    "end": "Is the person finishing or stopping the wrapping presents action?",
+    "description": "Performing the activity of wrapping presents with distinguishing movements"
+  },
+  "Zumba": {
+    "start": "Is the person beginning to perform zumba?",
+    "end": "Is the person finishing or stopping the zumba action?",
+    "description": "Performing the activity of zumba with distinguishing movements"
+  }
+}

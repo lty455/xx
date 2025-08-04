@@ -1,0 +1,1701 @@
+{
+    "video_test_0000004.mp4": [
+        {
+            "CricketBowling": {
+                "start": "Is the bowler in a standing position at the beginning of the action?",
+                "end": "Has the ball been released by the bowler?",
+                "description": "The bowler takes a few steps forward, releases the ball with a powerful throw, and the camera follows the ball towards the batsman."
+            }
+        },
+        {
+            "CricketShot": {
+                "start": "Is the batsman standing at the crease with his bat in a ready position?",
+                "end": "Is the ball flying through the air towards the boundary?",
+                "description": "A batsman prepares for a shot, swings his bat, and hits the ball, which flies towards the boundary."
+            }
+        }
+    ],
+    "video_test_0000006.mp4": [
+        {
+            "VolleyballSpiking": {
+                "start": "Is the volleyball player's body fully extended in the first frame?",
+                "end": "Has the volleyball been completely hit by the player's hands in the last frame?",
+                "description": "A volleyball player executes a powerful spike, extending their body fully with arms outstretched and looking down at the ball, which is just above their hands."
+            }
+        }
+    ],
+    "video_test_0000007.mp4": [
+        {
+            "JavelinThrow": {
+                "start": "Is the person holding the javelin horizontally above their head with both hands?",
+                "end": "Is the javelin in mid-air after being released?",
+                "description": "A javelin thrower rotates their body, swings the javelin back and forth, and then releases it, sending it flying through the air."
+            }
+        }
+    ],
+    "video_test_0000011.mp4": [
+        {
+            "Shotput": {
+                "start": "Is the athlete holding the shot put behind her head in a single video frame?",
+                "end": "Is the athlete's arms fully extended and body facing the direction of the throw in a single video frame?",
+                "description": "The athlete performs a shot put throw, swinging the shot put forward and upward, rotating her body to build momentum, and then releasing the shot put with full extension of her arms and body."
+            }
+        },
+        {
+            "HammerThrow": {
+                "start": "Is the athlete standing in the throwing circle holding the hammer in one hand?",
+                "end": "Has the hammer been released and is it flying through the air?",
+                "description": "The athlete performs a hammer throw, rotating her body to build momentum before releasing the hammer with force."
+            }
+        }
+    ],
+    "video_test_0000026.mp4": [
+        {
+            "TennisSwing": {
+                "start": "Is the girl's racket raised above her head in preparation for a swing?",
+                "end": "Has the girl completed her swing and the ball is visible in mid-air?",
+                "description": "A young girl executes a powerful tennis swing, rotating her body and maintaining balance."
+            }
+        }
+    ],
+    "video_test_0000028.mp4": [
+        {
+            "GolfSwing": {
+                "start": "Is the golfer positioned at the ready with the club back and both hands holding it?",
+                "end": "Is the golfer completing the follow-through with the club fully extended behind them?",
+                "description": "The golfer performs a golf swing in a serene outdoor setting, transitioning smoothly from the backswing to the downswing, generating power, and following through with a composed posture."
+            }
+        }
+    ],
+    "video_test_0000039.mp4": [
+        {
+            "TennisSwing": {
+                "start": "Is the man holding a tennis racket in his right hand?",
+                "end": "Has the man completed a full swing with the racket?",
+                "description": "A tennis player prepares for a groundstroke by positioning themselves near the baseline, holding a racket and a ball, and getting into a ready stance."
+            }
+        }
+    ],
+    "video_test_0000045.mp4": [
+        {
+            "Shotput": {
+                "start": "Is the athlete holding the shot put in his right hand at shoulder height?",
+                "end": "Is the athlete's arm fully extended towards the target area after releasing the shot put?",
+                "description": "The shot put throw involves a series of movements including a swing behind the head, a spin for momentum, and a powerful forward release."
+            }
+        },
+        {
+            "ThrowDiscus": {
+                "start": "Is the athlete standing in a circular throwing area at the beginning of the video?",
+                "end": "Has the athlete already released the discus and is walking away from the throwing area?",
+                "description": "The action involves a male athlete performing a discus throw, characterized by a wide stance, rotational movement, and a powerful release of the discus with a flick of the wrist."
+            }
+        }
+    ],
+    "video_test_0000046.mp4": [
+        {
+            "GolfSwing": {
+                "start": "Is the golfer's feet shoulder-width apart?",
+                "end": "Has the club head made contact with the golf ball?",
+                "description": "A golfer prepares and executes a swing, rotating their body and moving their arms to generate power for hitting the ball."
+            }
+        }
+    ],
+    "video_test_0000051.mp4": [
+        {
+            "Billiards": {
+                "start": "Is the man holding his cue stick with both hands?",
+                "end": "Is the man maintaining his balance after completing the shot?",
+                "description": "A man prepares and executes a billiards shot, focusing on precision and control."
+            }
+        }
+    ],
+    "video_test_0000058.mp4": [
+        {
+            "CleanAndJerk": {
+                "start": "Is the person gripping the barbell with a wide stance?",
+                "end": "Is the person holding the barbell overhead with fully extended arms?",
+                "description": "A weightlifter lifts a barbell from the floor to their shoulders and then presses it overhead."
+            }
+        }
+    ],
+    "video_test_0000062.mp4": [
+        {
+            "LongJump": {
+                "start": "Is the athlete's body leaning forward as he approaches the takeoff board?",
+                "end": "Has the athlete landed smoothly in the sandpit?",
+                "description": "The athlete performs a LongJump by running up, leaping into the air, and landing in a sandpit."
+            }
+        }
+    ],
+    "video_test_0000073.mp4": [
+        {
+            "ThrowDiscus": {
+                "start": "Is the athlete holding the discus behind his neck at the beginning of the throw?",
+                "end": "Is the discus visible in mid-air after the throw has been released?",
+                "description": "The athlete performs a Discus Throw by swinging the discus forward, rotating his body, and releasing it with a flick of his wrist, sending it flying through the air."
+            }
+        }
+    ],
+    "video_test_0000085.mp4": [
+        {
+            "Diving": {
+                "start": "Is the young girl standing on a diving board?",
+                "end": "Has the young girl fully submerged in the pool?",
+                "description": "A young girl dives into a pool by leaping off a diving board and extending her arms outwards."
+            }
+        }
+    ],
+    "video_test_0000113.mp4": [
+        {
+            "GolfSwing": {
+                "start": "Is the golfer's feet shoulder-width apart?",
+                "end": "Is the club moving forward and upward after the swing?",
+                "description": "A golfer transitions from a ready stance to a full swing, rotating their body and extending their arms to hit the ball."
+            }
+        }
+    ],
+    "video_test_0000129.mp4": [
+        {
+            "Shotput": {
+                "start": "Is the athlete standing in a throwing circle holding the shotput in their dominant hand?",
+                "end": "Is the shotput visible in mid-air after being released?",
+                "description": "The action involves athletes throwing a heavy metal ball (shotput) with a series of steps and rotations to build momentum, culminating in a powerful release and follow-through."
+            }
+        },
+        {
+            "HammerThrow": {
+                "start": "Is the athlete gripping the hammer with both hands at the beginning of the throw?",
+                "end": "Has the hammer been released and is it in mid-air at the end of the throw?",
+                "description": "The action involves an athlete spinning to build momentum and then releasing a heavy hammer, which flies through the air with considerable force."
+            }
+        }
+    ],
+    "video_test_0000131.mp4": [
+        {
+            "CliffDiving": {
+                "start": "Is the diver standing at the edge of the platform with arms outstretched?",
+                "end": "Has the diver entered the water with a splash?",
+                "description": "The action involves a diver preparing and executing a jump from a high platform into the sea, showcasing skill and precision."
+            }
+        }
+    ],
+    "video_test_0000173.mp4": [
+        {
+            "CliffDiving": {
+                "start": "Is the diver shirtless and wearing swim trunks while standing at the edge of the cliff?",
+                "end": "Is the diver smiling and looking towards the camera after emerging from the water?",
+                "description": "A diver prepares, leaps off a cliff, executes a flip in mid-air, and successfully lands in the water."
+            }
+        }
+    ],
+    "video_test_0000179.mp4": [
+        {
+            "BasketballDunk": {
+                "start": "Is the basketball player in a white jersey with the number 6 jumping towards the basket?",
+                "end": "Has the basketball player successfully dunked the ball through the hoop?",
+                "description": "A basketball player jumps towards the basket, extends his arms to reach the ball, and successfully dunks it through the hoop."
+            }
+        }
+    ],
+    "video_test_0000188.mp4": [
+        {
+            "LongJump": {
+                "start": "Is the person standing with their feet together and knees slightly bent?",
+                "end": "Has the person landed smoothly in the sand pit?",
+                "description": "The action involves a person preparing for and executing a long jump, characterized by running, leaping, and landing in a sand pit."
+            }
+        }
+    ],
+    "video_test_0000211.mp4": [
+        {
+            "VolleyballSpiking": {
+                "start": "Is the player in a yellow jersey approaching the net with a focused stance?",
+                "end": "Has the player extended their arm fully to make contact with the ball mid-air?",
+                "description": "The action involves a player in a yellow jersey executing a powerful spike by approaching the net with focus, bending knees for agility, positioning arms, leaping, extending the arm fully, and making contact with the ball mid-air to send it over the net."
+            }
+        }
+    ],
+    "video_test_0000220.mp4": [
+        {
+            "HighJump": {
+                "start": "Is the athlete's body fully extended as she approaches the bar?",
+                "end": "Has the athlete landed safely on the mat below after clearing the bar?",
+                "description": "The athlete performs a high jump, clearing the bar and landing safely on the mat."
+            }
+        }
+    ],
+    "video_test_0000238.mp4": [
+        {
+            "GolfSwing": {
+                "start": "Is the golfer standing with her feet shoulder-width apart?",
+                "end": "Has the golfer completed her downswing and followed through with the club?",
+                "description": "A golfer prepares for a swing by positioning herself with a wide stance, rotating her hips and shoulders, and initiating the backswing."
+            }
+        }
+    ],
+    "video_test_0000242.mp4": [
+        {
+            "LongJump": {
+                "start": "Is the athlete's bib clearly visible in the first frame?",
+                "end": "Has the athlete landed in the sandpit in the last frame?",
+                "description": "The athlete runs, jumps, and lands in a long jump, demonstrating a specific technique and form."
+            }
+        }
+    ],
+    "video_test_0000250.mp4": [
+        {
+            "BasketballDunk": {
+                "start": "Is the player wearing a black jersey with the number 74?",
+                "end": "Is the player hanging onto the rim after completing the dunk?",
+                "description": "A basketball player executes a dunk by leaping into the air and hanging onto the rim."
+            }
+        }
+    ],
+    "video_test_0000254.mp4": [
+        {
+            "Diving": {
+                "start": "Is the person standing on a diving board?",
+                "end": "Is there a splash visible in the water?",
+                "description": "A person performs a backflip while diving into a swimming pool."
+            }
+        }
+    ],
+    "video_test_0000273.mp4": [
+        {
+            "CricketBowling": {
+                "start": "Is the bowler standing on the bowling crease?",
+                "end": "Has the ball been released and is it in mid-air?",
+                "description": "A bowler delivers a cricket ball towards the batsman, with the bowler's body angled towards the batsman and the ball being released with force."
+            }
+        },
+        {
+            "CricketShot": {
+                "start": "Is the bowler standing on the bowling crease in a typical bowling stance?",
+                "end": "Is the ball seen flying past the batsman?",
+                "description": "A bowler delivers a cricket ball towards the batsman, who attempts to hit it but misses, allowing the ball to pass by."
+            }
+        }
+    ],
+    "video_test_0000278.mp4": [
+        {
+            "CliffDiving": {
+                "start": "Is the person standing still on the edge of the cliff?",
+                "end": "Is there a splash in the water?",
+                "description": "A diver leaps from a cliff, descending towards the water with a powerful, fluid motion."
+            }
+        }
+    ],
+    "video_test_0000285.mp4": [
+        {
+            "CliffDiving": {
+                "start": "Is the diver wearing a yellow wetsuit in the first frame?",
+                "end": "Is the man in the blue swimsuit captured from the front as he leaps off the cliff in the last frame?",
+                "description": "Cliff diving involves divers jumping from high cliffs into the ocean, showcasing their athleticism and skill against a dramatic coastal backdrop."
+            }
+        }
+    ],
+    "video_test_0000292.mp4": [
+        {
+            "SoccerPenalty": {
+                "start": "Is the soccer player standing with his feet shoulder-width apart?",
+                "end": "Has the ball gone into the net?",
+                "description": "A soccer player takes a penalty kick by swinging his leg back and forth to strike the ball towards the goal."
+            }
+        }
+    ],
+    "video_test_0000293.mp4": [
+        {
+            "JavelinThrow": {
+                "start": "Is the athlete holding the javelin horizontally across her shoulders with both hands?",
+                "end": "Has the athlete released the javelin while her throwing hand is ahead and as high as possible?",
+                "description": "A female athlete throws a javelin by running forward, planting her left leg, pushing off with her right leg, and releasing the javelin with her throwing hand high."
+            }
+        }
+    ],
+    "video_test_0000308.mp4": [
+        {
+            "HighJump": {
+                "start": "Is the female athlete's body low to the ground as she prepares for the jump?",
+                "end": "Has the female athlete landed on the red mat provided for safety?",
+                "description": "A female athlete performs a high jump, clearing the bar with her legs extended horizontally."
+            }
+        }
+    ],
+    "video_test_0000319.mp4": [
+        {
+            "Shotput": {
+                "start": "Is the athlete in a ready stance holding the shotput close to his neck with both hands?",
+                "end": "Is the athlete in the final position just before or after releasing the shotput?",
+                "description": "The shotput throw involves a series of rotations and arm movements to build momentum before releasing the shotput."
+            }
+        },
+        {
+            "HammerThrow": {
+                "start": "Is the athlete standing in the circular throwing area with white lines?",
+                "end": "Has the hammer left the athlete's hand and is in mid-air?",
+                "description": "The hammer throw involves an athlete swinging a heavy metal ball attached to a wire rope around their body to generate maximum force for a powerful throw."
+            }
+        }
+    ],
+    "video_test_0000324.mp4": [
+        {
+            "BaseballPitch": {
+                "start": "Is the woman standing on a baseball mound?",
+                "end": "Has the woman thrown the ball towards home plate?",
+                "description": "A woman pitches a baseball by winding up and throwing the ball towards home plate."
+            }
+        }
+    ],
+    "video_test_0000353.mp4": [
+        {
+            "CricketBowling": {
+                "start": "Is the bowler's arm fully extended back in preparation for the delivery?",
+                "end": "Is the ball captured mid-air showing its trajectory after being released?",
+                "description": "The action of cricket bowling involves a bowler delivering the ball with precision and power, focusing on the bowler's stance, arm extension, and the ball's trajectory."
+            }
+        },
+        {
+            "CricketShot": {
+                "start": "Is the bowler's arm fully extended forward as he releases the ball?",
+                "end": "Has the ball made contact with the batsman?",
+                "description": "A bowler delivers a ball towards the batsman in a typical bowling stance, with the ball shown in mid-air approaching the batsman."
+            }
+        }
+    ],
+    "video_test_0000355.mp4": [
+        {
+            "LongJump": {
+                "start": "Is the person in mid-air with their body fully extended?",
+                "end": "Is the person on the ground with their feet touching the landing area?",
+                "description": "The action involves a person jumping forward, extending their body, and landing on a designated area."
+            }
+        }
+    ],
+    "video_test_0000357.mp4": [
+        {
+            "CliffDiving": {
+                "start": "Is the person standing at the edge of a cliff with their arms raised above their head?",
+                "end": "Is there a visible splash in the water after the person dives?",
+                "description": "Cliff diving involves leaping off a cliff or rocky outcrop into water, showcasing the individual's courage and the dramatic transition from air to water."
+            }
+        }
+    ],
+    "video_test_0000367.mp4": [
+        {
+            "Shotput": {
+                "start": "Is the woman holding the shot put with both hands at the beginning of the action?",
+                "end": "Has the shot put left the woman's hand and is traveling through the air?",
+                "description": "The action involves a person rotating their body to build momentum and then extending their arm to throw a heavy ball called a shot put."
+            }
+        },
+        {
+            "HammerThrow": {
+                "start": "Is the woman standing on a circular throwing platform?",
+                "end": "Is the hammer visible in a close-up shot after landing?",
+                "description": "The Hammer Throw involves a female athlete swinging a heavy metal ball attached to a wire around her head, rotating her body to build momentum, and then releasing the hammer to achieve maximum distance."
+            }
+        }
+    ],
+    "video_test_0000372.mp4": [
+        {
+            "Shotput": {
+                "start": "Is the athlete standing inside a designated throwing circle?",
+                "end": "Has the shot put landed beyond the throwing circle?",
+                "description": "The athlete prepares for a shot put throw by standing inside a designated circle, gaining momentum, spinning rapidly, and releasing the shot put with a powerful throw."
+            }
+        },
+        {
+            "HammerThrow": {
+                "start": "Is the athlete standing within the designated throwing circle?",
+                "end": "Is the hammer visible in mid-air after being released?",
+                "description": "The athlete swings the hammer around his body to build momentum, releases it with a powerful spin, and follows through with his motion."
+            }
+        }
+    ],
+    "video_test_0000374.mp4": [
+        {
+            "TennisSwing": {
+                "start": "Is the man's left arm extended forward with the palm facing up?",
+                "end": "Is the racket brought down towards the man's body?",
+                "description": "A tennis player prepares to serve by positioning themselves and then executing a controlled overhead swing with the racket."
+            }
+        }
+    ],
+    "video_test_0000379.mp4": [
+        {
+            "LongJump": {
+                "start": "Is the athlete standing on the track with her feet shoulder-width apart?",
+                "end": "Has the athlete landed on the sandpit?",
+                "description": "A female athlete performs a long jump, running, taking off, and landing in a sandpit."
+            }
+        }
+    ],
+    "video_test_0000392.mp4": [
+        {
+            "CricketBowling": {
+                "start": "Is the bowler wearing a dark blue cricket uniform?",
+                "end": "Is the cricket ball visible in mid-air as it travels towards the batsman?",
+                "description": "A bowler runs up to bowl a cricket ball, swinging his arm back and forth to release the ball towards the batsman."
+            }
+        },
+        {
+            "CricketShot": {
+                "start": "Is the player holding the cricket ball with a specific grip at the beginning of the video?",
+                "end": "Is the player in the final position after completing the bowling action?",
+                "description": "The video demonstrates various grips and techniques for swinging the ball in cricket, focusing on the mechanics of grip and wrist movement to control the ball's swing."
+            }
+        }
+    ],
+    "video_test_0000405.mp4": [
+        {
+            "CricketShot": {
+                "start": "Is the boy wearing a cap at the beginning of the video?",
+                "end": "Is the boy wearing protective gear at the end of the video?",
+                "description": "The video captures a young boy practicing cricket shots, transitioning from a casual stance to a more formal batting stance within a cricket cage."
+            }
+        },
+        {
+            "CricketBowling": {
+                "start": "Is the young boy standing in front of a garage door holding a cricket bat?",
+                "end": "Is the batsman inside the net maintaining their batting stance?",
+                "description": "The action depicts a young boy practicing underarm bowling techniques in a cricket practice setting."
+            }
+        }
+    ],
+    "video_test_0000412.mp4": [
+        {
+            "Billiards": {
+                "start": "Is the man holding the pool cue with both hands?",
+                "end": "Are the balls still moving on the table after the cue ball has been hit?",
+                "description": "A man prepares and executes a billiard shot, demonstrating precision and control."
+            }
+        }
+    ],
+    "video_test_0000413.mp4": [
+        {
+            "FrisbeeCatch": {
+                "start": "Is the player in a white jersey running towards the goal with the Frisbee in his right hand?",
+                "end": "Has the player successfully caught the Frisbee with his left hand and brought it down to his chest?",
+                "description": "A player in a white jersey leaps into the air to catch a Frisbee with his left hand, extending his body and bending his knees."
+            }
+        }
+    ],
+    "video_test_0000423.mp4": [
+        {
+            "TennisSwing": {
+                "start": "Is the man standing on a tennis court?",
+                "end": "Is the man holding the tennis racket in his right hand?",
+                "description": "A man practices his tennis swing by taking steps forward and swinging the racket back and forth."
+            }
+        }
+    ],
+    "video_test_0000426.mp4": [
+        {
+            "VolleyballSpiking": {
+                "start": "Is the volleyball player in a blue jersey jumping high into the air?",
+                "end": "Has the volleyball player successfully spiked the ball over the net?",
+                "description": "A volleyball player in a blue jersey leaps high into the air, extending their arm to spike the ball over the net."
+            }
+        }
+    ],
+    "video_test_0000429.mp4": [
+        {
+            "VolleyballSpiking": {
+                "start": "Is the volleyball player's right arm extended upwards in preparation for spiking?",
+                "end": "Has the volleyball player made contact with the ball during the spike?",
+                "description": "A volleyball player prepares to spike by extending their right arm and shifting their body forward to make contact with the ball."
+            }
+        }
+    ],
+    "video_test_0000437.mp4": [
+        {
+            "CliffDiving": {
+                "start": "Is the diver's body fully extended horizontally at the beginning of the jump?",
+                "end": "Is there a splash visible where the diver enters the water at the end of the jump?",
+                "description": "A cliff diver leaps off a high cliff, extending their body horizontally during the descent towards the water."
+            }
+        }
+    ],
+    "video_test_0000442.mp4": [
+        {
+            "LongJump": {
+                "start": "Is the athlete positioned at the takeoff board with their body angled forward?",
+                "end": "Has the athlete landed gracefully on the sandpit?",
+                "description": "The LongJump involves an athlete leaping horizontally from a takeoff board and landing in a sandpit."
+            }
+        }
+    ],
+    "video_test_0000443.mp4": [
+        {
+            "Shotput": {
+                "start": "Is the athlete holding the shot put near his neck in the first frame?",
+                "end": "Is the athlete walking away from the throwing area in the fourth frame?",
+                "description": "The shot put involves a male athlete preparing, executing, and following through with a throw of a heavy metal ball, showcasing a distinct sequence of preparation, release, and observation."
+            }
+        },
+        {
+            "JavelinThrow": {
+                "start": "Is the athlete holding the javelin with both hands behind his neck at the beginning of the throw?",
+                "end": "Is the javelin visible in mid-air after being released by the athlete?",
+                "description": "The athlete prepares for a throw by positioning the javelin behind his neck, then swings it back over his head to build momentum before releasing it with a powerful forward motion."
+            }
+        }
+    ],
+    "video_test_0000444.mp4": [
+        {
+            "PoleVault": {
+                "start": "Is the athlete wearing a yellow and green uniform at the beginning of the video?",
+                "end": "Has the athlete landed safely on the mat after clearing the bar?",
+                "description": "The athlete runs with a pole, plants it, propels upward, clears the bar, and lands safely."
+            }
+        }
+    ],
+    "video_test_0000448.mp4": [
+        {
+            "CricketShot": {
+                "start": "Is the cricketer in a batting stance holding a cricket bat?",
+                "end": "Has the cricketer completed his swing and followed through with the shot?",
+                "description": "A cricketer executes a powerful swing, hitting the ball with force."
+            }
+        }
+    ],
+    "video_test_0000450.mp4": [
+        {
+            "VolleyballSpiking": {
+                "start": "Is the player in a red jersey jumping high above the net with a volleyball in her hands?",
+                "end": "Has the volleyball crossed the net and landed on the opposing team's side of the court?",
+                "description": "A player in a red jersey jumps high above the net, fully extending her body and arm to spike the volleyball over to the opposing team."
+            }
+        }
+    ],
+    "video_test_0000461.mp4": [
+        {
+            "Diving": {
+                "start": "Is the woman standing on the edge of a diving board?",
+                "end": "Has the woman completely submerged underwater?",
+                "description": "A diver leaps off a board, rotates mid-air, and enters the water with a splash."
+            }
+        }
+    ],
+    "video_test_0000464.mp4": [
+        {
+            "PoleVault": {
+                "start": "Is Brad Walker standing at the starting point with the pole positioned horizontally across his shoulders?",
+                "end": "Has Brad Walker successfully landed safely on the mat beyond the bar?",
+                "description": "Pole Vault involves an athlete running up with a pole, planting it into the ground, and using it to propel themselves over a bar."
+            }
+        }
+    ],
+    "video_test_0000504.mp4": [
+        {
+            "CleanAndJerk": {
+                "start": "Is the person standing upright with feet shoulder-width apart and knees slightly bent?",
+                "end": "Is the barbell resting on the floor?",
+                "description": "The Clean and Jerk involves lifting a barbell from the floor to the shoulders and then pushing it overhead."
+            }
+        }
+    ],
+    "video_test_0000505.mp4": [
+        {
+            "CleanAndJerk": {
+                "start": "Is the man lifting the barbell from the floor?",
+                "end": "Is the man pressing the barbell overhead?",
+                "description": "A man lifts a barbell from the floor to his shoulders and then presses it overhead."
+            }
+        }
+    ],
+    "video_test_0000538.mp4": [
+        {
+            "HighJump": {
+                "start": "Is the athlete standing on the track facing the bar at the beginning of the video?",
+                "end": "Has the athlete landed safely on the mat after clearing the bar?",
+                "description": "The athlete performs a high jump, clearing the bar and landing safely on the mat."
+            }
+        }
+    ],
+    "video_test_0000541.mp4": [
+        {
+            "SoccerPenalty": {
+                "start": "Is the soccer player in a blue uniform taking a penalty kick?",
+                "end": "Is the player celebrating by running around the goalpost?",
+                "description": "A soccer player in a blue uniform takes a penalty kick against a goalkeeper in a red uniform, successfully scoring a goal."
+            }
+        }
+    ],
+    "video_test_0000549.mp4": [
+        {
+            "CricketBowling": {
+                "start": "Is the bowler standing on the bowling crease with his feet shoulder-width apart?",
+                "end": "Has the bowler delivered the ball towards the batsman with his right arm fully extended?",
+                "description": "The bowler transfers momentum from his body into the ball by leaning forward and swinging his right arm down."
+            }
+        },
+        {
+            "CricketShot": {
+                "start": "Is the batsman in a batting stance?",
+                "end": "Has the ball been delivered to the batsman?",
+                "description": "A batsman prepares to face a delivery from an off-spinner while the wicket-keeper is positioned behind the stumps."
+            }
+        }
+    ],
+    "video_test_0000556.mp4": [
+        {
+            "Billiards": {
+                "start": "Is the video starting with a wide shot of the snooker table?",
+                "end": "Is the video concluding with a wide shot of the table?",
+                "description": "The video captures a snooker match between Selby and O'Sullivan, focusing on the strategic and precise movements of the players as they take shots and interact with the balls on the snooker table."
+            }
+        }
+    ],
+    "video_test_0000558.mp4": [
+        {
+            "Billiards": {
+                "start": "Is the player standing at the edge of the pool table?",
+                "end": "Has the target ball rolled away after being hit?",
+                "description": "A player takes a precise shot on a billiards table, striking the cue ball with accuracy to make contact with the target ball."
+            }
+        }
+    ],
+    "video_test_0000560.mp4": [
+        {
+            "BasketballDunk": {
+                "start": "Is the Pistons player wearing a white jersey with the number 0?",
+                "end": "Is the player in the white jersey landing back on the court after the dunk?",
+                "description": "A basketball player in a white jersey performs a powerful dunk over a defender in a blue jersey."
+            }
+        }
+    ],
+    "video_test_0000569.mp4": [
+        {
+            "CricketBowling": {
+                "start": "Is the bowler wearing a white uniform?",
+                "end": "Is the ball visible in mid-air approaching the batsman?",
+                "description": "A bowler delivers a cricket ball with his right arm extended after taking a few steps forward."
+            }
+        },
+        {
+            "CricketShot": {
+                "start": "Is the bowler in a white uniform running up to deliver a cricket ball?",
+                "end": "Is the bowler's left arm extended behind him for balance after releasing the ball?",
+                "description": "A bowler delivers a cricket ball to a batsman, showcasing the typical follow-through motion."
+            }
+        }
+    ],
+    "video_test_0000577.mp4": [
+        {
+            "Billiards": {
+                "start": "Is the man holding the pool cue with both hands?",
+                "end": "Are the balls scattered on the pool table?",
+                "description": "A man takes a shot at the 8-ball during a game of billiards."
+            }
+        }
+    ],
+    "video_test_0000591.mp4": [
+        {
+            "SoccerPenalty": {
+                "start": "Is the player standing at the penalty spot?",
+                "end": "Is the ball in the netting above the goalpost?",
+                "description": "A soccer player takes a penalty kick, aiming to score against the goalkeeper."
+            }
+        }
+    ],
+    "video_test_0000593.mp4": [
+        {
+            "Shotput": {
+                "start": "Is the first individual's feet positioned shoulder-width apart at the beginning of the video?",
+                "end": "Has the second individual completed the throw and is now in a stationary position?",
+                "description": "The Shotput involves a powerful throw where the athlete positions themselves, rotates their torso, extends their arm, and releases the shot put with a dynamic motion."
+            }
+        }
+    ],
+    "video_test_0000601.mp4": [
+        {
+            "BasketballDunk": {
+                "start": "Is the player in a red jersey with the number 3 on it standing on the court, facing the basket, with his arms extended upwards holding the basketball?",
+                "end": "Has the player successfully dunked the ball through the net?",
+                "description": "A player in a red jersey performs a dunk by leaping into the air and successfully passing the ball through the hoop."
+            }
+        }
+    ],
+    "video_test_0000602.mp4": [
+        {
+            "Diving": {
+                "start": "Is the diver wearing a blue swimsuit?",
+                "end": "Is there a splash of water visible in the frame?",
+                "description": "A diver performs a series of flips and twists in the air before entering the water."
+            }
+        }
+    ],
+    "video_test_0000611.mp4": [
+        {
+            "GolfSwing": {
+                "start": "Is the golfer holding the golf club with both hands behind his body?",
+                "end": "Has the golfer completed the follow-through with the swing?",
+                "description": "A golfer prepares for a swing by positioning the club behind his body, maintaining balance, and generating power through a rotational motion."
+            }
+        }
+    ],
+    "video_test_0000615.mp4": [
+        {
+            "VolleyballSpiking": {
+                "start": "Is the volleyball player positioned near the net in a ready stance?",
+                "end": "Has the volleyball player just made contact with the ball, sending it into the air?",
+                "description": "A volleyball player executes a powerful wrist snap spike, demonstrating precision and force."
+            }
+        }
+    ],
+    "video_test_0000617.mp4": [
+        {
+            "CleanAndJerk": {
+                "start": "Is the barbell resting on the floor at the beginning of the video?",
+                "end": "Is the barbell extended overhead with the lifter's arms fully extended above their head?",
+                "description": "The Clean and Jerk is a weightlifting exercise involving lifting a barbell from the floor to the shoulders (clean) and then pushing it overhead (jerk), emphasizing proper form and technique."
+            }
+        }
+    ],
+    "video_test_0000622.mp4": [
+        {
+            "CricketBowling": {
+                "start": "Is the bowler in the process of delivering the ball?",
+                "end": "Has the ball struck the stumps after being missed by the batsman?",
+                "description": "A bowler delivers the ball towards the batsman during a cricket match, resulting in the batsman being bowled out."
+            }
+        },
+        {
+            "CricketShot": {
+                "start": "Is the batsman in his batting stance with the bat held ready?",
+                "end": "Is the ball high in the air after being hit by the batsman?",
+                "description": "A batsman executes a powerful shot, hitting the ball high into the air during a cricket match."
+            }
+        }
+    ],
+    "video_test_0000624.mp4": [
+        {
+            "Diving": {
+                "start": "Is the diver's body fully extended with arms outstretched in a single frame?",
+                "end": "Is there a significant splash visible in a single frame as the diver enters the water?",
+                "description": "Diving involves a series of precise movements and poses, showcasing both athleticism and artistry."
+            }
+        }
+    ],
+    "video_test_0000626.mp4": [
+        {
+            "PoleVault": {
+                "start": "Is the pole vaulter standing still before planting the pole?",
+                "end": "Has the pole vaulter landed safely on the mat?",
+                "description": "A pole vaulter uses a pole to clear a horizontal bar, demonstrating a combination of strength, technique, and timing."
+            }
+        }
+    ],
+    "video_test_0000635.mp4": [
+        {
+            "CleanAndJerk": {
+                "start": "Is the barbell resting on the floor in front of the person?",
+                "end": "Is the barbell pushed overhead by the person?",
+                "description": "A person lifts a barbell from the floor to their shoulders and then pushes it overhead in one continuous motion."
+            }
+        }
+    ],
+    "video_test_0000664.mp4": [
+        {
+            "BaseballPitch": {
+                "start": "Is the baseball player standing on the pitcher's mound with a wind-up posture?",
+                "end": "Is the catcher crouched behind the batter with the ball in their glove?",
+                "description": "A baseball player pitches the ball towards home plate while the batter swings and misses."
+            }
+        }
+    ],
+    "video_test_0000665.mp4": [
+        {
+            "PoleVault": {
+                "start": "Is the athlete at the starting position with the pole planted in the box?",
+                "end": "Has the athlete successfully cleared the bar and landed safely on the mat?",
+                "description": "PoleVault involves an athlete running up with a pole, planting it in the box, and vaulting over the bar, showcasing a combination of speed, strength, and technique."
+            }
+        }
+    ],
+    "video_test_0000671.mp4": [
+        {
+            "ThrowDiscus": {
+                "start": "Is Victor Gardenkrans wearing a red and white uniform with the number 570 visible?",
+                "end": "Is Ethan Cochran wearing a green and black uniform with the number 61 visible?",
+                "description": "The video captures a series of discus throwers mid-throw, showcasing their dynamic motion and the power required for the sport."
+            }
+        },
+        {
+            "Shotput": {
+                "start": "Is Victor Gardenkrans wearing a red and white uniform?",
+                "end": "Is Ethan Cochran wearing a green and black uniform?",
+                "description": "The shotput involves athletes gripping a heavy metal ball and throwing it with a powerful rotational motion, emphasizing precision and technique."
+            }
+        }
+    ],
+    "video_test_0000672.mp4": [
+        {
+            "FrisbeeCatch": {
+                "start": "Is the player in a crouched position with his knees bent and arms slightly bent at the elbows?",
+                "end": "Is the Frisbee captured mid-air as it flies away from the player?",
+                "description": "A player in a blue jersey runs towards the camera, crouches, and releases a Frisbee into the air."
+            }
+        }
+    ],
+    "video_test_0000673.mp4": [
+        {
+            "CliffDiving": {
+                "start": "Is the diver shirtless and wearing swim trunks at the edge of a high stone structure?",
+                "end": "Has the diver raised his arms triumphantly after emerging from the water?",
+                "description": "A diver leaps off a high stone structure, executing flips in mid-air before plunging into the water."
+            }
+        }
+    ],
+    "video_test_0000689.mp4": [
+        {
+            "SoccerPenalty": {
+                "start": "Is there a player standing in the penalty spot with the ball at their feet?",
+                "end": "Is the ball being kicked towards the goal?",
+                "description": "A soccer player takes a free kick from the penalty spot."
+            }
+        }
+    ],
+    "video_test_0000691.mp4": [
+        {
+            "Shotput": {
+                "start": "Is the person holding the shot put with both hands?",
+                "end": "Has the person released the shot put with a powerful throw?",
+                "description": "The action involves a person preparing and executing a shot put throw, characterized by a series of movements including a step back, arm swing, and release."
+            }
+        },
+        {
+            "HammerThrow": {
+                "start": "Is the athlete standing in a circular throwing area marked with chalk lines?",
+                "end": "Is the athlete maintaining balance and control after releasing the hammer?",
+                "description": "The hammer throw involves a male athlete gripping a heavy metal ball attached to a wire, swinging it back over his head, rotating his body to build momentum, and then releasing it with great velocity."
+            }
+        }
+    ],
+    "video_test_0000698.mp4": [
+        {
+            "CleanAndJerk": {
+                "start": "Is the person squatting down while gripping the barbell with both hands?",
+                "end": "Is the person extending their arms fully above their head with the barbell overhead?",
+                "description": "A clean and jerk involves lifting a barbell from the floor to the shoulders and then jerking it overhead."
+            }
+        }
+    ],
+    "video_test_0000701.mp4": [
+        {
+            "SoccerPenalty": {
+                "start": "Is the player standing with his feet apart, facing the goal?",
+                "end": "Is the ball seen flying towards the goal?",
+                "description": "A soccer player prepares for and executes a penalty kick by positioning himself, striking the ball with precision, and following through."
+            }
+        }
+    ],
+    "video_test_0000714.mp4": [
+        {
+            "BaseballPitch": {
+                "start": "Is the pitcher in mid-pitch with the ball released towards the batter?",
+                "end": "Has the batter made contact with the ball?",
+                "description": "A baseball player prepares to hit a pitch while the pitcher delivers the ball."
+            }
+        }
+    ],
+    "video_test_0000716.mp4": [
+        {
+            "BasketballDunk": {
+                "start": "Is the player in a white jersey with red accents jumping towards the basket?",
+                "end": "Has the ball gone through the hoop?",
+                "description": "A player in a white jersey with red accents dunks the ball through the hoop."
+            }
+        }
+    ],
+    "video_test_0000718.mp4": [
+        {
+            "BasketballDunk": {
+                "start": "Is the player wearing a white jersey with the number 23?",
+                "end": "Is the player hanging onto the rim momentarily after the dunk?",
+                "description": "A basketball player performs a dunk by leaping into the air and going through the hoop."
+            }
+        }
+    ],
+    "video_test_0000723.mp4": [
+        {
+            "VolleyballSpiking": {
+                "start": "Is the player's right arm extended forward and ready to strike the ball?",
+                "end": "Has the player made contact with the ball and sent it over the net?",
+                "description": "The player executes a volleyball spiking action by jumping and striking the ball with precision."
+            }
+        }
+    ],
+    "video_test_0000724.mp4": [
+        {
+            "CliffDiving": {
+                "start": "Is the person standing at the edge of a rocky cliff, preparing to jump?",
+                "end": "Is the individual creating a splash upon entry into the water?",
+                "description": "Cliff diving involves leaping off a cliff or bridge into water, often involving acrobatic maneuvers and showcasing the thrill of diving in a natural or man-made environment."
+            }
+        }
+    ],
+    "video_test_0000730.mp4": [
+        {
+            "CliffDiving": {
+                "start": "Is the diver wearing a black cap with 'CLIFF DIVING' written on it?",
+                "end": "Is there a splash visible in the water indicating the diver has landed?",
+                "description": "A diver prepares and executes a jump from a high platform into a body of water, showcasing skill and precision."
+            }
+        }
+    ],
+    "video_test_0000737.mp4": [
+        {
+            "CleanAndJerk": {
+                "start": "Is the lifter lifting the barbell from the floor to his shoulders in a powerful, explosive movement?",
+                "end": "Is the lifter lowering the barbell back to the floor after holding it overhead?",
+                "description": "The Clean and Jerk involves lifting a barbell from the floor to the shoulders and then driving it overhead, distinguishing it from other lifts by its combination of explosive clean and powerful jerk phases."
+            }
+        }
+    ],
+    "video_test_0000740.mp4": [
+        {
+            "CleanAndJerk": {
+                "start": "Is the barbell on the floor in front of the lifter's feet?",
+                "end": "Is the barbell caught overhead by the lifter?",
+                "description": "The Clean and Jerk involves lifting the barbell from the floor to the shoulders and then throwing it overhead."
+            }
+        }
+    ],
+    "video_test_0000756.mp4": [
+        {
+            "TennisSwing": {
+                "start": "Is the player's stance wide with knees slightly bent?",
+                "end": "Is the racket moving swiftly through the air after making contact with the ball?",
+                "description": "The tennis player executes a powerful swing, rotating their body to generate power from the hips and shoulders, resulting in a fluid and dynamic motion."
+            }
+        }
+    ],
+    "video_test_0000762.mp4": [
+        {
+            "VolleyballSpiking": {
+                "start": "Is the person holding the volleyball above their head with both hands?",
+                "end": "Has the person successfully spiked the volleyball over the net?",
+                "description": "A player prepares to spike by holding the volleyball above their head, then jumps and hits the ball over the net."
+            }
+        }
+    ],
+    "video_test_0000765.mp4": [
+        {
+            "Shotput": {
+                "start": "Is the athlete holding the shot put in his right hand at the beginning of the throw?",
+                "end": "Has the athlete extended his arm fully after releasing the shot put?",
+                "description": "The athlete performs a shot put throw, swinging the weight back over his head, rotating his body for momentum, and releasing it with a powerful forward motion."
+            }
+        },
+        {
+            "HammerThrow": {
+                "start": "Is the athlete's right arm raised above his head in the initial frame?",
+                "end": "Has the hammer been released into the air in the final frame?",
+                "description": "The athlete performs a hammer throw by swinging the hammer back and forth, building momentum and releasing it with a powerful spin."
+            }
+        }
+    ],
+    "video_test_0000767.mp4": [
+        {
+            "BaseballPitch": {
+                "start": "Is there a pitcher in the frame holding a baseball in their hand?",
+                "end": "Is there a catcher in the frame wearing protective gear behind home plate?",
+                "description": "The action involves a pitcher throwing a baseball towards a batter."
+            }
+        }
+    ],
+    "video_test_0000771.mp4": [
+        {
+            "Billiards": {
+                "start": "Is the person positioned at the edge of the billiard table?",
+                "end": "Is the person maintaining control of the cue stick until the end of the stroke?",
+                "description": "A person strikes the cue ball with a cue stick to aim for a specific ball on the billiard table."
+            }
+        }
+    ],
+    "video_test_0000785.mp4": [
+        {
+            "CliffDiving": {
+                "start": "Is the woman standing at the edge of a cliff with her body angled towards the water below?",
+                "end": "Are ripples spreading across the surface of the water after the dive?",
+                "description": "A woman dives from a cliff into the water, showcasing a combination of courage and skill."
+            }
+        }
+    ],
+    "video_test_0000786.mp4": [
+        {
+            "CricketBowling": {
+                "start": "Is the bowler in a green uniform running towards the pitch?",
+                "end": "Is the bowler's follow-through smooth and controlled?",
+                "description": "A bowler delivers a powerful overhand throw to the batsman."
+            }
+        },
+        {
+            "CricketShot": {
+                "start": "Is the bowler in a running position when the ball is delivered?",
+                "end": "Has the batsman made contact with the ball and sent it forward?",
+                "description": "A batsman drives the ball forward after being bowled by a bowler."
+            }
+        }
+    ],
+    "video_test_0000793.mp4": [
+        {
+            "PoleVault": {
+                "start": "Is the athlete holding a pole while running towards the vaulting area?",
+                "end": "Has the athlete landed safely on the mat beyond the bar?",
+                "description": "The athlete runs with a pole, plants it, propels upwards, clears the bar, and lands safely."
+            }
+        }
+    ],
+    "video_test_0000796.mp4": [
+        {
+            "CricketBowling": {
+                "start": "Is the bowler in a maroon shirt and white trousers running up to bowl?",
+                "end": "Is the batsman standing ready with his bat after the ball has been released?",
+                "description": "A bowler delivers a cricket ball to a batsman while a wicket-keeper is positioned behind the stumps."
+            }
+        },
+        {
+            "CricketShot": {
+                "start": "Is the bowler in a maroon shirt and white trousers taking a few steps forward?",
+                "end": "Is the batsman holding his bat in a ready stance?",
+                "description": "A bowler delivers a cricket ball to a batsman while fielders position themselves strategically around the pitch."
+            }
+        }
+    ],
+    "video_test_0000798.mp4": [
+        {
+            "CricketBowling": {
+                "start": "Is the bowler in a white cricket uniform standing in his bowling run-up?",
+                "end": "Has the bowler released the ball towards the batsman?",
+                "description": "A bowler in white cricket attire prepares to deliver the ball by taking steps forward, swinging his arm back and forth, and then releasing the ball powerfully towards the batsman."
+            }
+        },
+        {
+            "CricketShot": {
+                "start": "Is the batsman in his batting stance holding a cricket bat?",
+                "end": "Has the batsman completed his swing and followed through?",
+                "description": "A batsman in white cricket attire swings his bat to make contact with the ball during a drive shot."
+            }
+        }
+    ],
+    "video_test_0000807.mp4": [
+        {
+            "Diving": {
+                "start": "Is the person standing on a diving board?",
+                "end": "Is there a splash in the water?",
+                "description": "A diver leaps off a board, flips in the air, and lands in the water."
+            }
+        }
+    ],
+    "video_test_0000814.mp4": [
+        {
+            "Shotput": {
+                "start": "Is the athlete standing with feet shoulder-width apart at the beginning of the throw?",
+                "end": "Is the athlete maintaining balance and momentum after releasing the shotput?",
+                "description": "The Shotput involves athletes throwing a heavy metal ball as far as possible, requiring precise initial stance, wind-up, release, and follow-through."
+            }
+        },
+        {
+            "ThrowDiscus": {
+                "start": "Is the athlete's body twisted and their arm extended forward in the first frame?",
+                "end": "Is the athlete's body relaxed and the discus visible in flight in the final frame?",
+                "description": "The discus throw involves an athlete spinning and releasing a heavy circular object, showcasing balance, speed, and technique."
+            }
+        }
+    ],
+    "video_test_0000839.mp4": [
+        {
+            "HighJump": {
+                "start": "Is the athlete positioned at the starting point facing the high bar at the beginning of the video?",
+                "end": "Has the athlete landed safely on the mat after clearing the bar?",
+                "description": "The athlete prepares, jumps over the bar, and lands safely, demonstrating a clean high jump."
+            }
+        }
+    ],
+    "video_test_0000844.mp4": [
+        {
+            "CliffDiving": {
+                "start": "Is the person standing at the edge of a cliff?",
+                "end": "Has the person entered the water with a splash?",
+                "description": "A man jumps off a cliff, diving headfirst into the water."
+            }
+        }
+    ],
+    "video_test_0000846.mp4": [
+        {
+            "Shotput": {
+                "start": "Is the woman standing still at the beginning of the action?",
+                "end": "Is the shot put visible in mid-air at the end of the action?",
+                "description": "The action involves a person throwing a heavy metal ball called a shot put, which requires a specific technique involving a step-back, arm swing, and release."
+            }
+        },
+        {
+            "JavelinThrow": {
+                "start": "Is the young woman holding the javelin horizontally above her head with both hands?",
+                "end": "Has the young woman released the javelin with both hands and followed through with her motion?",
+                "description": "A young woman performs a javelin throw, rotating her body and releasing the javelin with both hands, differentiating it from other throwing actions."
+            }
+        }
+    ],
+    "video_test_0000847.mp4": [
+        {
+            "GolfSwing": {
+                "start": "Is the golfer holding a golf club in his right hand?",
+                "end": "Is the ball visible in mid-air after the golfer releases the club?",
+                "description": "A golfer prepares for and executes a golf swing, transitioning from a stance to a full backswing and releasing the club to hit the ball."
+            }
+        }
+    ],
+    "video_test_0000854.mp4": [
+        {
+            "Shotput": {
+                "start": "Is the athlete in a white tank top and black shorts bending their knees and hips at the beginning of the throw?",
+                "end": "Is the athlete in a green and white uniform following through with their body rotation after releasing the shot put?",
+                "description": "The shot put throw involves athletes gripping the shot put with both hands, positioning themselves in a stance that allows for maximum torque and momentum generation, swinging the shot put back behind them, rotating their body to generate force, and releasing it forward with a follow-through."
+            }
+        },
+        {
+            "HammerThrow": {
+                "start": "Is the athlete gripping the hammer with both hands at shoulder height in the first frame?",
+                "end": "Is the athlete's arm fully extended after releasing the hammer in the last frame?",
+                "description": "The action involves athletes spinning a heavy hammer around their body and releasing it with a powerful throw, showcasing unique styles and techniques."
+            }
+        }
+    ],
+    "video_test_0000864.mp4": [
+        {
+            "Shotput": {
+                "start": "Is the athlete's right arm extended behind them in a single video frame?",
+                "end": "Is the athlete's left arm extended forward in a single video frame?",
+                "description": "The shot put throw involves swinging the right arm back, rotating the torso for momentum, releasing the shot put with a powerful throw, and maintaining balance through a smooth follow-through."
+            }
+        }
+    ],
+    "video_test_0000873.mp4": [
+        {
+            "BaseballPitch": {
+                "start": "Is there a baseball pitcher in the frame at the beginning?",
+                "end": "Is the baseball pitcher in the frame at the end?",
+                "description": "The action involves a baseball pitcher preparing to throw a pitch."
+            }
+        }
+    ],
+    "video_test_0000882.mp4": [
+        {
+            "Shotput": {
+                "start": "Is the athlete standing in a circular throwing area with their feet positioned apart for balance and stability?",
+                "end": "Is the athlete continuing to move forward after releasing the shot put, maintaining balance and control?",
+                "description": "The Shotput involves athletes throwing a heavy metal ball as far as possible, utilizing a wind-up and release technique to maximize distance."
+            }
+        },
+        {
+            "HammerThrow": {
+                "start": "Is the athlete standing on a circular throwing platform at the beginning of the video?",
+                "end": "Is the athlete walking away from the throwing area at the end of the video?",
+                "description": "The hammer throw involves an athlete gripping a heavy metal ball attached to a wire, spinning it rapidly around their body, and then releasing it into the air with precision."
+            }
+        }
+    ],
+    "video_test_0000887.mp4": [
+        {
+            "HighJump": {
+                "start": "Is the athlete's body fully extended above the horizontal bar in the first frame?",
+                "end": "Has the athlete landed on the mat below the bar in the last frame?",
+                "description": "The athlete clears the high jump bar with a powerful leap, demonstrating excellent form and upward momentum."
+            }
+        }
+    ],
+    "video_test_0000896.mp4": [
+        {
+            "HighJump": {
+                "start": "Is the athlete standing at the starting point with the bar set at 2.05 meters?",
+                "end": "Has the athlete landed gracefully on the mat after clearing the bar?",
+                "description": "The athlete performs a high jump, clearing the bar and landing on the mat."
+            }
+        }
+    ],
+    "video_test_0000897.mp4": [
+        {
+            "VolleyballSpiking": {
+                "start": "Is the player standing with knees slightly bent and arms positioned behind their head?",
+                "end": "Has the player transferred all their weight through the extended leg into the ball?",
+                "description": "The action involves a player preparing for and executing a volleyball spike, characterized by a focused and controlled motion that transfers weight efficiently through the extended leg."
+            }
+        }
+    ],
+    "video_test_0000903.mp4": [
+        {
+            "BasketballDunk": {
+                "start": "Is the player in the white tank top dribbling the ball?",
+                "end": "Has the player dunked the ball into the hoop?",
+                "description": "A basketball player executes a dunk, jumping and reaching for the rim with one hand."
+            }
+        }
+    ],
+    "video_test_0000940.mp4": [
+        {
+            "CliffDiving": {
+                "start": "Is the person standing at the edge of a cliff?",
+                "end": "Is there a splash in the water?",
+                "description": "A person jumps off a cliff, diving headfirst into the water."
+            }
+        }
+    ],
+    "video_test_0000946.mp4": [
+        {
+            "BaseballPitch": {
+                "start": "Is the pitcher standing on the pitcher's mound?",
+                "end": "Did the batter make contact with the ball?",
+                "description": "A baseball pitcher delivers a pitch to a batter."
+            }
+        }
+    ],
+    "video_test_0000950.mp4": [
+        {
+            "Shotput": {
+                "start": "Is the athlete standing within the designated throwing circle at the beginning of the throw?",
+                "end": "Has the athlete completed the follow-through after releasing the shot put?",
+                "description": "The shot put involves athletes preparing within a circle, swinging the shot put behind their neck, and then releasing it with a powerful forward throw, emphasizing rotational force and precision."
+            }
+        },
+        {
+            "HammerThrow": {
+                "start": "Is the athlete standing in a designated throwing circle with the hammer at their side?",
+                "end": "Has the hammer been released into the air after the athlete's throwing motion?",
+                "description": "The action of HammerThrow involves athletes spinning to build rotational force before releasing a heavy metal ball attached to a wire, maximizing the distance of the throw."
+            }
+        }
+    ],
+    "video_test_0000964.mp4": [
+        {
+            "BaseballPitch": {
+                "start": "Is Shin Soo-ji standing on the pitcher's mound with her right arm extended forward?",
+                "end": "Is the ball visible in mid-air heading towards home plate?",
+                "description": "A rhythmic gymnast pitches a baseball by taking a few steps back and throwing the ball with a powerful motion, her body twisting as she releases it."
+            }
+        }
+    ],
+    "video_test_0000981.mp4": [
+        {
+            "CricketBowling": {
+                "start": "Is the bowler in white running up to deliver the ball?",
+                "end": "Is the wicket-keeper crouching behind the stumps?",
+                "description": "A bowler delivers the ball towards the batsman while the wicket-keeper is positioned behind the stumps."
+            }
+        },
+        {
+            "CricketShot": {
+                "start": "Is the batsman standing at the crease with his bat held high?",
+                "end": "Is the ball flying through the air after being hit by the batsman?",
+                "description": "A batsman swings his bat to make contact with the ball during a cricket shot."
+            }
+        }
+    ],
+    "video_test_0000987.mp4": [
+        {
+            "Shotput": {
+                "start": "Is the athlete holding the shot put behind his neck at the beginning of the throw?",
+                "end": "Has the athlete released the shot put into the air at the end of the throw?",
+                "description": "The athlete performs a shot put throw by swinging the shot put forward and rotating his body to generate momentum, extending his arm fully as he releases the shot put."
+            }
+        },
+        {
+            "JavelinThrow": {
+                "start": "Is the person holding the javelin with both hands at the beginning of the action?",
+                "end": "Has the person released the javelin and followed through with their arm extended?",
+                "description": "A javelin throw involves a person preparing, building momentum, and then releasing the javelin with a powerful forward motion."
+            }
+        }
+    ],
+    "video_test_0000989.mp4": [
+        {
+            "Diving": {
+                "start": "Is the young woman standing on the edge of the swimming pool?",
+                "end": "Is there a splash visible in the water?",
+                "description": "A young woman performs a round-off and handstand dive into a swimming pool."
+            }
+        }
+    ],
+    "video_test_0000991.mp4": [
+        {
+            "SoccerPenalty": {
+                "start": "Is there a player standing at the penalty spot facing the goalkeeper?",
+                "end": "Is the ball in the net after the goalkeeper's dive?",
+                "description": "A soccer player takes a powerful shot at the goal during a penalty kick, aiming to score past the goalkeeper."
+            }
+        }
+    ],
+    "video_test_0001008.mp4": [
+        {
+            "HighJump": {
+                "start": "Is the athlete at the starting position with the bar in front of him?",
+                "end": "Has the athlete successfully landed on the mat after clearing the bar?",
+                "description": "The athlete runs towards the bar, leaps, and clears it, demonstrating the skill and technique required for a high jump."
+            }
+        }
+    ],
+    "video_test_0001038.mp4": [
+        {
+            "BaseballPitch": {
+                "start": "Is the pitcher standing on the pitcher's mound with a classic pitching stance?",
+                "end": "Has the pitcher released the ball towards home plate?",
+                "description": "A baseball player in a white uniform prepares and executes a pitch, demonstrating proper technique."
+            }
+        }
+    ],
+    "video_test_0001039.mp4": [
+        {
+            "Shotput": {
+                "start": "Is the athlete standing in the Shotput circle with their feet positioned apart, one slightly forward?",
+                "end": "Has the athlete completed the throw and is now recovering their stance?",
+                "description": "The Shotput is a throwing event where athletes aim to throw a heavy metal ball as far as possible."
+            }
+        },
+        {
+            "HammerThrow": {
+                "start": "Is the athlete standing in a circle marked for the hammer throw with their feet shoulder-width apart?",
+                "end": "Is the athlete walking back to the starting position after releasing the hammer?",
+                "description": "The hammer throw involves an athlete spinning to generate momentum and then releasing a heavy metal ball attached to a wire, showcasing a combination of strength, technique, and precision."
+            }
+        }
+    ],
+    "video_test_0001040.mp4": [
+        {
+            "Shotput": {
+                "start": "Is the athlete's right arm bent at the elbow while holding the shot put during the initial stance?",
+                "end": "Is the athlete's gaze following the trajectory of the shot put after the release?",
+                "description": "The shot put involves a series of movements including a wind-up, release, and follow-through, showcasing the athlete's strength and technique."
+            }
+        },
+        {
+            "HammerThrow": {
+                "start": "Is the athlete standing in a circle marked for the hammer throw?",
+                "end": "Has the hammer landed on the field after the throw?",
+                "description": "The hammer throw is a track and field event where athletes throw a heavy metal ball attached to a wire rope, requiring strength, technique, and precision."
+            }
+        }
+    ],
+    "video_test_0001058.mp4": [
+        {
+            "Shotput": {
+                "start": "Is the first frame showing a male athlete in mid-throw with the shot put visible in the air?",
+                "end": "Is the fifth frame depicting a male athlete in a celebratory pose with his arms raised?",
+                "description": "The Shotput involves athletes throwing a heavy metal ball (shot put) with maximum force and technique, emphasizing power, precision, and athletic form."
+            }
+        },
+        {
+            "HammerThrow": {
+                "start": "Is the athlete standing inside the throwing circle at the beginning of the video?",
+                "end": "Is the hammer visible in mid-air after being released by the athlete?",
+                "description": "The hammer throw involves athletes spinning with a heavy metal ball attached to a wire, building momentum, and then releasing it to travel as far as possible."
+            }
+        }
+    ],
+    "video_test_0001064.mp4": [
+        {
+            "BasketballDunk": {
+                "start": "Is the man holding the basketball in his right hand as he approaches the basket?",
+                "end": "Has the man successfully dunked the basketball through the hoop?",
+                "description": "A basketball player performs a reverse 360 between the legs dunk by approaching the basket with the ball in his right hand, leaping into the air, executing a 360-degree spin, and dunking the ball through the hoop."
+            }
+        }
+    ],
+    "video_test_0001066.mp4": [
+        {
+            "Shotput": {
+                "start": "Is the athlete holding the shot put behind his neck in a single video frame?",
+                "end": "Has the athlete stepped forward after releasing the shot put in a single video frame?",
+                "description": "The athlete prepares for a shot put throw by positioning the shot put behind his neck, then swings it forward with a powerful motion, releasing it with an explosive movement."
+            }
+        }
+    ],
+    "video_test_0001072.mp4": [
+        {
+            "HammerThrow": {
+                "start": "Is the athlete standing in a throwing circle at the beginning of the video?",
+                "end": "Has the hammer been released and is it in mid-air at the end of the video?",
+                "description": "The hammer throw involves an athlete swinging a heavy spherical object attached to a wire around their body and then releasing it to fly through the air."
+            }
+        }
+    ],
+    "video_test_0001075.mp4": [
+        {
+            "Billiards": {
+                "start": "Is the cue ball in motion when the camera focuses on it?",
+                "end": "Are the balls still scattered across the table after the cue ball has traveled across it?",
+                "description": "A player takes a shot in billiards, striking the cue ball to send it into motion towards the racked balls."
+            }
+        }
+    ],
+    "video_test_0001076.mp4": [
+        {
+            "CliffDiving": {
+                "start": "Is the diver captured mid-air performing a backflip?",
+                "end": "Is there no visible splash or disturbance in the water upon impact?",
+                "description": "A diver leaps from a high platform, executing a backflip mid-air before entering a calm body of water."
+            }
+        }
+    ],
+    "video_test_0001078.mp4": [
+        {
+            "BasketballDunk": {
+                "start": "Is the basketball player wearing a black jersey with the number 9?",
+                "end": "Has the basketball player successfully dunked the ball through the hoop?",
+                "description": "A basketball player dunks the ball by leaping into the air and extending their right arm to pass the ball through the hoop."
+            }
+        }
+    ],
+    "video_test_0001079.mp4": [
+        {
+            "LongJump": {
+                "start": "Is the athlete in a crouched position at the beginning of the jump?",
+                "end": "Has the athlete landed smoothly in the sandpit at the end of the jump?",
+                "description": "The athlete performs a long jump by leaping forward from a crouched position and landing in a sandpit, demonstrating proper technique."
+            }
+        }
+    ],
+    "video_test_0001080.mp4": [
+        {
+            "Shotput": {
+                "start": "Is the man holding the shot put in his right hand?",
+                "end": "Has the man released the shot put with a powerful throw?",
+                "description": "The action involves a person preparing and executing a shot put throw, characterized by a circular body rotation and a powerful release."
+            }
+        },
+        {
+            "HammerThrow": {
+                "start": "Is the athlete holding the hammer in his right hand behind his neck at the beginning of the video?",
+                "end": "Has the hammer been released and is flying through the air after the athlete completes the spin?",
+                "description": "The hammer throw involves a male athlete spinning rapidly to gain momentum and then releasing a heavy hammer, which flies through the air with considerable force."
+            }
+        }
+    ],
+    "video_test_0001081.mp4": [
+        {
+            "Diving": {
+                "start": "Is the diver standing on the edge of a diving platform?",
+                "end": "Is there a splash visible in the water?",
+                "description": "A diver performs a series of movements including taking steps, extending arms, twisting, and flipping through the air before entering the water."
+            }
+        }
+    ],
+    "video_test_0001098.mp4": [
+        {
+            "HighJump": {
+                "start": "Is the athlete at the starting position with one foot on the ground and the other lifted off the ground?",
+                "end": "Is the athlete lying flat on the mat after clearing the bar?",
+                "description": "The athlete runs, leaps, and clears the bar in a single continuous motion, demonstrating the skill and athleticism required for high jump."
+            }
+        }
+    ],
+    "video_test_0001114.mp4": [
+        {
+            "Shotput": {
+                "start": "Is the athlete standing in a throwing circle with his feet shoulder-width apart?",
+                "end": "Has the athlete finished his follow-through with his back turned towards the direction of the throw?",
+                "description": "The shot put involves a male athlete throwing a heavy metal ball using a combination of rotational force and momentum generated by his body."
+            }
+        }
+    ],
+    "video_test_0001118.mp4": [
+        {
+            "SoccerPenalty": {
+                "start": "Is a player in white taking a powerful shot at the goal?",
+                "end": "Has the ball gone into the back of the net?",
+                "description": "A soccer player takes a powerful shot at the goal during a penalty kick, successfully scoring past the goalkeeper."
+            }
+        }
+    ],
+    "video_test_0001123.mp4": [
+        {
+            "PoleVault": {
+                "start": "Is the athlete at the starting position with the pole planted in the ground?",
+                "end": "Has the athlete successfully cleared the bar and landed safely on the mat?",
+                "description": "Pole vaulting involves an athlete running, planting a pole into the ground, and using it to propel themselves over a horizontal bar."
+            }
+        }
+    ],
+    "video_test_0001127.mp4": [
+        {
+            "GolfSwing": {
+                "start": "Is the golfer standing with his feet shoulder-width apart at the beginning of the swing?",
+                "end": "Has the golfer completed the follow-through with the clubhead moving smoothly after striking the ball?",
+                "description": "A golfer prepares for a swing by positioning himself with balanced weight and extended arms, then executes a smooth arc swing with focused aim."
+            }
+        }
+    ],
+    "video_test_0001129.mp4": [
+        {
+            "Shotput": {
+                "start": "Is the person holding the shot put with both hands behind their neck at the beginning of the video?",
+                "end": "Has the shot put been released and is the person's arm extended forward at the end of the video?",
+                "description": "The action of shotput involves a powerful swing and release of a heavy metal ball, requiring precise technique and strength."
+            }
+        },
+        {
+            "HammerThrow": {
+                "start": "Is the person holding the shot put with both hands behind their neck at the beginning of the throw?",
+                "end": "Has the shot put been released with a powerful snap of the wrist?",
+                "description": "The action involves a rotational throw using the entire body to generate momentum, culminating in a precise release of the shot put."
+            }
+        }
+    ],
+    "video_test_0001134.mp4": [
+        {
+            "CliffDiving": {
+                "start": "Is the diver standing at the edge of a cliff, preparing for a jump?",
+                "end": "Has the diver entered the water with a splash?",
+                "description": "A diver leaps from a cliff, tucking their body to minimize air resistance as they descend towards the water."
+            }
+        }
+    ],
+    "video_test_0001135.mp4": [
+        {
+            "FrisbeeCatch": {
+                "start": "Is the player in a blue jersey running towards the end zone?",
+                "end": "Is the player landing on one foot after catching the ball?",
+                "description": "A player in a blue jersey runs towards the end zone, leaps into the air, catches the ball with both hands, and lands on one foot while maintaining control of the ball."
+            }
+        }
+    ],
+    "video_test_0001146.mp4": [
+        {
+            "Billiards": {
+                "start": "Is the cue stick positioned at the edge of the snooker table in the first frame?",
+                "end": "Are the balls arranged in a triangle formation at the beginning of the shot in the last frame?",
+                "description": "The video captures the essence of snooker matches, emphasizing the players' skill and precision through their focused stances and the dynamic movement of the balls across the green snooker table."
+            }
+        }
+    ],
+    "video_test_0001153.mp4": [
+        {
+            "SoccerPenalty": {
+                "start": "Is the player wearing yellow taking a penalty kick?",
+                "end": "Is the ball in the net after the penalty kick?",
+                "description": "A player from Brazil takes a penalty kick against Colombia, successfully scoring a goal."
+            }
+        }
+    ],
+    "video_test_0001159.mp4": [
+        {
+            "Shotput": {
+                "start": "Is the athlete standing in the throwing circle with his feet shoulder-width apart?",
+                "end": "Is the athlete's arm moving past his head after releasing the shot put?",
+                "description": "The shot put involves a male athlete throwing a heavy metal ball from a fixed position, utilizing a combination of shoulder and hip rotation to generate power."
+            }
+        },
+        {
+            "LongJump": {
+                "start": "Is the athlete in a crouched position at the beginning of the video?",
+                "end": "Is the athlete raising his arms after landing in the sandpit?",
+                "description": "The athlete performs a long jump, extending forward and clearing the sandpit, then rising and walking away."
+            }
+        }
+    ],
+    "video_test_0001162.mp4": [
+        {
+            "PoleVault": {
+                "start": "Is the athlete planting the pole into the ground?",
+                "end": "Is the athlete landing safely on the mat?",
+                "description": "A male athlete runs, plants a pole into the ground, propels himself upwards, clears a bar, and lands safely on a mat."
+            }
+        }
+    ],
+    "video_test_0001163.mp4": [
+        {
+            "GolfSwing": {
+                "start": "Is the golfer's feet shoulder-width apart at the beginning of the swing?",
+                "end": "Has the golfer completed the follow-through with the club moving smoothly through the air?",
+                "description": "A golfer transitions from a backswing to a follow-through, utilizing hip and shoulder rotation for power."
+            }
+        }
+    ],
+    "video_test_0001164.mp4": [
+        {
+            "Shotput": {
+                "start": "Is the athlete holding the shot put behind their neck in a single video frame?",
+                "end": "Is the shot put visible in mid-air in a single video frame?",
+                "description": "The shot put throw involves a series of steps and a powerful release, utilizing body rotation to generate force."
+            }
+        },
+        {
+            "HammerThrow": {
+                "start": "Is the athlete standing on a circular throwing platform?",
+                "end": "Has the hammer been released from the athlete's grip?",
+                "description": "The athlete prepares for a hammer throw by gripping the hammer and rotating his body to build momentum, then releases the hammer during the peak of his spin."
+            }
+        }
+    ],
+    "video_test_0001168.mp4": [
+        {
+            "TennisSwing": {
+                "start": "Is the man holding his racket in both hands behind his head?",
+                "end": "Is the man watching the ball travel across the net after the swing?",
+                "description": "A man prepares for a tennis swing by positioning his racket behind his head, then executes a smooth arc to hit the ball, following through with his body."
+            }
+        }
+    ],
+    "video_test_0001174.mp4": [
+        {
+            "Shotput": {
+                "start": "Is the athlete holding the shot put in his right hand?",
+                "end": "Is the athlete's right arm fully extended forward after the throw?",
+                "description": "The athlete prepares for a shot put throw by positioning himself, then swings his arm back, rotates his torso, and releases the shot put with a powerful forward motion."
+            }
+        },
+        {
+            "JavelinThrow": {
+                "start": "Is the athlete standing on the throwing circle with the javelin held with both hands?",
+                "end": "Is the javelin visible in mid-air against a clear sky background?",
+                "description": "A male athlete in a red and white uniform performs a javelin throw, transitioning from a stationary stance to releasing the javelin with a powerful motion."
+            }
+        }
+    ],
+    "video_test_0001182.mp4": [
+        {
+            "BaseballPitch": {
+                "start": "Is the pitcher standing on the pitcher's mound with his legs apart for balance?",
+                "end": "Is the catcher crouched behind the batter ready to catch the ball?",
+                "description": "A baseball player in a blue uniform pitches the ball towards home plate, winding up and throwing with a powerful motion."
+            }
+        }
+    ],
+    "video_test_0001194.mp4": [
+        {
+            "CricketBowling": {
+                "start": "Is the bowler wearing a navy blue and yellow uniform?",
+                "end": "Has the bowler released the ball towards the batsman?",
+                "description": "A bowler runs up, takes a few steps back, lunges forward, and releases the ball towards the batsman."
+            }
+        },
+        {
+            "CricketShot": {
+                "start": "Is the batsman standing at the crease with his bat held high?",
+                "end": "Is the batsman making contact with the ball?",
+                "description": "A batsman prepares to hit the ball during a cricket match."
+            }
+        }
+    ],
+    "video_test_0001195.mp4": [
+        {
+            "JavelinThrow": {
+                "start": "Is the athlete holding the javelin behind his head with his right hand in a single frame?",
+                "end": "Is the javelin visible in mid-air after being released in a single frame?",
+                "description": "The athlete runs towards the throwing area, plants one foot, swings the javelin forward, and releases it, with the camera following its trajectory."
+            }
+        }
+    ],
+    "video_test_0001201.mp4": [
+        {
+            "PoleVault": {
+                "start": "Is the woman standing on a blue mat while holding a pole?",
+                "end": "Has the woman landed safely on the mat after clearing the bar?",
+                "description": "A pole vaulter uses a pole to propel herself over a horizontal bar, clearing it and landing safely on the mat."
+            }
+        }
+    ]
+}

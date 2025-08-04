@@ -1,0 +1,3580 @@
+{
+    "v_ssHXm1LqovI": {
+        "annotations": [
+            {
+                "segment": [
+                    2.440268424336973,
+                    10.84563744149766
+                ],
+                "label": "Dodgeball"
+            }
+        ]
+    },
+    "v_bJ6SpcLM7GE": {
+        "annotations": [
+            {
+                "segment": [
+                    9.293415460218409,
+                    23.100775572542904
+                ],
+                "label": "Playing saxophone"
+            },
+            {
+                "segment": [
+                    30.535507940717633,
+                    59.07956971138846
+                ],
+                "label": "Playing saxophone"
+            }
+        ]
+    },
+    "v_BLTOTjVYiuE": {
+        "annotations": [
+            {
+                "segment": [
+                    0.11694851794071763,
+                    10.028335413416537
+                ],
+                "label": "Triple jump"
+            }
+        ]
+    },
+    "v_K2Pws9z20Do": {
+        "annotations": [
+            {
+                "segment": [
+                    12.830859856474259,
+                    219.5502686552262
+                ],
+                "label": "Zumba"
+            }
+        ]
+    },
+    "v_jzVxdBzCuoM": {
+        "annotations": [
+            {
+                "segment": [
+                    0,
+                    28.632232658013805
+                ],
+                "label": "Cheerleading"
+            },
+            {
+                "segment": [
+                    38.291299096861835,
+                    74.51279824254195
+                ],
+                "label": "Cheerleading"
+            },
+            {
+                "segment": [
+                    94.86583109582887,
+                    107.28463080291918
+                ],
+                "label": "Cheerleading"
+            },
+            {
+                "segment": [
+                    119.35846385147923,
+                    218.36389374570985
+                ],
+                "label": "Cheerleading"
+            }
+        ]
+    },
+    "v_BD7txKlwoj8": {
+        "annotations": [
+            {
+                "segment": [
+                    8.59739599375975,
+                    16.76154825
+                ],
+                "label": "Hammer throw"
+            }
+        ]
+    },
+    "v_prqwtY9cn6s": {
+        "annotations": [
+            {
+                "segment": [
+                    0.01,
+                    86.46181045241809
+                ],
+                "label": "Playing piano"
+            }
+        ]
+    },
+    "v_-5c9WHk408g": {
+        "annotations": [
+            {
+                "segment": [
+                    0.01,
+                    142.5007029478458
+                ],
+                "label": "Paintball"
+            }
+        ]
+    },
+    "v_ipcvgAb5y0U": {
+        "annotations": [
+            {
+                "segment": [
+                    52.69950606405459,
+                    63.82170878056549
+                ],
+                "label": "Making a sandwich"
+            }
+        ]
+    },
+    "v_6Kp_fvkZWTE": {
+        "annotations": [
+            {
+                "segment": [
+                    5.950928237129485,
+                    61.45958658346334
+                ],
+                "label": "High jump"
+            }
+        ]
+    },
+    "v_8wB0BOjuyes": {
+        "annotations": [
+            {
+                "segment": [
+                    6.861232500000001,
+                    16.183333
+                ],
+                "label": "Playing polo"
+            },
+            {
+                "segment": [
+                    0.23984658892355698,
+                    5.6467416
+                ],
+                "label": "Playing polo"
+            }
+        ]
+    },
+    "v_HWcWElJfEjw": {
+        "annotations": [
+            {
+                "segment": [
+                    98.83782260000001,
+                    121.14456222
+                ],
+                "label": "Wrapping presents"
+            }
+        ]
+    },
+    "v_onBAyGhqubg": {
+        "annotations": [
+            {
+                "segment": [
+                    0,
+                    62.16065024180968
+                ],
+                "label": "Springboard diving"
+            }
+        ]
+    },
+    "v_rDT4ngAfeHs": {
+        "annotations": [
+            {
+                "segment": [
+                    1.8987289734789392,
+                    11.684486753619806
+                ],
+                "label": "Vacuuming floor"
+            }
+        ]
+    },
+    "v_wkSm7bUCgGQ": {
+        "annotations": [
+            {
+                "segment": [
+                    0.01,
+                    134.35068027210883
+                ],
+                "label": "Shaving legs"
+            }
+        ]
+    },
+    "v_IEPoIqIrprg": {
+        "annotations": [
+            {
+                "segment": [
+                    43.57696833,
+                    227.85211745943838
+                ],
+                "label": "Volleyball"
+            }
+        ]
+    },
+    "v_8jUdeuAOEJg": {
+        "annotations": [
+            {
+                "segment": [
+                    2.1907544900435476,
+                    58.57385689169064
+                ],
+                "label": "Breakdancing"
+            }
+        ]
+    },
+    "v_ZYPKueJon34": {
+        "annotations": [
+            {
+                "segment": [
+                    1.48486068,
+                    8.846251827613106
+                ],
+                "label": "Bungee jumping"
+            }
+        ]
+    },
+    "v_qTAG23IVSeM": {
+        "annotations": [
+            {
+                "segment": [
+                    47.889173166926675,
+                    99.38471138845554
+                ],
+                "label": "Playing polo"
+            }
+        ]
+    },
+    "v_AyicWbHhUWc": {
+        "annotations": [
+            {
+                "segment": [
+                    9.33737855,
+                    53.54429485179407
+                ],
+                "label": "Clean and jerk"
+            }
+        ]
+    },
+    "v_E7C91KoML-o": {
+        "annotations": [
+            {
+                "segment": [
+                    2.68786895475819,
+                    16.002196567862715
+                ],
+                "label": "Clean and jerk"
+            }
+        ]
+    },
+    "v_jzCnWUUUviE": {
+        "annotations": [
+            {
+                "segment": [
+                    0.6254063962558501,
+                    13.378791731669267
+                ],
+                "label": "Clean and jerk"
+            }
+        ]
+    },
+    "v_dAcdSkaoK64": {
+        "annotations": [
+            {
+                "segment": [
+                    14.396400000000002,
+                    43.80438280265211
+                ],
+                "label": "Using the pommel horse"
+            },
+            {
+                "segment": [
+                    68.73597110686428,
+                    85.44988505382216
+                ],
+                "label": "Using the pommel horse"
+            }
+        ]
+    },
+    "v_GX1EjqXAszM": {
+        "annotations": [
+            {
+                "segment": [
+                    12.030182431787068,
+                    18.094176380655224
+                ],
+                "label": "Making a sandwich"
+            },
+            {
+                "segment": [
+                    26.309910521060843,
+                    44.208474184087365
+                ],
+                "label": "Making a sandwich"
+            }
+        ]
+    },
+    "v_jNJg1TYq3c8": {
+        "annotations": [
+            {
+                "segment": [
+                    6.499957173946958,
+                    48.405563424804996
+                ],
+                "label": "Cleaning windows"
+            }
+        ]
+    },
+    "v_suyh4tGuScw": {
+        "annotations": [
+            {
+                "segment": [
+                    4.940589778471138,
+                    103.39948607800312
+                ],
+                "label": "Tango"
+            }
+        ]
+    },
+    "v_jwndE_xn8sA": {
+        "annotations": [
+            {
+                "segment": [
+                    0.5743896540662107,
+                    8.458973560608268
+                ],
+                "label": "Smoking hookah"
+            }
+        ]
+    },
+    "v_eRHbpYeYtxo": {
+        "annotations": [
+            {
+                "segment": [
+                    0,
+                    9.126091516380656
+                ],
+                "label": "Clean and jerk"
+            }
+        ]
+    },
+    "v_xaCOYdzox0g": {
+        "annotations": [
+            {
+                "segment": [
+                    31.18123075127087,
+                    219.34383011238816
+                ],
+                "label": "Preparing pasta"
+            }
+        ]
+    },
+    "v_zdMvd5Cr5jM": {
+        "annotations": [
+            {
+                "segment": [
+                    41.050751095163804,
+                    99.3860289672387
+                ],
+                "label": "Cheerleading"
+            }
+        ]
+    },
+    "v_QwnUZ-5JaOM": {
+        "annotations": [
+            {
+                "segment": [
+                    21.571258970358812,
+                    39.08638377535101
+                ],
+                "label": "Long jump"
+            },
+            {
+                "segment": [
+                    52.729744149765985,
+                    66.18873478939157
+                ],
+                "label": "Long jump"
+            },
+            {
+                "segment": [
+                    106.01259750390015,
+                    109.69999219968798
+                ],
+                "label": "Long jump"
+            }
+        ]
+    },
+    "v_SGiMk9KdOQw": {
+        "annotations": [
+            {
+                "segment": [
+                    0.01,
+                    0.02
+                ],
+                "label": "Playing water polo"
+            }
+        ]
+    },
+    "v_XBO6AIdaCzU": {
+        "annotations": [
+            {
+                "segment": [
+                    0,
+                    3.0091756661466458
+                ],
+                "label": "Playing harmonica"
+            },
+            {
+                "segment": [
+                    8.191644868954757,
+                    96.62797416848673
+                ],
+                "label": "Playing harmonica"
+            },
+            {
+                "segment": [
+                    106.6585597223089,
+                    106.960089
+                ],
+                "label": "Playing harmonica"
+            }
+        ]
+    },
+    "v_XZZRyOhxQBE": {
+        "annotations": [
+            {
+                "segment": [
+                    11.046684840873635,
+                    17.550807691107643
+                ],
+                "label": "Pole vault"
+            },
+            {
+                "segment": [
+                    32.933574432137284,
+                    40.263617644305775
+                ],
+                "label": "Pole vault"
+            }
+        ]
+    },
+    "v_V1SEaTS9hos": {
+        "annotations": [
+            {
+                "segment": [
+                    0.01,
+                    11.145577
+                ],
+                "label": "Hand washing clothes"
+            }
+        ]
+    },
+    "v_XlEmG7nM0jw": {
+        "annotations": [
+            {
+                "segment": [
+                    35.15579314,
+                    54.46102443
+                ],
+                "label": "Mixing drinks"
+            },
+            {
+                "segment": [
+                    0.7876966200000001,
+                    34.54586583463338
+                ],
+                "label": "Mixing drinks"
+            }
+        ]
+    },
+    "v_-faeAVsbBG0": {
+        "annotations": [
+            {
+                "segment": [
+                    0.303387943053914,
+                    84.66948140099782
+                ],
+                "label": "Doing step aerobics"
+            }
+        ]
+    },
+    "v_-r_bvqjYjYg": {
+        "annotations": [
+            {
+                "segment": [
+                    5.5781064,
+                    38.9549214
+                ],
+                "label": "Shot put"
+            }
+        ]
+    },
+    "v_lviFcaF4HUo": {
+        "annotations": [
+            {
+                "segment": [
+                    0,
+                    19.363769110764434
+                ],
+                "label": "Using uneven bars"
+            },
+            {
+                "segment": [
+                    20.32094952,
+                    35.32735257410297
+                ],
+                "label": "Using uneven bars"
+            }
+        ]
+    },
+    "v_ekJtPwfLM-M": {
+        "annotations": [
+            {
+                "segment": [
+                    41.43472982059975,
+                    151.35155618975864
+                ],
+                "label": "Breakdancing"
+            }
+        ]
+    },
+    "v_TeLWp5sSxg0": {
+        "annotations": [
+            {
+                "segment": [
+                    41.54384243369735,
+                    186.201
+                ],
+                "label": "Removing curlers"
+            }
+        ]
+    },
+    "v__8Zk9dfBgPg": {
+        "annotations": [
+            {
+                "segment": [
+                    0.01,
+                    101.44585858264263
+                ],
+                "label": "Painting"
+            }
+        ]
+    },
+    "v_8xvoAyY70I8": {
+        "annotations": [
+            {
+                "segment": [
+                    8.36552504,
+                    32.228190830733226
+                ],
+                "label": "Washing dishes"
+            }
+        ]
+    },
+    "v_XuYmybr9uDE": {
+        "annotations": [
+            {
+                "segment": [
+                    33.341229676730975,
+                    69.58749867673097
+                ],
+                "label": "Mixing drinks"
+            }
+        ]
+    },
+    "v__uOfIm1tFcI": {
+        "annotations": [
+            {
+                "segment": [
+                    6.459276987519502,
+                    124.18480917940718
+                ],
+                "label": "Tumbling"
+            }
+        ]
+    },
+    "v_aKacWW7Mn2c": {
+        "annotations": [
+            {
+                "segment": [
+                    0.7462565569422778,
+                    17.66140518096724
+                ],
+                "label": "Plataform diving"
+            }
+        ]
+    },
+    "v_5zYETEiYiCQ": {
+        "annotations": [
+            {
+                "segment": [
+                    0.01,
+                    65.177913
+                ],
+                "label": "Playing piano"
+            }
+        ]
+    },
+    "v_kWN4zFblj6o": {
+        "annotations": [
+            {
+                "segment": [
+                    2.82041358,
+                    21.410989800000003
+                ],
+                "label": "Doing step aerobics"
+            },
+            {
+                "segment": [
+                    28.416316780000002,
+                    62.23108798
+                ],
+                "label": "Doing step aerobics"
+            }
+        ]
+    },
+    "v_3TxZTZEEg44": {
+        "annotations": [
+            {
+                "segment": [
+                    76.4219315522621,
+                    114.08265942121686
+                ],
+                "label": "Tennis serve with ball bouncing"
+            }
+        ]
+    },
+    "v_5vDPgcyRtOU": {
+        "annotations": [
+            {
+                "segment": [
+                    41.99080659825032,
+                    99.94505964430577
+                ],
+                "label": "Polishing forniture"
+            }
+        ]
+    },
+    "v_lGKUEUBeo8U": {
+        "annotations": [
+            {
+                "segment": [
+                    4.754475842433698,
+                    117.88786899
+                ],
+                "label": "Doing step aerobics"
+            }
+        ]
+    },
+    "v_cWpT8nb2a9s": {
+        "annotations": [
+            {
+                "segment": [
+                    32.67306263,
+                    72.39849752901681
+                ],
+                "label": "Cheerleading"
+            }
+        ]
+    },
+    "v_8nQGd6hiduA": {
+        "annotations": [
+            {
+                "segment": [
+                    118.2986209822153,
+                    165.6704141063602
+                ],
+                "label": "Tennis serve with ball bouncing"
+            }
+        ]
+    },
+    "v_mbGpp_nDwI4": {
+        "annotations": [
+            {
+                "segment": [
+                    11.79585543421737,
+                    53.61752470098804
+                ],
+                "label": "Using parallel bars"
+            },
+            {
+                "segment": [
+                    76.59646255850234,
+                    92.52852677067082
+                ],
+                "label": "Using parallel bars"
+            }
+        ]
+    },
+    "v_G8OyFOhVGCI": {
+        "annotations": [
+            {
+                "segment": [
+                    55.519158627569595,
+                    67.16027253335031
+                ],
+                "label": "Getting a piercing"
+            },
+            {
+                "segment": [
+                    113.94859442433697,
+                    123.35103247113884
+                ],
+                "label": "Getting a piercing"
+            }
+        ]
+    },
+    "v_aa5jHg4E3O0": {
+        "annotations": [
+            {
+                "segment": [
+                    0.01,
+                    4.741521060842434
+                ],
+                "label": "Drinking coffee"
+            }
+        ]
+    },
+    "v_zLeCGU8SVVc": {
+        "annotations": [
+            {
+                "segment": [
+                    7.632554734789391,
+                    103.12068631045241
+                ],
+                "label": "Cheerleading"
+            }
+        ]
+    },
+    "v_TRXLUcm2CuQ": {
+        "annotations": [
+            {
+                "segment": [
+                    16.83138801622465,
+                    63.11770506084244
+                ],
+                "label": "Shaving legs"
+            },
+            {
+                "segment": [
+                    98.88440459531981,
+                    115.97878304929799
+                ],
+                "label": "Shaving legs"
+            }
+        ]
+    },
+    "v_DW7Zm9DzEDk": {
+        "annotations": [
+            {
+                "segment": [
+                    0.2,
+                    23.014397035881434
+                ],
+                "label": "Long jump"
+            }
+        ]
+    },
+    "v_-UwqKYkkKlU": {
+        "annotations": [
+            {
+                "segment": [
+                    9.776557360374415,
+                    55.46699890171607
+                ],
+                "label": "Spinning"
+            }
+        ]
+    },
+    "v_VXLyTLY1PAw": {
+        "annotations": [
+            {
+                "segment": [
+                    1.67063325,
+                    6.287656050000001
+                ],
+                "label": "High jump"
+            }
+        ]
+    },
+    "v_mDaZqz7lB0o": {
+        "annotations": [
+            {
+                "segment": [
+                    33.151574814012974,
+                    146.07412652424466
+                ],
+                "label": "Playing piano"
+            }
+        ]
+    },
+    "v_yUYTlwiP16E": {
+        "annotations": [
+            {
+                "segment": [
+                    17.47085928627145,
+                    42.402247673166926
+                ],
+                "label": "Shoveling snow"
+            }
+        ]
+    },
+    "v_otWTm1_aAqI": {
+        "annotations": [
+            {
+                "segment": [
+                    3.2293450624024955,
+                    36.599244040561615
+                ],
+                "label": "Using the pommel horse"
+            }
+        ]
+    },
+    "v_9uxkazuxmDw": {
+        "annotations": [
+            {
+                "segment": [
+                    0.01,
+                    237.77233560090704
+                ],
+                "label": "Playing lacrosse"
+            }
+        ]
+    },
+    "v_GavbA_SHlVM": {
+        "annotations": [
+            {
+                "segment": [
+                    25.209995319812794,
+                    30.966608424336975
+                ],
+                "label": "Bungee jumping"
+            },
+            {
+                "segment": [
+                    73.84345085803432,
+                    79.99707176287052
+                ],
+                "label": "Bungee jumping"
+            }
+        ]
+    },
+    "v_EbQJuDQdW8U": {
+        "annotations": [
+            {
+                "segment": [
+                    21.490188767550702,
+                    124.081
+                ],
+                "label": "Ironing clothes"
+            }
+        ]
+    },
+    "v_xbcP38aF5Ok": {
+        "annotations": [
+            {
+                "segment": [
+                    0,
+                    42.80454880109204
+                ],
+                "label": "Tumbling"
+            }
+        ]
+    },
+    "v_pem8BpCspUM": {
+        "annotations": [
+            {
+                "segment": [
+                    0.013232449297971918,
+                    4.194686427457098
+                ],
+                "label": "Playing kickball"
+            }
+        ]
+    },
+    "v_5j5_YV25cFA": {
+        "annotations": [
+            {
+                "segment": [
+                    9.126854789391576,
+                    80.62055063962558
+                ],
+                "label": "Playing squash"
+            }
+        ]
+    },
+    "v_VNUVKrN4ndc": {
+        "annotations": [
+            {
+                "segment": [
+                    27.796666146645865,
+                    69.55691575663026
+                ],
+                "label": "Using parallel bars"
+            }
+        ]
+    },
+    "v_fO8b3U8fuGo": {
+        "annotations": [
+            {
+                "segment": [
+                    0.733232449297972,
+                    17.569377535101406
+                ],
+                "label": "Horseback riding"
+            }
+        ]
+    },
+    "v_Eu3QFCldg0s": {
+        "annotations": [
+            {
+                "segment": [
+                    0.01,
+                    125.11746105772231
+                ],
+                "label": "Walking the dog"
+            }
+        ]
+    },
+    "v_qXD7myRvw0M": {
+        "annotations": [
+            {
+                "segment": [
+                    0.01,
+                    28.32755
+                ],
+                "label": "Playing badminton"
+            }
+        ]
+    },
+    "v_eCXiGAChev4": {
+        "annotations": [
+            {
+                "segment": [
+                    0.01,
+                    69.48887247425897
+                ],
+                "label": "Washing dishes"
+            }
+        ]
+    },
+    "v_hL11sP4Hlrg": {
+        "annotations": [
+            {
+                "segment": [
+                    22.465164411856477,
+                    97.16640217160686
+                ],
+                "label": "Doing nails"
+            }
+        ]
+    },
+    "v_X9AnhFjdiXA": {
+        "annotations": [
+            {
+                "segment": [
+                    0,
+                    144.6754155101404
+                ],
+                "label": "Playing guitarra"
+            }
+        ]
+    },
+    "v_ynvCxrj1UNg": {
+        "annotations": [
+            {
+                "segment": [
+                    1.3640679,
+                    96.8029953198128
+                ],
+                "label": "Using the balance beam"
+            }
+        ]
+    },
+    "v_qkk2tK19sx8": {
+        "annotations": [
+            {
+                "segment": [
+                    8.690590745709828,
+                    42.73538201560063
+                ],
+                "label": "Using the pommel horse"
+            }
+        ]
+    },
+    "v_j18sB8o2IQw": {
+        "annotations": [
+            {
+                "segment": [
+                    0.01,
+                    10.101222622464899
+                ],
+                "label": "Plataform diving"
+            }
+        ]
+    },
+    "v_7-_Nur_xiV4": {
+        "annotations": [
+            {
+                "segment": [
+                    4.350209600220744,
+                    179.51864765210607
+                ],
+                "label": "Breakdancing"
+            }
+        ]
+    },
+    "v_0h4UT-2XTAw": {
+        "annotations": [
+            {
+                "segment": [
+                    25.99690795631825,
+                    124.41377379095162
+                ],
+                "label": "Removing curlers"
+            }
+        ]
+    },
+    "v_5T_P4x0q0VM": {
+        "annotations": [
+            {
+                "segment": [
+                    1.2655046092043682,
+                    21.549226373634948
+                ],
+                "label": "Polishing shoes"
+            }
+        ]
+    },
+    "v_-voGnJbk3CI": {
+        "annotations": [
+            {
+                "segment": [
+                    13.758041341653666,
+                    25.9464976
+                ],
+                "label": "Plataform diving"
+            },
+            {
+                "segment": [
+                    29.553344199999998,
+                    38.6406887675507
+                ],
+                "label": "Plataform diving"
+            },
+            {
+                "segment": [
+                    41.64540795631825,
+                    48.37597893915757
+                ],
+                "label": "Plataform diving"
+            },
+            {
+                "segment": [
+                    67.36580421216848,
+                    70.61090093603744
+                ],
+                "label": "Plataform diving"
+            }
+        ]
+    },
+    "v_FUvUDCZxAO8": {
+        "annotations": [
+            {
+                "segment": [
+                    34.49527212653132,
+                    41.918305368949454
+                ],
+                "label": "Archery"
+            },
+            {
+                "segment": [
+                    47.37641804719808,
+                    58.07431889656539
+                ],
+                "label": "Archery"
+            },
+            {
+                "segment": [
+                    94.31618708013627,
+                    119.20518089295001
+                ],
+                "label": "Archery"
+            }
+        ]
+    },
+    "v_62Dwj4l7_qs": {
+        "annotations": [
+            {
+                "segment": [
+                    1.2543907956318254,
+                    135.0711926677067
+                ],
+                "label": "Snatch"
+            }
+        ]
+    },
+    "v_GGv0sCOf_tM": {
+        "annotations": [
+            {
+                "segment": [
+                    1.2089952985874537,
+                    17.41496598639456
+                ],
+                "label": "Hand washing clothes"
+            }
+        ]
+    },
+    "v_2Tuht3F2uc8": {
+        "annotations": [
+            {
+                "segment": [
+                    2.1647425741029642,
+                    44.305064683307336
+                ],
+                "label": "Shoveling snow"
+            }
+        ]
+    },
+    "v_j05b3qqgRxw": {
+        "annotations": [
+            {
+                "segment": [
+                    0.01,
+                    24.85644461778471
+                ],
+                "label": "Getting a tattoo"
+            },
+            {
+                "segment": [
+                    30.51769890795632,
+                    44.31700624024961
+                ],
+                "label": "Getting a tattoo"
+            }
+        ]
+    },
+    "v_Ls-0SqAeXW0": {
+        "annotations": [
+            {
+                "segment": [
+                    4.141474258970359,
+                    38.02626365054603
+                ],
+                "label": "Playing squash"
+            },
+            {
+                "segment": [
+                    48.417599063962555,
+                    65.13409516380656
+                ],
+                "label": "Playing squash"
+            },
+            {
+                "segment": [
+                    75.52543057722309,
+                    92.84432293291732
+                ],
+                "label": "Playing squash"
+            }
+        ]
+    },
+    "v_D0pVkTEYQg8": {
+        "annotations": [
+            {
+                "segment": [
+                    0.01,
+                    20.82845748829953
+                ],
+                "label": "Spinning"
+            }
+        ]
+    },
+    "v_5JCqKshcfHE": {
+        "annotations": [
+            {
+                "segment": [
+                    0.8114274570982839,
+                    16.641380655226207
+                ],
+                "label": "Shaving legs"
+            }
+        ]
+    },
+    "v_K5wPwCFVkhU": {
+        "annotations": [
+            {
+                "segment": [
+                    0.01,
+                    15.789568
+                ],
+                "label": "Washing face"
+            }
+        ]
+    },
+    "v_xftFhOCEqFs": {
+        "annotations": [
+            {
+                "segment": [
+                    12.745198127925116,
+                    25.750502340093608
+                ],
+                "label": "Pole vault"
+            },
+            {
+                "segment": [
+                    28.351563182527304,
+                    33.03347269890796
+                ],
+                "label": "Pole vault"
+            },
+            {
+                "segment": [
+                    33.81379095163807,
+                    36.414851794071765
+                ],
+                "label": "Pole vault"
+            },
+            {
+                "segment": [
+                    36.9350639625585,
+                    81.67331045241811
+                ],
+                "label": "Pole vault"
+            },
+            {
+                "segment": [
+                    86.61532605304212,
+                    141.23760374414977
+                ],
+                "label": "Pole vault"
+            }
+        ]
+    },
+    "v_6fuOwhx91zM": {
+        "annotations": [
+            {
+                "segment": [
+                    74.32558502340093,
+                    84.43790951638064
+                ],
+                "label": "Skateboarding"
+            }
+        ]
+    },
+    "v__xgGaxc1jNE": {
+        "annotations": [
+            {
+                "segment": [
+                    0,
+                    1.7248695070202809
+                ],
+                "label": "Playing water polo"
+            }
+        ]
+    },
+    "v_rzm4V_McRhQ": {
+        "annotations": [
+            {
+                "segment": [
+                    7.281610729329172,
+                    62.5139765577223
+                ],
+                "label": "Mixing drinks"
+            }
+        ]
+    },
+    "v_0KqeKi2CBqg": {
+        "annotations": [
+            {
+                "segment": [
+                    53.56269500780031,
+                    83.48059672386896
+                ],
+                "label": "Smoking a cigarette"
+            }
+        ]
+    },
+    "v_FtbrPGaINt0": {
+        "annotations": [
+            {
+                "segment": [
+                    13.6680816,
+                    45.6110901
+                ],
+                "label": "Plataform diving"
+            }
+        ]
+    },
+    "v_RPkH81M6-NE": {
+        "annotations": [
+            {
+                "segment": [
+                    11.861158399375974,
+                    135.39624210608426
+                ],
+                "label": "Sailing"
+            }
+        ]
+    },
+    "v_O0KUnuhLwj0": {
+        "annotations": [
+            {
+                "segment": [
+                    31.150166614664588,
+                    107.62557566302652
+                ],
+                "label": "Smoking a cigarette"
+            }
+        ]
+    },
+    "v_QBXswoKU4S4": {
+        "annotations": [
+            {
+                "segment": [
+                    4.627965678627145,
+                    21.340063962558503
+                ],
+                "label": "Cricket"
+            },
+            {
+                "segment": [
+                    47.822312012480495,
+                    106.95742901716068
+                ],
+                "label": "Cricket"
+            }
+        ]
+    },
+    "v_UfjR8ewF8xo": {
+        "annotations": [
+            {
+                "segment": [
+                    22.66394383775351,
+                    71.99135101404056
+                ],
+                "label": "Layup drill in basketball"
+            },
+            {
+                "segment": [
+                    71.65805772230888,
+                    197.97621528861154
+                ],
+                "label": "Layup drill in basketball"
+            }
+        ]
+    },
+    "v_cICxG-28hK0": {
+        "annotations": [
+            {
+                "segment": [
+                    3.009589205928237,
+                    20.4808408299532
+                ],
+                "label": "Dodgeball"
+            }
+        ]
+    },
+    "v_7mmXZeOJT8w": {
+        "annotations": [
+            {
+                "segment": [
+                    0.41926324492979716,
+                    22.50046081123245
+                ],
+                "label": "Brushing teeth"
+            }
+        ]
+    },
+    "v_CR_79ZjQG_w": {
+        "annotations": [
+            {
+                "segment": [
+                    8.259094797191887,
+                    12.769380608424337
+                ],
+                "label": "Hopscotch"
+            },
+            {
+                "segment": [
+                    21.204200826833073,
+                    26.65168888455538
+                ],
+                "label": "Hopscotch"
+            },
+            {
+                "segment": [
+                    29.873321606864273,
+                    33.153529469578785
+                ],
+                "label": "Hopscotch"
+            }
+        ]
+    },
+    "v_NNZKinEXYc4": {
+        "annotations": [
+            {
+                "segment": [
+                    0.01,
+                    0.02
+                ],
+                "label": "Using the balance beam"
+            }
+        ]
+    },
+    "v_lol04SNoopE": {
+        "annotations": [
+            {
+                "segment": [
+                    1.3980513042121685,
+                    3.2215964836193445
+                ],
+                "label": "Springboard diving"
+            }
+        ]
+    },
+    "v_wcmO0R3Kqzo": {
+        "annotations": [
+            {
+                "segment": [
+                    15.978601029641185,
+                    79.74774513884554
+                ],
+                "label": "Doing nails"
+            }
+        ]
+    },
+    "v_CL6TbOgnLzA": {
+        "annotations": [
+            {
+                "segment": [
+                    17.31555460218409,
+                    197.591515600624
+                ],
+                "label": "Playing water polo"
+            }
+        ]
+    },
+    "v_H1cKUnazzFM": {
+        "annotations": [
+            {
+                "segment": [
+                    11.644127925117006,
+                    23.47759126365055
+                ],
+                "label": "Hammer throw"
+            }
+        ]
+    },
+    "v_R0B5bBr6t8w": {
+        "annotations": [
+            {
+                "segment": [
+                    2.711771887675507,
+                    4.338835020280811
+                ],
+                "label": "Layup drill in basketball"
+            },
+            {
+                "segment": [
+                    8.106770695787832,
+                    9.36274925429017
+                ],
+                "label": "Layup drill in basketball"
+            },
+            {
+                "segment": [
+                    12.845235257410295,
+                    13.673039307332292
+                ],
+                "label": "Layup drill in basketball"
+            }
+        ]
+    },
+    "v_G72MBCYwT8E": {
+        "annotations": [
+            {
+                "segment": [
+                    18.265091263650547,
+                    34.144378315132606
+                ],
+                "label": "Hammer throw"
+            }
+        ]
+    },
+    "v_P3_YQbHXEIs": {
+        "annotations": [
+            {
+                "segment": [
+                    1.9083463338533544,
+                    62.648283931357255
+                ],
+                "label": "Getting a tattoo"
+            }
+        ]
+    },
+    "v_xKePBw5XZHs": {
+        "annotations": [
+            {
+                "segment": [
+                    61.53498084413173,
+                    85.55665744149766
+                ],
+                "label": "Doing nails"
+            },
+            {
+                "segment": [
+                    124.71528142433698,
+                    149.7241505226209
+                ],
+                "label": "Doing nails"
+            },
+            {
+                "segment": [
+                    167.16454607800313,
+                    191.84435110920438
+                ],
+                "label": "Doing nails"
+            }
+        ]
+    },
+    "v_y9kk0ptXevk": {
+        "annotations": [
+            {
+                "segment": [
+                    51.15619043999999,
+                    73.91653666146645
+                ],
+                "label": "Cleaning shoes"
+            }
+        ]
+    },
+    "v_UrQ7Jq1s95o": {
+        "annotations": [
+            {
+                "segment": [
+                    4.03068819,
+                    15.180632960218409
+                ],
+                "label": "Clean and jerk"
+            }
+        ]
+    },
+    "v_rAO-_VxIJng": {
+        "annotations": [
+            {
+                "segment": [
+                    1.0406958929684007,
+                    46.24799299577214
+                ],
+                "label": "Walking the dog"
+            }
+        ]
+    },
+    "v_ReKUs0km4X8": {
+        "annotations": [
+            {
+                "segment": [
+                    65.47655963806552,
+                    84.53935548205928
+                ],
+                "label": "Shot put"
+            },
+            {
+                "segment": [
+                    104.22376423400937,
+                    118.52086111700467
+                ],
+                "label": "Shot put"
+            }
+        ]
+    },
+    "v_ynUBEoobKW0": {
+        "annotations": [
+            {
+                "segment": [
+                    11.010858669266772,
+                    35.00562004680188
+                ],
+                "label": "Using the balance beam"
+            }
+        ]
+    },
+    "v_ByF8Pg3xXNA": {
+        "annotations": [
+            {
+                "segment": [
+                    0.10321734897740682,
+                    20.098707327170555
+                ],
+                "label": "Hand washing clothes"
+            }
+        ]
+    },
+    "v_mZ1Di2gg-I4": {
+        "annotations": [
+            {
+                "segment": [
+                    101.56633222932916,
+                    205.5780817675507
+                ],
+                "label": "Tai chi"
+            },
+            {
+                "segment": [
+                    6.032029361934478,
+                    99.0683211
+                ],
+                "label": "Tai chi"
+            }
+        ]
+    },
+    "v_yl37hI-Bgkk": {
+        "annotations": [
+            {
+                "segment": [
+                    21.248255913910025,
+                    54.06201821134069
+                ],
+                "label": "Getting a haircut"
+            }
+        ]
+    },
+    "v_SyOdA4ZKEtQ": {
+        "annotations": [
+            {
+                "segment": [
+                    10.356574102964117,
+                    25.85714196567863
+                ],
+                "label": "Tumbling"
+            },
+            {
+                "segment": [
+                    32.990146645865835,
+                    35.87078315132605
+                ],
+                "label": "Tumbling"
+            },
+            {
+                "segment": [
+                    39.84880499219968,
+                    41.632056162246485
+                ],
+                "label": "Tumbling"
+            },
+            {
+                "segment": [
+                    44.10117316692667,
+                    49.45092667706707
+                ],
+                "label": "Tumbling"
+            },
+            {
+                "segment": [
+                    61.796511700468024,
+                    65.63736037441497
+                ],
+                "label": "Tumbling"
+            }
+        ]
+    },
+    "v_CKjHXMoXye4": {
+        "annotations": [
+            {
+                "segment": [
+                    26.851029641185647,
+                    44.347507020280815
+                ],
+                "label": "High jump"
+            }
+        ]
+    },
+    "v_OwchMqCYaF4": {
+        "annotations": [
+            {
+                "segment": [
+                    0,
+                    16.115278529508526
+                ],
+                "label": "Cheerleading"
+            },
+            {
+                "segment": [
+                    36.72170025576533,
+                    145.8300605803432
+                ],
+                "label": "Cheerleading"
+            }
+        ]
+    },
+    "v_wdD-UHM8rTg": {
+        "annotations": [
+            {
+                "segment": [
+                    50.814679161316114,
+                    59.51582251638066
+                ],
+                "label": "Playing violin"
+            },
+            {
+                "segment": [
+                    112.07073011856473,
+                    117.29141630421216
+                ],
+                "label": "Playing violin"
+            },
+            {
+                "segment": [
+                    120.0757822698908,
+                    125.2964684555382
+                ],
+                "label": "Playing violin"
+            },
+            {
+                "segment": [
+                    136.0858865725429,
+                    139.21829828393135
+                ],
+                "label": "Playing violin"
+            },
+            {
+                "segment": [
+                    141.30657275819033,
+                    144.09093872386893
+                ],
+                "label": "Playing violin"
+            },
+            {
+                "segment": [
+                    154.18426534945397,
+                    156.27253982371295
+                ],
+                "label": "Playing violin"
+            },
+            {
+                "segment": [
+                    164.27759197503897,
+                    168.80218666926675
+                ],
+                "label": "Playing violin"
+            }
+        ]
+    },
+    "v_H1bmoIihWwo": {
+        "annotations": [
+            {
+                "segment": [
+                    39.04082480044878,
+                    40.641988923501735
+                ],
+                "label": "Springboard diving"
+            }
+        ]
+    },
+    "v_jl7aBkPfcS8": {
+        "annotations": [
+            {
+                "segment": [
+                    44.70132132449298,
+                    76.01493727769112
+                ],
+                "label": "Cleaning shoes"
+            }
+        ]
+    },
+    "v_yfjnahzAPSc": {
+        "annotations": [
+            {
+                "segment": [
+                    14.906957736812874,
+                    200.2717351825273
+                ],
+                "label": "Cricket"
+            }
+        ]
+    },
+    "v_8_jbsmj5Z9w": {
+        "annotations": [
+            {
+                "segment": [
+                    24.243516331129438,
+                    98.44833320951886
+                ],
+                "label": "Shaving"
+            }
+        ]
+    },
+    "v_AUFI2wx5Z48": {
+        "annotations": [
+            {
+                "segment": [
+                    1.2732571600000002,
+                    62.70473552
+                ],
+                "label": "Doing nails"
+            },
+            {
+                "segment": [
+                    76.88720928000001,
+                    115.55833267999999
+                ],
+                "label": "Doing nails"
+            }
+        ]
+    },
+    "v_CNdCnkKhitI": {
+        "annotations": [
+            {
+                "segment": [
+                    33.00762966028845,
+                    76.1009238776911
+                ],
+                "label": "Cricket"
+            },
+            {
+                "segment": [
+                    83.1303264848674,
+                    136.61491153946957
+                ],
+                "label": "Cricket"
+            },
+            {
+                "segment": [
+                    176.0406913797192,
+                    186.4319821903276
+                ],
+                "label": "Cricket"
+            }
+        ]
+    },
+    "v_KGTPkiDRpfE": {
+        "annotations": [
+            {
+                "segment": [
+                    3.5971138845553825,
+                    39.38057722308892
+                ],
+                "label": "Kayaking"
+            }
+        ]
+    },
+    "v_e5_lP2HgtSE": {
+        "annotations": [
+            {
+                "segment": [
+                    9.835117160686426,
+                    21.921229446177847
+                ],
+                "label": "Walking the dog"
+            }
+        ]
+    },
+    "v_2FIQwmB362w": {
+        "annotations": [
+            {
+                "segment": [
+                    23.383547581903272,
+                    135.95085803432136
+                ],
+                "label": "Skateboarding"
+            },
+            {
+                "segment": [
+                    147.64263182527299,
+                    163.68483307332292
+                ],
+                "label": "Skateboarding"
+            }
+        ]
+    },
+    "v_UFVeN-ThOwU": {
+        "annotations": [
+            {
+                "segment": [
+                    0,
+                    21.978107124284968
+                ],
+                "label": "Washing dishes"
+            },
+            {
+                "segment": [
+                    26.01490231037813,
+                    98.67721566005496
+                ],
+                "label": "Washing dishes"
+            },
+            {
+                "segment": [
+                    114.15159648829953,
+                    126.37879475232177
+                ],
+                "label": "Washing dishes"
+            }
+        ]
+    },
+    "v_qRPq2PEiyM0": {
+        "annotations": [
+            {
+                "segment": [
+                    0.6179550639625585,
+                    53.32069409048361
+                ],
+                "label": "Playing saxophone"
+            }
+        ]
+    },
+    "v_4R0fSNCWUo0": {
+        "annotations": [
+            {
+                "segment": [
+                    12.588620374414978,
+                    142.59033462558503
+                ],
+                "label": "Playing saxophone"
+            }
+        ]
+    },
+    "v_f4UdgFrorCo": {
+        "annotations": [
+            {
+                "segment": [
+                    81.57775018483733,
+                    187.62882542512583
+                ],
+                "label": "Tango"
+            }
+        ]
+    },
+    "v_rulzKikXMHo": {
+        "annotations": [
+            {
+                "segment": [
+                    0.9097969499999999,
+                    12.245138686427458
+                ],
+                "label": "Shot put"
+            }
+        ]
+    },
+    "v_jYU215e-dKg": {
+        "annotations": [
+            {
+                "segment": [
+                    12.869288062402497,
+                    33.34878012324493
+                ],
+                "label": "Drinking beer"
+            }
+        ]
+    },
+    "v_z2qG-TOSwqw": {
+        "annotations": [
+            {
+                "segment": [
+                    0,
+                    49.20308390022676
+                ],
+                "label": "Getting a piercing"
+            }
+        ]
+    },
+    "v_FJ7yrh2UiQ8": {
+        "annotations": [
+            {
+                "segment": [
+                    32.23132527301092,
+                    187.41324258970357
+                ],
+                "label": "Paintball"
+            }
+        ]
+    },
+    "v_eVTMUEYhwDE": {
+        "annotations": [
+            {
+                "segment": [
+                    0.3677468209048362,
+                    10.848531216692669
+                ],
+                "label": "Clean and jerk"
+            }
+        ]
+    },
+    "v_oqVNFPUANfs": {
+        "annotations": [
+            {
+                "segment": [
+                    6.428101404056163,
+                    86.68197347893916
+                ],
+                "label": "Using the balance beam"
+            },
+            {
+                "segment": [
+                    109.0829329173167,
+                    117.84852574102965
+                ],
+                "label": "Using the balance beam"
+            }
+        ]
+    },
+    "v_QDTo_ss6INM": {
+        "annotations": [
+            {
+                "segment": [
+                    24.986373453978157,
+                    92.39147393447737
+                ],
+                "label": "Preparing salad"
+            }
+        ]
+    },
+    "v_AqTZd5HZKNI": {
+        "annotations": [
+            {
+                "segment": [
+                    0.01,
+                    46.19663806552262
+                ],
+                "label": "Vacuuming floor"
+            },
+            {
+                "segment": [
+                    50.657003120124806,
+                    60.53352574102965
+                ],
+                "label": "Vacuuming floor"
+            },
+            {
+                "segment": [
+                    65.31248829953198,
+                    162.16612948517943
+                ],
+                "label": "Vacuuming floor"
+            },
+            {
+                "segment": [
+                    166.6264945397816,
+                    204.02100000000002
+                ],
+                "label": "Vacuuming floor"
+            }
+        ]
+    },
+    "v__R-jA9hOFCE": {
+        "annotations": [
+            {
+                "segment": [
+                    4.835981194349815,
+                    8.05996865724969
+                ],
+                "label": "Sailing"
+            },
+            {
+                "segment": [
+                    18.054329792239308,
+                    21.60071600142917
+                ],
+                "label": "Sailing"
+            },
+            {
+                "segment": [
+                    25.147102210619035,
+                    42.879033256568356
+                ],
+                "label": "Sailing"
+            },
+            {
+                "segment": [
+                    142.8226446064645,
+                    145.07943583049442
+                ],
+                "label": "Sailing"
+            },
+            {
+                "segment": [
+                    152.81700574145415,
+                    155.71859445806405
+                ],
+                "label": "Sailing"
+            },
+            {
+                "segment": [
+                    164.10096077223088,
+                    169.90413816692666
+                ],
+                "label": "Sailing"
+            }
+        ]
+    },
+    "v_dDN37ufNu84": {
+        "annotations": [
+            {
+                "segment": [
+                    8.437277691107646,
+                    27.731790750000002
+                ],
+                "label": "Ping-pong"
+            },
+            {
+                "segment": [
+                    34.64150427,
+                    81.11744929797192
+                ],
+                "label": "Ping-pong"
+            }
+        ]
+    },
+    "v_BhAQhPasmhU": {
+        "annotations": [
+            {
+                "segment": [
+                    0,
+                    154.505578
+                ],
+                "label": "Discus throw"
+            }
+        ]
+    },
+    "v_44FeihJUKvM": {
+        "annotations": [
+            {
+                "segment": [
+                    0.01,
+                    59.09478458049887
+                ],
+                "label": "Drinking coffee"
+            }
+        ]
+    },
+    "v_8gUKEh27AFM": {
+        "annotations": [
+            {
+                "segment": [
+                    1.0228642745709828,
+                    23.485765990639628
+                ],
+                "label": "Hammer throw"
+            }
+        ]
+    },
+    "v_J76bFZWXHFY": {
+        "annotations": [
+            {
+                "segment": [
+                    0.01,
+                    16.761528861154446
+                ],
+                "label": "Rock climbing"
+            },
+            {
+                "segment": [
+                    24.07565054602184,
+                    185.59583775351015
+                ],
+                "label": "Rock climbing"
+            }
+        ]
+    },
+    "v_7-u3OI6HDns": {
+        "annotations": [
+            {
+                "segment": [
+                    53.847690647761965,
+                    59.354840827646704
+                ],
+                "label": "Belly dance"
+            },
+            {
+                "segment": [
+                    67.9215188852452,
+                    95.7632225724403
+                ],
+                "label": "Belly dance"
+            },
+            {
+                "segment": [
+                    108.00133408329529,
+                    159.09544886115444
+                ],
+                "label": "Belly dance"
+            },
+            {
+                "segment": [
+                    166.1323629453978,
+                    182.65381340405617
+                ],
+                "label": "Belly dance"
+            }
+        ]
+    },
+    "v_nDo0nfs9Ee4": {
+        "annotations": [
+            {
+                "segment": [
+                    0.2501915607698981,
+                    17.221517830240305
+                ],
+                "label": "Bathing dog"
+            }
+        ]
+    },
+    "v_RTD_JWmhNkA": {
+        "annotations": [
+            {
+                "segment": [
+                    0.01,
+                    119.11523868954758
+                ],
+                "label": "Playing guitarra"
+            }
+        ]
+    },
+    "v_vgXU0u-rN9c": {
+        "annotations": [
+            {
+                "segment": [
+                    0.01,
+                    37.25538403900156
+                ],
+                "label": "Mixing drinks"
+            }
+        ]
+    },
+    "v_riuJrZqkYYU": {
+        "annotations": [
+            {
+                "segment": [
+                    0.01,
+                    73.51541313353214
+                ],
+                "label": "Dodgeball"
+            }
+        ]
+    },
+    "v_8AsV0ojyUMU": {
+        "annotations": [
+            {
+                "segment": [
+                    9.346045241809671,
+                    104.10198907956318
+                ],
+                "label": "Fixing bicycle"
+            }
+        ]
+    },
+    "v_4KE6dUAGZ94": {
+        "annotations": [
+            {
+                "segment": [
+                    6.833494539781592,
+                    205.98104800624026
+                ],
+                "label": "Using the pommel horse"
+            }
+        ]
+    },
+    "v_NrlITLsd7Fk": {
+        "annotations": [
+            {
+                "segment": [
+                    0.1507644305772231,
+                    11.665397815912636
+                ],
+                "label": "Using the pommel horse"
+            }
+        ]
+    },
+    "v_u02UsNRxclU": {
+        "annotations": [
+            {
+                "segment": [
+                    13.55567468798752,
+                    212.7337214368175
+                ],
+                "label": "Smoking hookah"
+            }
+        ]
+    },
+    "v_Vtsv9iPHDqg": {
+        "annotations": [
+            {
+                "segment": [
+                    75.00404864000001,
+                    88.55095416
+                ],
+                "label": "Long jump"
+            },
+            {
+                "segment": [
+                    105.00603691999999,
+                    148.0194033767551
+                ],
+                "label": "Long jump"
+            }
+        ]
+    },
+    "v_D7WhCBcddSA": {
+        "annotations": [
+            {
+                "segment": [
+                    4.196798354134165,
+                    28.883847496099843
+                ],
+                "label": "Playing racquetball"
+            }
+        ]
+    },
+    "v_5Wp2dxIAocI": {
+        "annotations": [
+            {
+                "segment": [
+                    20.947745709828393,
+                    180.55620336
+                ],
+                "label": "Wrapping presents"
+            }
+        ]
+    },
+    "v_vBOejU7dBzY": {
+        "annotations": [
+            {
+                "segment": [
+                    0,
+                    58.05944773790952
+                ],
+                "label": "Grooming horse"
+            }
+        ]
+    },
+    "v_xmW27Mi-jbg": {
+        "annotations": [
+            {
+                "segment": [
+                    86.84900456630265,
+                    123.43727891156463
+                ],
+                "label": "Starting a campfire"
+            }
+        ]
+    },
+    "v_8TGG-FZx0cc": {
+        "annotations": [
+            {
+                "segment": [
+                    25.58419129797192,
+                    165.651179138322
+                ],
+                "label": "Preparing pasta"
+            }
+        ]
+    },
+    "v_NDyc4PZE954": {
+        "annotations": [
+            {
+                "segment": [
+                    30.254751950078003,
+                    39.56390639625585
+                ],
+                "label": "Polishing shoes"
+            },
+            {
+                "segment": [
+                    61.09132605304212,
+                    63.12770358814352
+                ],
+                "label": "Polishing shoes"
+            },
+            {
+                "segment": [
+                    79.70963494539781,
+                    128.5826957878315
+                ],
+                "label": "Polishing shoes"
+            }
+        ]
+    },
+    "v_CGIrDfEP5lE": {
+        "annotations": [
+            {
+                "segment": [
+                    0,
+                    22.547631853573463
+                ],
+                "label": "Mowing the lawn"
+            },
+            {
+                "segment": [
+                    44.20522560766376,
+                    92.56396234624896
+                ],
+                "label": "Mowing the lawn"
+            }
+        ]
+    },
+    "v_KzZlSbM16aY": {
+        "annotations": [
+            {
+                "segment": [
+                    24.90483619344774,
+                    95.10534321372856
+                ],
+                "label": "Playing flauta"
+            }
+        ]
+    },
+    "v_2XOTxAZZhsQ": {
+        "annotations": [
+            {
+                "segment": [
+                    37.03385499,
+                    50.489745899999996
+                ],
+                "label": "Washing dishes"
+            },
+            {
+                "segment": [
+                    11.51596908,
+                    32.366745509999994
+                ],
+                "label": "Washing dishes"
+            }
+        ]
+    },
+    "v_AzmaqkS88YM": {
+        "annotations": [
+            {
+                "segment": [
+                    0.01,
+                    149.327527
+                ],
+                "label": "Playing squash"
+            }
+        ]
+    },
+    "v_DinaQYSgbtg": {
+        "annotations": [
+            {
+                "segment": [
+                    4.428454602184088,
+                    54.91283706708268
+                ],
+                "label": "Washing dishes"
+            }
+        ]
+    },
+    "v_O_e0pqEMZMw": {
+        "annotations": [
+            {
+                "segment": [
+                    0,
+                    111.581
+                ],
+                "label": "Drinking coffee"
+            }
+        ]
+    },
+    "v_kAQML4pRtck": {
+        "annotations": [
+            {
+                "segment": [
+                    0.28460218408736354,
+                    5.919725429017161
+                ],
+                "label": "Hammer throw"
+            }
+        ]
+    },
+    "v_x_FAc0KqMVw": {
+        "annotations": [
+            {
+                "segment": [
+                    71.6790717628705,
+                    114.31415600624025
+                ],
+                "label": "Playing guitarra"
+            }
+        ]
+    },
+    "v_F51cKkjt6tk": {
+        "annotations": [
+            {
+                "segment": [
+                    3.945454069422776,
+                    22.91304071372855
+                ],
+                "label": "Putting on makeup"
+            }
+        ]
+    },
+    "v_2-S2fehRKVc": {
+        "annotations": [
+            {
+                "segment": [
+                    1.3781997948517941,
+                    4.171548440717629
+                ],
+                "label": "Chopping wood"
+            }
+        ]
+    },
+    "v_CPnLc0MtBYc": {
+        "annotations": [
+            {
+                "segment": [
+                    3.100642732059282,
+                    13.420517787441499
+                ],
+                "label": "High jump"
+            }
+        ]
+    },
+    "v_ZTHsS5lQyvQ": {
+        "annotations": [
+            {
+                "segment": [
+                    16.093452799999998,
+                    128.22573220592824
+                ],
+                "label": "Making a sandwich"
+            }
+        ]
+    },
+    "v_MdOAr_4FJvc": {
+        "annotations": [
+            {
+                "segment": [
+                    0.01,
+                    230.21858344305775
+                ],
+                "label": "Playing piano"
+            }
+        ]
+    },
+    "v_VIROYxBPp70": {
+        "annotations": [
+            {
+                "segment": [
+                    0.01,
+                    37.801
+                ],
+                "label": "Doing kickboxing"
+            }
+        ]
+    },
+    "v_Upd7zpT6tuc": {
+        "annotations": [
+            {
+                "segment": [
+                    7.229375249609984,
+                    193.9358490873635
+                ],
+                "label": "Playing kickball"
+            }
+        ]
+    },
+    "v_-8awLlFLcQc": {
+        "annotations": [
+            {
+                "segment": [
+                    95.26632926053043,
+                    161.12326530612245
+                ],
+                "label": "Vacuuming floor"
+            }
+        ]
+    },
+    "v_GV_BDNmUiLY": {
+        "annotations": [
+            {
+                "segment": [
+                    21.0273135725429,
+                    76.33359126365055
+                ],
+                "label": "Sailing"
+            }
+        ]
+    },
+    "v_bVAUJAAg3TM": {
+        "annotations": [
+            {
+                "segment": [
+                    0.01,
+                    173.11999375975037
+                ],
+                "label": "Long jump"
+            }
+        ]
+    },
+    "v_xwSHzGCP6iA": {
+        "annotations": [
+            {
+                "segment": [
+                    14.252808112324491,
+                    37.08198127925117
+                ],
+                "label": "Bungee jumping"
+            }
+        ]
+    },
+    "v_Ol7JKNItQC4": {
+        "annotations": [
+            {
+                "segment": [
+                    23.82138754,
+                    183.28892608
+                ],
+                "label": "Zumba"
+            }
+        ]
+    },
+    "v_hW6aZXhKl9M": {
+        "annotations": [
+            {
+                "segment": [
+                    0.30722064586583464,
+                    195.39233077067084
+                ],
+                "label": "Horseback riding"
+            }
+        ]
+    },
+    "v_lVOBMs6op7o": {
+        "annotations": [
+            {
+                "segment": [
+                    0.01,
+                    10.961
+                ],
+                "label": "Drinking coffee"
+            }
+        ]
+    },
+    "v_n9TuUTNpKwg": {
+        "annotations": [
+            {
+                "segment": [
+                    13.104516380655229,
+                    19.44986115444618
+                ],
+                "label": "Triple jump"
+            },
+            {
+                "segment": [
+                    44.14152886115445,
+                    62.34990951638066
+                ],
+                "label": "Triple jump"
+            }
+        ]
+    },
+    "v_ulV37d5wFaw": {
+        "annotations": [
+            {
+                "segment": [
+                    39.39875663026521,
+                    151.92160556630265
+                ],
+                "label": "Removing curlers"
+            }
+        ]
+    },
+    "v_wvFJbY3SmXI": {
+        "annotations": [
+            {
+                "segment": [
+                    0,
+                    59.13787636973479
+                ],
+                "label": "Discus throw"
+            }
+        ]
+    },
+    "v_KEXm-3H6eTg": {
+        "annotations": [
+            {
+                "segment": [
+                    16.67035881435257,
+                    61.5190015600624
+                ],
+                "label": "Mixing drinks"
+            }
+        ]
+    },
+    "v_bOBQLGfEeyg": {
+        "annotations": [
+            {
+                "segment": [
+                    6.418650510140405,
+                    58.88414163650546
+                ],
+                "label": "Dodgeball"
+            }
+        ]
+    },
+    "v_xcBJP14YBvg": {
+        "annotations": [
+            {
+                "segment": [
+                    2.85804992199688,
+                    39.53635725429017
+                ],
+                "label": "Using the pommel horse"
+            }
+        ]
+    },
+    "v_2_KTq85YQcY": {
+        "annotations": [
+            {
+                "segment": [
+                    31.48060265811993,
+                    126.61683569111473
+                ],
+                "label": "Ironing clothes"
+            }
+        ]
+    },
+    "v_TomBet77rDc": {
+        "annotations": [
+            {
+                "segment": [
+                    1.5851018190327615,
+                    44.67105126365055
+                ],
+                "label": "Clean and jerk"
+            }
+        ]
+    },
+    "v_fKDl_CnA8nY": {
+        "annotations": [
+            {
+                "segment": [
+                    0,
+                    6.636922325872627
+                ],
+                "label": "Playing saxophone"
+            },
+            {
+                "segment": [
+                    59.12894435777431,
+                    113.02879733853355
+                ],
+                "label": "Playing saxophone"
+            }
+        ]
+    },
+    "v_JMlNfZlOyX8": {
+        "annotations": [
+            {
+                "segment": [
+                    27.180066441497658,
+                    111.19118089703588
+                ],
+                "label": "Washing face"
+            }
+        ]
+    },
+    "v_IXUh06YCtjw": {
+        "annotations": [
+            {
+                "segment": [
+                    11.408561622464898,
+                    71.69243837753511
+                ],
+                "label": "Drinking coffee"
+            }
+        ]
+    },
+    "v_Khxa5Ey3udM": {
+        "annotations": [
+            {
+                "segment": [
+                    65.35101404056162,
+                    120.39571768
+                ],
+                "label": "Mowing the lawn"
+            },
+            {
+                "segment": [
+                    35.27790795631825,
+                    55.72779828
+                ],
+                "label": "Mowing the lawn"
+            }
+        ]
+    },
+    "v_rqmi-DjYp0U": {
+        "annotations": [
+            {
+                "segment": [
+                    3.6979329173166926,
+                    12.813767550702027
+                ],
+                "label": "Drinking beer"
+            },
+            {
+                "segment": [
+                    18.317667706708267,
+                    35.34535881435257
+                ],
+                "label": "Drinking beer"
+            }
+        ]
+    },
+    "v_wUvC0TXK1PM": {
+        "annotations": [
+            {
+                "segment": [
+                    8.238166926677067,
+                    25.85517004680187
+                ],
+                "label": "Cleaning windows"
+            },
+            {
+                "segment": [
+                    31.17829329173167,
+                    76.04461778471139
+                ],
+                "label": "Cleaning windows"
+            }
+        ]
+    },
+    "v_0pcrpO0Gd8M": {
+        "annotations": [
+            {
+                "segment": [
+                    86.9881082916786,
+                    167.7499319727891
+                ],
+                "label": "Putting on makeup"
+            }
+        ]
+    },
+    "v_iB20nDf5yJs": {
+        "annotations": [
+            {
+                "segment": [
+                    11.970594444617783,
+                    167.3099363073323
+                ],
+                "label": "Springboard diving"
+            }
+        ]
+    },
+    "v_yc9Bc8G7Y_Q": {
+        "annotations": [
+            {
+                "segment": [
+                    2.5073200624024965,
+                    6.111592652106085
+                ],
+                "label": "Doing motocross"
+            }
+        ]
+    },
+    "v_RLMvrl_vaqc": {
+        "annotations": [
+            {
+                "segment": [
+                    1.2085967581903276,
+                    10.33668280031201
+                ],
+                "label": "Smoking hookah"
+            }
+        ]
+    },
+    "v_iANrLcieixM": {
+        "annotations": [
+            {
+                "segment": [
+                    28.63770256932726,
+                    65.50874324648986
+                ],
+                "label": "Pole vault"
+            }
+        ]
+    },
+    "v_koEfnIoZB_4": {
+        "annotations": [
+            {
+                "segment": [
+                    3.2770202454356676,
+                    13.405991913145913
+                ],
+                "label": "Bungee jumping"
+            },
+            {
+                "segment": [
+                    21.002720663928596,
+                    32.17438059155019
+                ],
+                "label": "Bungee jumping"
+            },
+            {
+                "segment": [
+                    36.04722269979234,
+                    39.324242945228015
+                ],
+                "label": "Bungee jumping"
+            },
+            {
+                "segment": [
+                    51.538591132760956,
+                    52.879190039001564
+                ],
+                "label": "Bungee jumping"
+            },
+            {
+                "segment": [
+                    52.13441271450858,
+                    53.326056433697346
+                ],
+                "label": "Bungee jumping"
+            },
+            {
+                "segment": [
+                    66.1362264149766,
+                    75.07355430889235
+                ],
+                "label": "Bungee jumping"
+            },
+            {
+                "segment": [
+                    83.11714941341653,
+                    88.77745707956318
+                ],
+                "label": "Bungee jumping"
+            }
+        ]
+    },
+    "v_unE-vkRljRs": {
+        "annotations": [
+            {
+                "segment": [
+                    1.8700461651119107,
+                    97.70991051014042
+                ],
+                "label": "Horseback riding"
+            }
+        ]
+    },
+    "v_pX-ik8n_eNQ": {
+        "annotations": [
+            {
+                "segment": [
+                    0.01,
+                    206.57873293681746
+                ],
+                "label": "Ping-pong"
+            }
+        ]
+    },
+    "v_RGMSc1tfkzA": {
+        "annotations": [
+            {
+                "segment": [
+                    3.580611014820593,
+                    109.83766221138845
+                ],
+                "label": "Plataform diving"
+            }
+        ]
+    },
+    "v_iWSKl7vOd2s": {
+        "annotations": [
+            {
+                "segment": [
+                    0.01,
+                    40.83017035257411
+                ],
+                "label": "Ballet"
+            }
+        ]
+    },
+    "v_nCzB1iXKYk4": {
+        "annotations": [
+            {
+                "segment": [
+                    10.70826833073323,
+                    177.82215288611545
+                ],
+                "label": "Cumbia"
+            }
+        ]
+    },
+    "v_IEqnfSiCIXc": {
+        "annotations": [
+            {
+                "segment": [
+                    14.877828393135728,
+                    44.9434399375975
+                ],
+                "label": "Skateboarding"
+            },
+            {
+                "segment": [
+                    48.35294227769111,
+                    170.47511700468021
+                ],
+                "label": "Skateboarding"
+            }
+        ]
+    },
+    "v_-5Q7iNtaWCU": {
+        "annotations": [
+            {
+                "segment": [
+                    0.01,
+                    58.81207722308891
+                ],
+                "label": "Dodgeball"
+            }
+        ]
+    },
+    "v_IjULOynkK5I": {
+        "annotations": [
+            {
+                "segment": [
+                    15.07134945397816,
+                    25.342195007800317
+                ],
+                "label": "Spinning"
+            },
+            {
+                "segment": [
+                    32.15221216848674,
+                    43.4278143525741
+                ],
+                "label": "Spinning"
+            },
+            {
+                "segment": [
+                    50.907669266770675,
+                    71.561
+                ],
+                "label": "Spinning"
+            }
+        ]
+    },
+    "v_mOISOUKHpNM": {
+        "annotations": [
+            {
+                "segment": [
+                    3.068511573115986,
+                    47.36522992348266
+                ],
+                "label": "Using uneven bars"
+            }
+        ]
+    },
+    "v_al_NNsjwU-Q": {
+        "annotations": [
+            {
+                "segment": [
+                    0.01,
+                    55.65823129251701
+                ],
+                "label": "Using the balance beam"
+            }
+        ]
+    },
+    "v_XeRiPVEZ6pY": {
+        "annotations": [
+            {
+                "segment": [
+                    0,
+                    112.29608233308925
+                ],
+                "label": "Playing accordion"
+            }
+        ]
+    },
+    "v_eSpPY2yMg70": {
+        "annotations": [
+            {
+                "segment": [
+                    5.073206897035881,
+                    46.94729557098284
+                ],
+                "label": "Using the pommel horse"
+            }
+        ]
+    },
+    "v_Lp3c3nwHrqM": {
+        "annotations": [
+            {
+                "segment": [
+                    38.8827546,
+                    194.44180360000001
+                ],
+                "label": "Washing dishes"
+            }
+        ]
+    },
+    "v_3SjuIcAfeWk": {
+        "annotations": [
+            {
+                "segment": [
+                    7.547233746953472,
+                    90.12521038246749
+                ],
+                "label": "Wrapping presents"
+            }
+        ]
+    },
+    "v_aDaazrgvjJg": {
+        "annotations": [
+            {
+                "segment": [
+                    1.3995140405616224,
+                    21.937836973478937
+                ],
+                "label": "Clean and jerk"
+            }
+        ]
+    },
+    "v_QVdsLRKpCT0": {
+        "annotations": [
+            {
+                "segment": [
+                    3.0254394009360377,
+                    60.03606311232449
+                ],
+                "label": "Using parallel bars"
+            }
+        ]
+    },
+    "v_03JdaRepHkA": {
+        "annotations": [
+            {
+                "segment": [
+                    21.191903276131043,
+                    86.30884243369735
+                ],
+                "label": "Mixing drinks"
+            }
+        ]
+    },
+    "v_nHwqBo0xvog": {
+        "annotations": [
+            {
+                "segment": [
+                    1.72780184,
+                    32.37813128
+                ],
+                "label": "Playing kickball"
+            },
+            {
+                "segment": [
+                    38.653615280000004,
+                    41.988518080000006
+                ],
+                "label": "Playing kickball"
+            }
+        ]
+    },
+    "v_Hn3-SRXssY4": {
+        "annotations": [
+            {
+                "segment": [
+                    42.708324550702024,
+                    96.88308643213729
+                ],
+                "label": "High jump"
+            }
+        ]
+    },
+    "v_gwZleaX_ZR8": {
+        "annotations": [
+            {
+                "segment": [
+                    12.603327708618549,
+                    31.04152935641235
+                ],
+                "label": "Plataform diving"
+            },
+            {
+                "segment": [
+                    38.510167998556675,
+                    49.01294108907213
+                ],
+                "label": "Plataform diving"
+            },
+            {
+                "segment": [
+                    54.38102511311336,
+                    71.65225197307213
+                ],
+                "label": "Plataform diving"
+            },
+            {
+                "segment": [
+                    62.31645367039172,
+                    64.4170082884948
+                ],
+                "label": "Plataform diving"
+            },
+            {
+                "segment": [
+                    67.45114273686593,
+                    71.65225197307213
+                ],
+                "label": "Plataform diving"
+            },
+            {
+                "segment": [
+                    73.98620154874222,
+                    77.48712591224738
+                ],
+                "label": "Plataform diving"
+            },
+            {
+                "segment": [
+                    78.88749565764942,
+                    84.02218472412365
+                ],
+                "label": "Plataform diving"
+            },
+            {
+                "segment": [
+                    109.46223509892775,
+                    121.36537793484527
+                ],
+                "label": "Plataform diving"
+            },
+            {
+                "segment": [
+                    131.1679661526597,
+                    136.30265521913392
+                ],
+                "label": "Plataform diving"
+            },
+            {
+                "segment": [
+                    137.00284009183497,
+                    142.3709241158762
+                ],
+                "label": "Plataform diving"
+            }
+        ]
+    },
+    "v_DxhdDYQkQU8": {
+        "annotations": [
+            {
+                "segment": [
+                    13.221195975039,
+                    27.27917650546022
+                ],
+                "label": "Skateboarding"
+            }
+        ]
+    },
+    "v_BBRNbo8c8gA": {
+        "annotations": [
+            {
+                "segment": [
+                    13.448369840873637,
+                    110.8471695975039
+                ],
+                "label": "Tumbling"
+            }
+        ]
+    },
+    "v_qdE6dbQOnt0": {
+        "annotations": [
+            {
+                "segment": [
+                    4.392942277691107,
+                    38.94638377535101
+                ],
+                "label": "Washing face"
+            }
+        ]
+    },
+    "v_NNfAlym-xh8": {
+        "annotations": [
+            {
+                "segment": [
+                    2.055690327613105,
+                    28.88785881435258
+                ],
+                "label": "Using parallel bars"
+            },
+            {
+                "segment": [
+                    30.402578003120126,
+                    33.21562792511701
+                ],
+                "label": "Using parallel bars"
+            },
+            {
+                "segment": [
+                    61.56251560062403,
+                    73.68026911076443
+                ],
+                "label": "Using parallel bars"
+            },
+            {
+                "segment": [
+                    78.22442667706709,
+                    89.04384945397815
+                ],
+                "label": "Using parallel bars"
+            },
+            {
+                "segment": [
+                    94.02078393135727,
+                    97.26661076443058
+                ],
+                "label": "Using parallel bars"
+            },
+            {
+                "segment": [
+                    126.91182917316694,
+                    129.07571372854915
+                ],
+                "label": "Using parallel bars"
+            },
+            {
+                "segment": [
+                    133.40348283931357,
+                    136.64930967238692
+                ],
+                "label": "Using parallel bars"
+            }
+        ]
+    },
+    "v_4mBVik8dq_w": {
+        "annotations": [
+            {
+                "segment": [
+                    0.8804021107644305,
+                    20.1055094274571
+                ],
+                "label": "Mowing the lawn"
+            }
+        ]
+    },
+    "v_87hsTxVtn-A": {
+        "annotations": [
+            {
+                "segment": [
+                    3.680048861154446,
+                    231.84307825273012
+                ],
+                "label": "Belly dance"
+            }
+        ]
+    },
+    "v_B1DNoole3Wo": {
+        "annotations": [
+            {
+                "segment": [
+                    14.718846914196568,
+                    17.196276592823715
+                ],
+                "label": "Smoking a cigarette"
+            },
+            {
+                "segment": [
+                    23.462716368174725,
+                    31.477930034321375
+                ],
+                "label": "Smoking a cigarette"
+            }
+        ]
+    },
+    "v_9nndNUHadcg": {
+        "annotations": [
+            {
+                "segment": [
+                    6.850991520000001,
+                    38.847126365054606
+                ],
+                "label": "Mixing drinks"
+            }
+        ]
+    },
+    "v_egT7FYHlWho": {
+        "annotations": [
+            {
+                "segment": [
+                    48.7244976599064,
+                    77.85244461778471
+                ],
+                "label": "Cleaning windows"
+            }
+        ]
+    },
+    "v_NLuNMeYBeoc": {
+        "annotations": [
+            {
+                "segment": [
+                    6.3854201025183865,
+                    33.29540482027444
+                ],
+                "label": "Using parallel bars"
+            },
+            {
+                "segment": [
+                    57.31674711070076,
+                    92.8926577098284
+                ],
+                "label": "Using parallel bars"
+            }
+        ]
+    },
+    "v_EwYgRPVDQWQ": {
+        "annotations": [
+            {
+                "segment": [
+                    5.91099444,
+                    117.01441497659907
+                ],
+                "label": "Making a sandwich"
+            }
+        ]
+    },
+    "v_EiXW33yuAcw": {
+        "annotations": [
+            {
+                "segment": [
+                    0.01,
+                    17.840494868941477
+                ],
+                "label": "Drinking coffee"
+            },
+            {
+                "segment": [
+                    32.93220436817473,
+                    50.99180031201248
+                ],
+                "label": "Drinking coffee"
+            }
+        ]
+    },
+    "v_bb9AIdvKkZU": {
+        "annotations": [
+            {
+                "segment": [
+                    0.01,
+                    12.785319522620904
+                ],
+                "label": "Shoveling snow"
+            },
+            {
+                "segment": [
+                    21.827408614664584,
+                    31.161178
+                ],
+                "label": "Shoveling snow"
+            }
+        ]
+    },
+    "v_dPZfExDmX9Y": {
+        "annotations": [
+            {
+                "segment": [
+                    7.303961656786272,
+                    178.94706059126366
+                ],
+                "label": "Making a sandwich"
+            }
+        ]
+    },
+    "v_uBls-XJdcBs": {
+        "annotations": [
+            {
+                "segment": [
+                    0.07220479525121053,
+                    14.059875222042487
+                ],
+                "label": "Playing water polo"
+            }
+        ]
+    },
+    "v_2aw1pVJsnKs": {
+        "annotations": [
+            {
+                "segment": [
+                    1.8270605694227768,
+                    82.6583476
+                ],
+                "label": "Doing motocross"
+            }
+        ]
+    },
+    "v_ucHq8B0-1BA": {
+        "annotations": [
+            {
+                "segment": [
+                    0.01,
+                    10.261333853354135
+                ],
+                "label": "Grooming horse"
+            },
+            {
+                "segment": [
+                    74.10963338533541,
+                    202.4577457098284
+                ],
+                "label": "Grooming horse"
+            }
+        ]
+    },
+    "v_rXgC48CLncg": {
+        "annotations": [
+            {
+                "segment": [
+                    0.9452436131045242,
+                    167.3081195195008
+                ],
+                "label": "Getting a haircut"
+            }
+        ]
+    },
+    "v_GG_Bi89pNlg": {
+        "annotations": [
+            {
+                "segment": [
+                    0.01,
+                    34.67892871216849
+                ],
+                "label": "Discus throw"
+            }
+        ]
+    },
+    "v_W3ozAI2ozCs": {
+        "annotations": [
+            {
+                "segment": [
+                    0.01,
+                    36.664307
+                ],
+                "label": "Using parallel bars"
+            }
+        ]
+    },
+    "v_b1QkoG9hxk8": {
+        "annotations": [
+            {
+                "segment": [
+                    25.09568055,
+                    70.79069500780032
+                ],
+                "label": "Mixing drinks"
+            }
+        ]
+    },
+    "v_Cu-p0FZOqi8": {
+        "annotations": [
+            {
+                "segment": [
+                    6.414990327613104,
+                    115.25599288611544
+                ],
+                "label": "Plataform diving"
+            }
+        ]
+    }
+}

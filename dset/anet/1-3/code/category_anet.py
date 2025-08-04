@@ -1,0 +1,80 @@
+import json
+
+# 读取标注文件（真实类别）
+annotation_path = "../text/a13-annotation.json"
+with open(annotation_path, "r") as f:
+    gt_data = json.load(f)
+
+# 读取预测的类别文件
+category_path = "../text/error_3_category.txt"
+with open(category_path, "r") as f:
+    pred_lines = f.readlines()
+
+# 解析预测的类别
+pred_categories = {}
+for line in pred_lines:
+    parts = line.strip().split(" - ")
+    if len(parts) == 2:
+        video_id = parts[0].replace(".mp4", "")  # 去掉 .mp4 后缀
+        categories = set(parts[1].split(", "))  # 预测类别转换为集合
+        pred_categories[video_id] = categories
+
+# 取 txt 和 json 文件中视频 ID 的交集
+common_videos = set(gt_data.keys()) & set(pred_categories.keys())
+
+# 计算 TP, FP, FN
+tp, fp, fn = 0, 0, 0
+
+# 记录 FP 和 FN 详情
+error_details = {}  # {video_id: {"predicted": [...], "ground_truth": [...], "extra": [...], "missing": [...]}}
+
+for video_id in common_videos:
+    gt_labels = {ann["label"] for ann in gt_data[video_id].get("annotations", [])}
+    pred_labels = pred_categories[video_id]
+
+    tp += len(gt_labels & pred_labels)  # 预测正确的类别
+    fp_errors = pred_labels - gt_labels  # 预测了但不属于 GT 的类别
+    fn_errors = gt_labels - pred_labels  # GT 里有但预测缺失的类别
+
+    fp += len(fp_errors)
+    fn += len(fn_errors)
+
+    if fp_errors or fn_errors:  # 只有有 FP/FN 时才存储
+        error_details[video_id] = {
+            "predicted": list(pred_labels),
+            "ground_truth": list(gt_labels),
+            "extra": list(fp_errors),  # FP
+            "missing": list(fn_errors)  # FN
+        }
+
+# 计算 Precision, Recall, F1-score
+precision = tp / (tp + fp) if (tp + fp) > 0 else 0
+recall = tp / (tp + fn) if (tp + fn) > 0 else 0
+f1_score = 2 * (precision * recall) / (precision + recall) if (precision + recall) > 0 else 0
+
+# 输出统计结果
+print(f"True Positives (TP): {tp}")
+print(f"False Positives (FP): {fp}")
+print(f"False Negatives (FN): {fn}")
+print(f"Precision: {precision:.4f}")
+print(f"Recall: {recall:.4f}")
+print(f"F1-Score: {f1_score:.4f}")
+
+# 输出 FP + FN 详情
+print("\nFP & FN Details (per video):")
+for video_id, info in error_details.items():
+    print(f"Video: {video_id}")
+    print(f"  Predicted Categories: {info['predicted']}")
+    print(f"  Ground Truth Categories: {info['ground_truth']}")
+    print(f"  False Positives (extra categories): {info['extra']}")
+    print(f"  False Negatives (missing categories): {info['missing']}")
+    print("-" * 50)
+
+# 将有错误的视频ID输出到txt文件
+error_videos = list(error_details.keys())
+if error_videos:
+    with open("../text/error_videos2.txt", "w") as f:
+        f.write("\n".join(error_videos))
+    print(f"\n已将所有存在分类错误的 {len(error_videos)} 个视频ID输出到 error_videos.txt")
+else:
+    print("\n恭喜！所有视频的分类均正确，没有错误需要记录。")

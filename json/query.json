@@ -1,0 +1,105 @@
+{
+	"role": "assistant",
+	"content": {
+		"VolleyballSpiking": {
+			"start": "Is the player’s hand above their head ready to hit the ball?",
+			"end": "Is the ball rapidly descending towards the opponent’s court?",
+			"description": "A player jumps and hits a volleyball downwards towards the opponent’s court."
+		},
+		"BaseballPitch": {
+			"start": "Is the pitcher’s arm in a winding-up position?",
+			"end": "Is the baseball no longer in the pitcher’s hand?",
+			"description": "A pitcher throws a baseball towards a catcher."
+		},
+		"BasketballDunk": {
+			"start": "Is the player jumping with the basketball aimed at the hoop?",
+			"end": "Is the basketball passing through the hoop?",
+			"description": "A player jumps and places the basketball into the hoop from above."
+		},
+		"Billiards": {
+			"start": "Is the cue tip close to the cue ball?",
+			"end": "Has the cue ball moved or hit other balls?",
+			"description": "A person uses a cue stick to strike a cue ball aiming to hit other billiard balls."
+		},
+		"CleanAndJerk": {
+			"start": "Is the barbell on the ground in front of the person?",
+			"end": "Is the barbell held overhead with arms and legs straight?",
+			"description": "A person lifts a barbell from the ground to overhead in two main movements."
+		},
+		"CliffDiving": {
+			"start": "Is the person standing on the edge of a cliff above water?",
+			"end": "Is the person submerged in or breaking the surface of the water?",
+			"description": "A person jumps from a cliff into water."
+		},
+		"CricketBowling": {
+			"start": "Is the bowler’s arm in a wind-up position?",
+			"end": "Is the ball on the ground near the batsman?",
+			"description": "A person bowls a cricket ball towards a batsman."
+		},
+		"CricketShot": {
+			"start": "Is the batter preparing to swing the bat?",
+			"end": "Is the ball flying away from the bat?",
+			"description": "A batter hits a ball with a cricket bat."
+		},
+		"Diving": {
+			"start": "Is the person on the edge of a diving platform or board, looking downward?",
+			"end": "Has the person submerged into water?",
+			"description": "A person jumps off a diving board or platform into water."
+		},
+		"FrisbeeCatch": {
+			"start": "Is a frisbee visible in the air?",
+			"end": "Is the frisbee secured in one’s hands?",
+			"description": "A person catches a frisbee."
+		},
+		"GolfSwing": {
+			"start": "Is the golf club behind the golfer’s head?",
+			"end": "Is the golf ball no longer visible on the tee?",
+			"description": "A golfer swings a club to hit a golf ball."
+		},
+		"HammerThrow": {
+			"start": "Is the athlete holding a hammer by its handle?",
+			"end": "Has the hammer been released into the air?",
+			"description": "An athlete spins and then releases a hammer."
+		},
+		"HighJump": {
+			"start": "Is the athlete crouched near the high jump bar?",
+			"end": "Is the athlete landing on the pad?",
+			"description": "An athlete jumps over a high bar and lands on a pad."
+		},
+		"JavelinThrow": {
+			"start": "Is the javelin positioned behind the athlete’s shoulder?",
+			"end": "Is the athlete’s throwing arm extended towards the throwing direction?",
+			"description": "An athlete throws a javelin."
+		},
+		"LongJump": {
+			"start": "Is the athlete crouched at the start of a runway?",
+			"end": "Is the athlete landing into sand?",
+			"description": "An athlete runs down a runway and jumps into a sandpit."
+		},
+		"PoleVault": {
+			"start": "Is the person holding a pole with both hands above their head?",
+			"end": "Is the person landing on a mat?",
+			"description": "A person uses a pole to leap over a high bar and lands on a mat."
+		},
+		"Shotput": {
+			"start": "Is the shot put near the athlete’s neck?",
+			"end": "Is the shot put no longer in the athlete’s hand?",
+			"description": "An athlete throws a shot put from their neck."
+		},
+		"SoccerPenalty": {
+			"start": "Is the soccer player beginning to run towards the ball?",
+			"end": "Has the goalkeeper moved in an attempt to stop the ball?",
+			"description": "A soccer player kicks a ball towards the goal in an attempt to score, while a goalkeeper tries to stop it."
+		},
+		"TennisSwing": {
+			"start": "Is the tennis racket being drawn back near the player’s body?",
+			"end": "Is the tennis ball moving away from the racket?",
+			"description": "A player swings a tennis racket at a ball."
+		},
+		"ThrowDiscus": {
+			"start": "Is the person holding a discus in a winding stance?",
+			"end": "Is the discus no longer in the person’s hand?",
+			"description": "A person releases a discus into the air."
+		}
+	}
+}

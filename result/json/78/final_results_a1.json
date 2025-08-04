@@ -1,0 +1,7520 @@
+{
+  "v_5JCqKshcfHE.mp4": {
+    "annotations": [
+      {
+        "label": "Shaving legs",
+        "segment": [
+          0.0,
+          4.13
+        ]
+      },
+      {
+        "label": "Shaving legs",
+        "segment": [
+          4.6,
+          8.47
+        ]
+      },
+      {
+        "label": "Shaving legs",
+        "segment": [
+          10.47,
+          11.47
+        ]
+      }
+    ]
+  },
+  "v_UfjR8ewF8xo.mp4": {
+    "annotations": [
+      {
+        "label": "Layup drill in basketball",
+        "segment": [
+          20.26,
+          25.6
+        ]
+      },
+      {
+        "label": "Layup drill in basketball",
+        "segment": [
+          29.86,
+          32.0
+        ]
+      },
+      {
+        "label": "Layup drill in basketball",
+        "segment": [
+          33.06,
+          35.19
+        ]
+      },
+      {
+        "label": "Layup drill in basketball",
+        "segment": [
+          37.33,
+          39.46
+        ]
+      },
+      {
+        "label": "Layup drill in basketball",
+        "segment": [
+          40.53,
+          42.66
+        ]
+      },
+      {
+        "label": "Layup drill in basketball",
+        "segment": [
+          47.99,
+          49.06
+        ]
+      },
+      {
+        "label": "Layup drill in basketball",
+        "segment": [
+          51.19,
+          57.59
+        ]
+      },
+      {
+        "label": "Layup drill in basketball",
+        "segment": [
+          58.66,
+          72.52
+        ]
+      },
+      {
+        "label": "Layup drill in basketball",
+        "segment": [
+          75.72,
+          76.79
+        ]
+      },
+      {
+        "label": "Layup drill in basketball",
+        "segment": [
+          78.92,
+          79.99
+        ]
+      },
+      {
+        "label": "Layup drill in basketball",
+        "segment": [
+          85.32,
+          92.79
+        ]
+      },
+      {
+        "label": "Layup drill in basketball",
+        "segment": [
+          95.99,
+          98.12
+        ]
+      },
+      {
+        "label": "Layup drill in basketball",
+        "segment": [
+          103.45,
+          104.52
+        ]
+      },
+      {
+        "label": "Layup drill in basketball",
+        "segment": [
+          105.58,
+          106.65
+        ]
+      },
+      {
+        "label": "Layup drill in basketball",
+        "segment": [
+          108.78,
+          110.92
+        ]
+      },
+      {
+        "label": "Layup drill in basketball",
+        "segment": [
+          137.58,
+          139.71
+        ]
+      },
+      {
+        "label": "Layup drill in basketball",
+        "segment": [
+          141.84,
+          143.98
+        ]
+      },
+      {
+        "label": "Layup drill in basketball",
+        "segment": [
+          146.11,
+          148.24
+        ]
+      },
+      {
+        "label": "Layup drill in basketball",
+        "segment": [
+          167.44,
+          168.51
+        ]
+      },
+      {
+        "label": "Layup drill in basketball",
+        "segment": [
+          170.64,
+          172.77
+        ]
+      },
+      {
+        "label": "Layup drill in basketball",
+        "segment": [
+          178.11,
+          179.17
+        ]
+      },
+      {
+        "label": "Layup drill in basketball",
+        "segment": [
+          182.37,
+          184.5
+        ]
+      }
+    ]
+  },
+  "v_RTD_JWmhNkA.mp4": {
+    "annotations": [
+      {
+        "label": "Playing guitarra",
+        "segment": [
+          0.0,
+          116.08
+        ]
+      }
+    ]
+  },
+  "v__8Zk9dfBgPg.mp4": {
+    "annotations": [
+      {
+        "label": "Painting",
+        "segment": [
+          1.8,
+          6.61
+        ]
+      },
+      {
+        "label": "Painting",
+        "segment": [
+          15.62,
+          19.82
+        ]
+      },
+      {
+        "label": "Painting",
+        "segment": [
+          20.42,
+          25.23
+        ]
+      },
+      {
+        "label": "Painting",
+        "segment": [
+          25.83,
+          43.24
+        ]
+      },
+      {
+        "label": "Painting",
+        "segment": [
+          45.65,
+          67.87
+        ]
+      },
+      {
+        "label": "Painting",
+        "segment": [
+          69.07,
+          70.87
+        ]
+      },
+      {
+        "label": "Painting",
+        "segment": [
+          72.67,
+          73.87
+        ]
+      },
+      {
+        "label": "Painting",
+        "segment": [
+          78.68,
+          102.7
+        ]
+      }
+    ]
+  },
+  "v_8TGG-FZx0cc.mp4": {
+    "annotations": [
+      {
+        "label": "Preparing pasta",
+        "segment": [
+          0.0,
+          2.4
+        ]
+      },
+      {
+        "label": "Preparing pasta",
+        "segment": [
+          22.4,
+          36.0
+        ]
+      },
+      {
+        "label": "Preparing pasta",
+        "segment": [
+          36.8,
+          123.2
+        ]
+      },
+      {
+        "label": "Preparing pasta",
+        "segment": [
+          126.4,
+          159.2
+        ]
+      }
+    ]
+  },
+  "v_DW7Zm9DzEDk.mp4": {
+    "annotations": [
+      {
+        "label": "Long jump",
+        "segment": [
+          0.0,
+          1.36
+        ]
+      },
+      {
+        "label": "Long jump",
+        "segment": [
+          1.52,
+          15.92
+        ]
+      }
+    ]
+  },
+  "v_CKjHXMoXye4.mp4": {
+    "annotations": [
+      {
+        "label": "High jump",
+        "segment": [
+          26.96,
+          30.96
+        ]
+      },
+      {
+        "label": "High jump",
+        "segment": [
+          31.77,
+          35.5
+        ]
+      },
+      {
+        "label": "High jump",
+        "segment": [
+          35.77,
+          37.1
+        ]
+      },
+      {
+        "label": "High jump",
+        "segment": [
+          37.37,
+          38.71
+        ]
+      },
+      {
+        "label": "High jump",
+        "segment": [
+          39.24,
+          40.57
+        ]
+      },
+      {
+        "label": "High jump",
+        "segment": [
+          41.91,
+          46.98
+        ]
+      }
+    ]
+  },
+  "v_ynvCxrj1UNg.mp4": {
+    "annotations": [
+      {
+        "label": "Using the balance beam",
+        "segment": [
+          0.0,
+          92.96
+        ]
+      }
+    ]
+  },
+  "v_RGMSc1tfkzA.mp4": {
+    "annotations": [
+      {
+        "label": "Platform diving",
+        "segment": [
+          0.6,
+          3.6
+        ]
+      },
+      {
+        "label": "Platform diving",
+        "segment": [
+          4.2,
+          10.81
+        ]
+      },
+      {
+        "label": "Platform diving",
+        "segment": [
+          13.81,
+          23.42
+        ]
+      },
+      {
+        "label": "Platform diving",
+        "segment": [
+          29.43,
+          33.63
+        ]
+      },
+      {
+        "label": "Platform diving",
+        "segment": [
+          35.44,
+          38.44
+        ]
+      },
+      {
+        "label": "Platform diving",
+        "segment": [
+          43.24,
+          45.05
+        ]
+      },
+      {
+        "label": "Platform diving",
+        "segment": [
+          51.05,
+          54.05
+        ]
+      },
+      {
+        "label": "Platform diving",
+        "segment": [
+          68.47,
+          72.67
+        ]
+      },
+      {
+        "label": "Platform diving",
+        "segment": [
+          73.87,
+          83.48
+        ]
+      },
+      {
+        "label": "Platform diving",
+        "segment": [
+          91.29,
+          97.3
+        ]
+      },
+      {
+        "label": "Platform diving",
+        "segment": [
+          97.9,
+          100.3
+        ]
+      },
+      {
+        "label": "Platform diving",
+        "segment": [
+          115.32,
+          119.52
+        ]
+      }
+    ]
+  },
+  "v_FJ7yrh2UiQ8.mp4": {
+    "annotations": [
+      {
+        "label": "Paintball",
+        "segment": [
+          10.0,
+          13.0
+        ]
+      },
+      {
+        "label": "Paintball",
+        "segment": [
+          25.0,
+          73.0
+        ]
+      },
+      {
+        "label": "Paintball",
+        "segment": [
+          74.0,
+          91.0
+        ]
+      },
+      {
+        "label": "Paintball",
+        "segment": [
+          92.0,
+          93.0
+        ]
+      },
+      {
+        "label": "Paintball",
+        "segment": [
+          94.0,
+          95.0
+        ]
+      },
+      {
+        "label": "Paintball",
+        "segment": [
+          96.0,
+          111.0
+        ]
+      },
+      {
+        "label": "Paintball",
+        "segment": [
+          113.0,
+          122.0
+        ]
+      },
+      {
+        "label": "Paintball",
+        "segment": [
+          123.0,
+          125.0
+        ]
+      },
+      {
+        "label": "Paintball",
+        "segment": [
+          127.0,
+          128.0
+        ]
+      },
+      {
+        "label": "Paintball",
+        "segment": [
+          133.0,
+          135.0
+        ]
+      },
+      {
+        "label": "Paintball",
+        "segment": [
+          136.0,
+          145.0
+        ]
+      },
+      {
+        "label": "Paintball",
+        "segment": [
+          147.0,
+          150.0
+        ]
+      },
+      {
+        "label": "Paintball",
+        "segment": [
+          152.0,
+          154.0
+        ]
+      },
+      {
+        "label": "Paintball",
+        "segment": [
+          156.0,
+          159.0
+        ]
+      },
+      {
+        "label": "Paintball",
+        "segment": [
+          162.0,
+          163.0
+        ]
+      },
+      {
+        "label": "Paintball",
+        "segment": [
+          164.0,
+          171.0
+        ]
+      },
+      {
+        "label": "Paintball",
+        "segment": [
+          173.0,
+          174.0
+        ]
+      },
+      {
+        "label": "Paintball",
+        "segment": [
+          175.0,
+          176.0
+        ]
+      },
+      {
+        "label": "Paintball",
+        "segment": [
+          177.0,
+          192.0
+        ]
+      }
+    ]
+  },
+  "v_9uxkazuxmDw.mp4": {
+    "annotations": [
+      {
+        "label": "Playing lacrosse",
+        "segment": [
+          0.0,
+          16.35
+        ]
+      },
+      {
+        "label": "Playing lacrosse",
+        "segment": [
+          19.85,
+          37.37
+        ]
+      },
+      {
+        "label": "Playing lacrosse",
+        "segment": [
+          38.54,
+          43.21
+        ]
+      },
+      {
+        "label": "Playing lacrosse",
+        "segment": [
+          45.55,
+          52.55
+        ]
+      },
+      {
+        "label": "Playing lacrosse",
+        "segment": [
+          53.72,
+          57.22
+        ]
+      },
+      {
+        "label": "Playing lacrosse",
+        "segment": [
+          58.39,
+          64.23
+        ]
+      },
+      {
+        "label": "Playing lacrosse",
+        "segment": [
+          67.73,
+          74.74
+        ]
+      },
+      {
+        "label": "Playing lacrosse",
+        "segment": [
+          75.91,
+          82.92
+        ]
+      },
+      {
+        "label": "Playing lacrosse",
+        "segment": [
+          84.08,
+          87.59
+        ]
+      },
+      {
+        "label": "Playing lacrosse",
+        "segment": [
+          88.76,
+          100.43
+        ]
+      },
+      {
+        "label": "Playing lacrosse",
+        "segment": [
+          101.6,
+          124.96
+        ]
+      },
+      {
+        "label": "Playing lacrosse",
+        "segment": [
+          126.13,
+          130.8
+        ]
+      },
+      {
+        "label": "Playing lacrosse",
+        "segment": [
+          131.97,
+          149.48
+        ]
+      },
+      {
+        "label": "Playing lacrosse",
+        "segment": [
+          154.15,
+          170.5
+        ]
+      },
+      {
+        "label": "Playing lacrosse",
+        "segment": [
+          171.67,
+          172.84
+        ]
+      },
+      {
+        "label": "Playing lacrosse",
+        "segment": [
+          176.34,
+          186.85
+        ]
+      },
+      {
+        "label": "Playing lacrosse",
+        "segment": [
+          188.02,
+          190.36
+        ]
+      },
+      {
+        "label": "Playing lacrosse",
+        "segment": [
+          192.69,
+          198.53
+        ]
+      },
+      {
+        "label": "Playing lacrosse",
+        "segment": [
+          199.7,
+          200.87
+        ]
+      },
+      {
+        "label": "Playing lacrosse",
+        "segment": [
+          204.37,
+          213.71
+        ]
+      },
+      {
+        "label": "Playing lacrosse",
+        "segment": [
+          214.88,
+          216.05
+        ]
+      },
+      {
+        "label": "Playing lacrosse",
+        "segment": [
+          217.22,
+          232.4
+        ]
+      }
+    ]
+  },
+  "v_bJ6SpcLM7GE.mp4": {
+    "annotations": [
+      {
+        "label": "Playing saxophone",
+        "segment": [
+          7.6,
+          17.6
+        ]
+      },
+      {
+        "label": "Playing saxophone",
+        "segment": [
+          18.0,
+          23.2
+        ]
+      },
+      {
+        "label": "Playing saxophone",
+        "segment": [
+          33.6,
+          44.0
+        ]
+      },
+      {
+        "label": "Playing saxophone",
+        "segment": [
+          49.6,
+          60.0
+        ]
+      },
+      {
+        "label": "Playing saxophone",
+        "segment": [
+          79.2,
+          79.6
+        ]
+      }
+    ]
+  },
+  "v_vBOejU7dBzY.mp4": {
+    "annotations": [
+      {
+        "label": "Grooming horse",
+        "segment": [
+          0.0,
+          24.56
+        ]
+      },
+      {
+        "label": "Grooming horse",
+        "segment": [
+          36.84,
+          37.9
+        ]
+      },
+      {
+        "label": "Grooming horse",
+        "segment": [
+          38.44,
+          60.33
+        ]
+      },
+      {
+        "label": "Grooming horse",
+        "segment": [
+          60.86,
+          66.2
+        ]
+      },
+      {
+        "label": "Grooming horse",
+        "segment": [
+          66.73,
+          106.24
+        ]
+      }
+    ]
+  },
+  "v_NDyc4PZE954.mp4": {
+    "annotations": [
+      {
+        "label": "Cleaning shoes",
+        "segment": [
+          28.83,
+          32.43
+        ]
+      },
+      {
+        "label": "Cleaning shoes",
+        "segment": [
+          54.05,
+          56.76
+        ]
+      },
+      {
+        "label": "Cleaning shoes",
+        "segment": [
+          60.36,
+          63.06
+        ]
+      },
+      {
+        "label": "Cleaning shoes",
+        "segment": [
+          74.77,
+          76.58
+        ]
+      },
+      {
+        "label": "Cleaning shoes",
+        "segment": [
+          79.28,
+          82.88
+        ]
+      },
+      {
+        "label": "Cleaning shoes",
+        "segment": [
+          83.78,
+          87.39
+        ]
+      },
+      {
+        "label": "Cleaning shoes",
+        "segment": [
+          90.09,
+          92.79
+        ]
+      },
+      {
+        "label": "Cleaning shoes",
+        "segment": [
+          107.21,
+          109.01
+        ]
+      },
+      {
+        "label": "Cleaning shoes",
+        "segment": [
+          109.91,
+          111.71
+        ]
+      },
+      {
+        "label": "Cleaning shoes",
+        "segment": [
+          116.22,
+          118.92
+        ]
+      },
+      {
+        "label": "Cleaning shoes",
+        "segment": [
+          119.82,
+          121.62
+        ]
+      },
+      {
+        "label": "Cleaning shoes",
+        "segment": [
+          167.57,
+          169.37
+        ]
+      }
+    ]
+  },
+  "v_6fuOwhx91zM.mp4": {
+    "annotations": [
+      {
+        "label": "Skateboarding",
+        "segment": [
+          13.01,
+          32.1
+        ]
+      },
+      {
+        "label": "Skateboarding",
+        "segment": [
+          33.83,
+          35.14
+        ]
+      },
+      {
+        "label": "Skateboarding",
+        "segment": [
+          36.87,
+          48.58
+        ]
+      },
+      {
+        "label": "Skateboarding",
+        "segment": [
+          61.16,
+          67.23
+        ]
+      },
+      {
+        "label": "Skateboarding",
+        "segment": [
+          67.67,
+          72.87
+        ]
+      },
+      {
+        "label": "Skateboarding",
+        "segment": [
+          73.31,
+          75.04
+        ]
+      },
+      {
+        "label": "Skateboarding",
+        "segment": [
+          76.78,
+          81.55
+        ]
+      },
+      {
+        "label": "Skateboarding",
+        "segment": [
+          81.98,
+          86.32
+        ]
+      }
+    ]
+  },
+  "v_IEPoIqIrprg.mp4": {
+    "annotations": [
+      {
+        "label": "Volleyball",
+        "segment": [
+          0.0,
+          1.13
+        ]
+      },
+      {
+        "label": "Volleyball",
+        "segment": [
+          2.27,
+          3.4
+        ]
+      },
+      {
+        "label": "Volleyball",
+        "segment": [
+          14.75,
+          15.88
+        ]
+      },
+      {
+        "label": "Volleyball",
+        "segment": [
+          17.02,
+          23.82
+        ]
+      },
+      {
+        "label": "Volleyball",
+        "segment": [
+          24.96,
+          26.09
+        ]
+      },
+      {
+        "label": "Volleyball",
+        "segment": [
+          27.23,
+          28.36
+        ]
+      },
+      {
+        "label": "Volleyball",
+        "segment": [
+          35.17,
+          39.71
+        ]
+      },
+      {
+        "label": "Volleyball",
+        "segment": [
+          40.84,
+          41.98
+        ]
+      },
+      {
+        "label": "Volleyball",
+        "segment": [
+          53.32,
+          54.45
+        ]
+      },
+      {
+        "label": "Volleyball",
+        "segment": [
+          55.59,
+          57.86
+        ]
+      },
+      {
+        "label": "Volleyball",
+        "segment": [
+          58.99,
+          62.4
+        ]
+      },
+      {
+        "label": "Volleyball",
+        "segment": [
+          68.07,
+          69.2
+        ]
+      },
+      {
+        "label": "Volleyball",
+        "segment": [
+          70.34,
+          71.47
+        ]
+      },
+      {
+        "label": "Volleyball",
+        "segment": [
+          72.61,
+          77.14
+        ]
+      },
+      {
+        "label": "Volleyball",
+        "segment": [
+          78.28,
+          79.41
+        ]
+      },
+      {
+        "label": "Volleyball",
+        "segment": [
+          82.82,
+          83.95
+        ]
+      },
+      {
+        "label": "Volleyball",
+        "segment": [
+          85.09,
+          94.16
+        ]
+      },
+      {
+        "label": "Volleyball",
+        "segment": [
+          95.3,
+          97.56
+        ]
+      },
+      {
+        "label": "Volleyball",
+        "segment": [
+          98.7,
+          104.37
+        ]
+      },
+      {
+        "label": "Volleyball",
+        "segment": [
+          105.51,
+          107.77
+        ]
+      },
+      {
+        "label": "Volleyball",
+        "segment": [
+          115.72,
+          119.12
+        ]
+      },
+      {
+        "label": "Volleyball",
+        "segment": [
+          120.25,
+          121.39
+        ]
+      },
+      {
+        "label": "Volleyball",
+        "segment": [
+          123.66,
+          124.79
+        ]
+      },
+      {
+        "label": "Volleyball",
+        "segment": [
+          125.93,
+          128.19
+        ]
+      },
+      {
+        "label": "Volleyball",
+        "segment": [
+          130.46,
+          139.54
+        ]
+      },
+      {
+        "label": "Volleyball",
+        "segment": [
+          140.67,
+          146.35
+        ]
+      },
+      {
+        "label": "Volleyball",
+        "segment": [
+          147.48,
+          150.88
+        ]
+      },
+      {
+        "label": "Volleyball",
+        "segment": [
+          152.02,
+          153.15
+        ]
+      },
+      {
+        "label": "Volleyball",
+        "segment": [
+          156.56,
+          161.09
+        ]
+      },
+      {
+        "label": "Volleyball",
+        "segment": [
+          163.36,
+          164.5
+        ]
+      },
+      {
+        "label": "Volleyball",
+        "segment": [
+          165.63,
+          166.77
+        ]
+      },
+      {
+        "label": "Volleyball",
+        "segment": [
+          169.04,
+          170.17
+        ]
+      },
+      {
+        "label": "Volleyball",
+        "segment": [
+          174.71,
+          181.51
+        ]
+      },
+      {
+        "label": "Volleyball",
+        "segment": [
+          188.32,
+          193.99
+        ]
+      },
+      {
+        "label": "Volleyball",
+        "segment": [
+          198.53,
+          199.67
+        ]
+      },
+      {
+        "label": "Volleyball",
+        "segment": [
+          203.07,
+          206.47
+        ]
+      },
+      {
+        "label": "Volleyball",
+        "segment": [
+          208.74,
+          209.88
+        ]
+      },
+      {
+        "label": "Volleyball",
+        "segment": [
+          211.01,
+          212.15
+        ]
+      },
+      {
+        "label": "Volleyball",
+        "segment": [
+          213.28,
+          218.95
+        ]
+      },
+      {
+        "label": "Volleyball",
+        "segment": [
+          220.09,
+          221.22
+        ]
+      },
+      {
+        "label": "Volleyball",
+        "segment": [
+          222.36,
+          224.62
+        ]
+      }
+    ]
+  },
+  "v_03JdaRepHkA.mp4": {
+    "annotations": [
+      {
+        "label": "Mixing drinks",
+        "segment": [
+          3.0,
+          4.2
+        ]
+      },
+      {
+        "label": "Mixing drinks",
+        "segment": [
+          21.62,
+          22.82
+        ]
+      },
+      {
+        "label": "Mixing drinks",
+        "segment": [
+          23.42,
+          27.03
+        ]
+      },
+      {
+        "label": "Mixing drinks",
+        "segment": [
+          27.63,
+          29.43
+        ]
+      },
+      {
+        "label": "Mixing drinks",
+        "segment": [
+          30.03,
+          40.84
+        ]
+      },
+      {
+        "label": "Mixing drinks",
+        "segment": [
+          41.44,
+          63.06
+        ]
+      },
+      {
+        "label": "Mixing drinks",
+        "segment": [
+          64.86,
+          76.88
+        ]
+      },
+      {
+        "label": "Mixing drinks",
+        "segment": [
+          78.08,
+          87.69
+        ]
+      },
+      {
+        "label": "Mixing drinks",
+        "segment": [
+          88.29,
+          105.11
+        ]
+      },
+      {
+        "label": "Mixing drinks",
+        "segment": [
+          106.91,
+          108.11
+        ]
+      },
+      {
+        "label": "Mixing drinks",
+        "segment": [
+          112.31,
+          113.51
+        ]
+      }
+    ]
+  },
+  "v_XlEmG7nM0jw.mp4": {
+    "annotations": [
+      {
+        "label": "Mixing drinks",
+        "segment": [
+          0.0,
+          1.5
+        ]
+      },
+      {
+        "label": "Mixing drinks",
+        "segment": [
+          1.8,
+          3.3
+        ]
+      },
+      {
+        "label": "Mixing drinks",
+        "segment": [
+          3.6,
+          30.92
+        ]
+      },
+      {
+        "label": "Mixing drinks",
+        "segment": [
+          31.22,
+          55.23
+        ]
+      },
+      {
+        "label": "Mixing drinks",
+        "segment": [
+          55.83,
+          57.93
+        ]
+      },
+      {
+        "label": "Mixing drinks",
+        "segment": [
+          59.43,
+          59.73
+        ]
+      }
+    ]
+  },
+  "v_wvFJbY3SmXI.mp4": {
+    "annotations": [
+      {
+        "label": "Discus throw",
+        "segment": [
+          0.0,
+          5.6
+        ]
+      },
+      {
+        "label": "Discus throw",
+        "segment": [
+          5.88,
+          8.4
+        ]
+      },
+      {
+        "label": "Discus throw",
+        "segment": [
+          8.68,
+          10.92
+        ]
+      },
+      {
+        "label": "Discus throw",
+        "segment": [
+          11.2,
+          12.6
+        ]
+      },
+      {
+        "label": "Discus throw",
+        "segment": [
+          12.88,
+          14.28
+        ]
+      },
+      {
+        "label": "Discus throw",
+        "segment": [
+          14.56,
+          19.04
+        ]
+      },
+      {
+        "label": "Discus throw",
+        "segment": [
+          19.32,
+          26.88
+        ]
+      },
+      {
+        "label": "Discus throw",
+        "segment": [
+          27.16,
+          34.72
+        ]
+      },
+      {
+        "label": "Discus throw",
+        "segment": [
+          35.0,
+          36.68
+        ]
+      },
+      {
+        "label": "Discus throw",
+        "segment": [
+          36.96,
+          41.16
+        ]
+      },
+      {
+        "label": "Discus throw",
+        "segment": [
+          41.44,
+          43.4
+        ]
+      },
+      {
+        "label": "Discus throw",
+        "segment": [
+          43.68,
+          47.32
+        ]
+      },
+      {
+        "label": "Discus throw",
+        "segment": [
+          47.6,
+          54.6
+        ]
+      },
+      {
+        "label": "Discus throw",
+        "segment": [
+          54.88,
+          55.72
+        ]
+      }
+    ]
+  },
+  "v_pX-ik8n_eNQ.mp4": {
+    "annotations": [
+      {
+        "label": "Ping-pong",
+        "segment": [
+          0.0,
+          12.48
+        ]
+      },
+      {
+        "label": "Ping-pong",
+        "segment": [
+          13.52,
+          22.88
+        ]
+      },
+      {
+        "label": "Ping-pong",
+        "segment": [
+          23.92,
+          56.16
+        ]
+      },
+      {
+        "label": "Ping-pong",
+        "segment": [
+          57.2,
+          64.48
+        ]
+      },
+      {
+        "label": "Ping-pong",
+        "segment": [
+          65.52,
+          72.8
+        ]
+      },
+      {
+        "label": "Ping-pong",
+        "segment": [
+          74.88,
+          75.92
+        ]
+      },
+      {
+        "label": "Ping-pong",
+        "segment": [
+          78.0,
+          95.68
+        ]
+      },
+      {
+        "label": "Ping-pong",
+        "segment": [
+          96.72,
+          105.04
+        ]
+      },
+      {
+        "label": "Ping-pong",
+        "segment": [
+          106.08,
+          117.52
+        ]
+      },
+      {
+        "label": "Ping-pong",
+        "segment": [
+          118.56,
+          162.24
+        ]
+      },
+      {
+        "label": "Ping-pong",
+        "segment": [
+          163.28,
+          182.0
+        ]
+      },
+      {
+        "label": "Ping-pong",
+        "segment": [
+          186.16,
+          193.44
+        ]
+      },
+      {
+        "label": "Ping-pong",
+        "segment": [
+          194.48,
+          195.52
+        ]
+      },
+      {
+        "label": "Ping-pong",
+        "segment": [
+          197.6,
+          206.96
+        ]
+      }
+    ]
+  },
+  "v_eSpPY2yMg70.mp4": {
+    "annotations": [
+      {
+        "label": "Using the pommel horse",
+        "segment": [
+          1.63,
+          21.96
+        ]
+      },
+      {
+        "label": "Using the pommel horse",
+        "segment": [
+          22.19,
+          46.48
+        ]
+      }
+    ]
+  },
+  "v_X9AnhFjdiXA.mp4": {
+    "annotations": [
+      {
+        "label": "Playing guitarra",
+        "segment": [
+          0.0,
+          143.28
+        ]
+      }
+    ]
+  },
+  "v_CPnLc0MtBYc.mp4": {
+    "annotations": [
+      {
+        "label": "High jump",
+        "segment": [
+          13.2,
+          13.27
+        ]
+      }
+    ]
+  },
+  "v_yl37hI-Bgkk.mp4": {
+    "annotations": [
+      {
+        "label": "Getting a haircut",
+        "segment": [
+          3.25,
+          6.0
+        ]
+      },
+      {
+        "label": "Getting a haircut",
+        "segment": [
+          9.25,
+          12.0
+        ]
+      },
+      {
+        "label": "Getting a haircut",
+        "segment": [
+          12.25,
+          13.25
+        ]
+      },
+      {
+        "label": "Getting a haircut",
+        "segment": [
+          27.25,
+          31.5
+        ]
+      },
+      {
+        "label": "Getting a haircut",
+        "segment": [
+          45.0,
+          49.75
+        ]
+      }
+    ]
+  },
+  "v_zLeCGU8SVVc.mp4": {
+    "annotations": [
+      {
+        "label": "Cheerleading",
+        "segment": [
+          0.0,
+          8.84
+        ]
+      },
+      {
+        "label": "Cheerleading",
+        "segment": [
+          9.88,
+          73.84
+        ]
+      },
+      {
+        "label": "Cheerleading",
+        "segment": [
+          74.36,
+          75.4
+        ]
+      },
+      {
+        "label": "Cheerleading",
+        "segment": [
+          75.92,
+          103.48
+        ]
+      }
+    ]
+  },
+  "v_CR_79ZjQG_w.mp4": {
+    "annotations": [
+      {
+        "label": "Hopscotch",
+        "segment": [
+          0.0,
+          33.17
+        ]
+      }
+    ]
+  },
+  "v_OwchMqCYaF4.mp4": {
+    "annotations": [
+      {
+        "label": "Cheerleading",
+        "segment": [
+          0.0,
+          15.0
+        ]
+      },
+      {
+        "label": "Cheerleading",
+        "segment": [
+          24.17,
+          26.67
+        ]
+      },
+      {
+        "label": "Cheerleading",
+        "segment": [
+          30.83,
+          53.33
+        ]
+      },
+      {
+        "label": "Cheerleading",
+        "segment": [
+          54.17,
+          60.0
+        ]
+      },
+      {
+        "label": "Cheerleading",
+        "segment": [
+          61.67,
+          65.0
+        ]
+      },
+      {
+        "label": "Cheerleading",
+        "segment": [
+          70.83,
+          84.17
+        ]
+      },
+      {
+        "label": "Cheerleading",
+        "segment": [
+          88.33,
+          90.0
+        ]
+      },
+      {
+        "label": "Cheerleading",
+        "segment": [
+          91.67,
+          110.83
+        ]
+      },
+      {
+        "label": "Cheerleading",
+        "segment": [
+          111.67,
+          117.5
+        ]
+      },
+      {
+        "label": "Cheerleading",
+        "segment": [
+          120.0,
+          122.5
+        ]
+      },
+      {
+        "label": "Cheerleading",
+        "segment": [
+          127.5,
+          150.0
+        ]
+      }
+    ]
+  },
+  "v_ucHq8B0-1BA.mp4": {
+    "annotations": [
+      {
+        "label": "Grooming horse",
+        "segment": [
+          6.2,
+          8.27
+        ]
+      },
+      {
+        "label": "Grooming horse",
+        "segment": [
+          24.8,
+          25.83
+        ]
+      },
+      {
+        "label": "Grooming horse",
+        "segment": [
+          67.17,
+          68.2
+        ]
+      },
+      {
+        "label": "Grooming horse",
+        "segment": [
+          70.27,
+          74.4
+        ]
+      },
+      {
+        "label": "Grooming horse",
+        "segment": [
+          75.43,
+          76.47
+        ]
+      },
+      {
+        "label": "Grooming horse",
+        "segment": [
+          77.5,
+          79.57
+        ]
+      },
+      {
+        "label": "Grooming horse",
+        "segment": [
+          80.6,
+          86.8
+        ]
+      },
+      {
+        "label": "Grooming horse",
+        "segment": [
+          87.83,
+          116.77
+        ]
+      },
+      {
+        "label": "Grooming horse",
+        "segment": [
+          117.8,
+          121.93
+        ]
+      },
+      {
+        "label": "Grooming horse",
+        "segment": [
+          122.97,
+          126.07
+        ]
+      },
+      {
+        "label": "Grooming horse",
+        "segment": [
+          128.13,
+          130.2
+        ]
+      },
+      {
+        "label": "Grooming horse",
+        "segment": [
+          151.9,
+          152.93
+        ]
+      },
+      {
+        "label": "Grooming horse",
+        "segment": [
+          155.0,
+          158.1
+        ]
+      },
+      {
+        "label": "Grooming horse",
+        "segment": [
+          165.33,
+          166.37
+        ]
+      },
+      {
+        "label": "Grooming horse",
+        "segment": [
+          176.7,
+          177.73
+        ]
+      },
+      {
+        "label": "Grooming horse",
+        "segment": [
+          179.8,
+          180.83
+        ]
+      },
+      {
+        "label": "Grooming horse",
+        "segment": [
+          181.87,
+          191.17
+        ]
+      },
+      {
+        "label": "Grooming horse",
+        "segment": [
+          192.2,
+          193.23
+        ]
+      },
+      {
+        "label": "Grooming horse",
+        "segment": [
+          197.37,
+          199.43
+        ]
+      },
+      {
+        "label": "Grooming horse",
+        "segment": [
+          200.47,
+          204.6
+        ]
+      }
+    ]
+  },
+  "v_zdMvd5Cr5jM.mp4": {
+    "annotations": [
+      {
+        "label": "Cheerleading",
+        "segment": [
+          0.0,
+          99.6
+        ]
+      }
+    ]
+  },
+  "v_rAO-_VxIJng.mp4": {
+    "annotations": [
+      {
+        "label": "Walking the dog",
+        "segment": [
+          7.6,
+          9.6
+        ]
+      },
+      {
+        "label": "Walking the dog",
+        "segment": [
+          9.8,
+          15.8
+        ]
+      },
+      {
+        "label": "Walking the dog",
+        "segment": [
+          21.8,
+          37.6
+        ]
+      }
+    ]
+  },
+  "v_7mmXZeOJT8w.mp4": {
+    "annotations": [
+      {
+        "label": "Gargling mouthwash",
+        "segment": [
+          5.34,
+          6.81
+        ]
+      },
+      {
+        "label": "Gargling mouthwash",
+        "segment": [
+          9.21,
+          11.61
+        ]
+      },
+      {
+        "label": "Gargling mouthwash",
+        "segment": [
+          11.75,
+          12.81
+        ]
+      },
+      {
+        "label": "Gargling mouthwash",
+        "segment": [
+          13.08,
+          14.55
+        ]
+      },
+      {
+        "label": "Gargling mouthwash",
+        "segment": [
+          21.49,
+          22.56
+        ]
+      }
+    ]
+  },
+  "v_-5c9WHk408g.mp4": {
+    "annotations": [
+      {
+        "label": "Paintball",
+        "segment": [
+          12.24,
+          14.28
+        ]
+      },
+      {
+        "label": "Paintball",
+        "segment": [
+          14.96,
+          17.0
+        ]
+      },
+      {
+        "label": "Paintball",
+        "segment": [
+          19.04,
+          22.44
+        ]
+      },
+      {
+        "label": "Paintball",
+        "segment": [
+          25.16,
+          29.92
+        ]
+      },
+      {
+        "label": "Paintball",
+        "segment": [
+          31.96,
+          33.32
+        ]
+      },
+      {
+        "label": "Paintball",
+        "segment": [
+          36.72,
+          39.44
+        ]
+      },
+      {
+        "label": "Paintball",
+        "segment": [
+          40.12,
+          54.4
+        ]
+      },
+      {
+        "label": "Paintball",
+        "segment": [
+          55.08,
+          68.68
+        ]
+      },
+      {
+        "label": "Paintball",
+        "segment": [
+          70.04,
+          81.6
+        ]
+      },
+      {
+        "label": "Paintball",
+        "segment": [
+          85.0,
+          86.36
+        ]
+      },
+      {
+        "label": "Paintball",
+        "segment": [
+          101.32,
+          102.68
+        ]
+      },
+      {
+        "label": "Paintball",
+        "segment": [
+          104.72,
+          106.76
+        ]
+      },
+      {
+        "label": "Paintball",
+        "segment": [
+          110.84,
+          116.96
+        ]
+      },
+      {
+        "label": "Paintball",
+        "segment": [
+          117.64,
+          119.0
+        ]
+      },
+      {
+        "label": "Paintball",
+        "segment": [
+          120.36,
+          123.76
+        ]
+      },
+      {
+        "label": "Paintball",
+        "segment": [
+          124.44,
+          126.48
+        ]
+      },
+      {
+        "label": "Paintball",
+        "segment": [
+          129.2,
+          135.32
+        ]
+      }
+    ]
+  },
+  "v_ZYPKueJon34.mp4": {
+    "annotations": [
+      {
+        "label": "Bungee jumping",
+        "segment": [
+          2.93,
+          4.0
+        ]
+      },
+      {
+        "label": "Bungee jumping",
+        "segment": [
+          13.27,
+          13.27
+        ]
+      }
+    ]
+  },
+  "v_DinaQYSgbtg.mp4": {
+    "annotations": [
+      {
+        "label": "Washing dishes",
+        "segment": [
+          3.74,
+          4.8
+        ]
+      },
+      {
+        "label": "Washing dishes",
+        "segment": [
+          5.07,
+          10.94
+        ]
+      },
+      {
+        "label": "Washing dishes",
+        "segment": [
+          11.48,
+          12.55
+        ]
+      },
+      {
+        "label": "Washing dishes",
+        "segment": [
+          12.81,
+          15.22
+        ]
+      },
+      {
+        "label": "Washing dishes",
+        "segment": [
+          16.28,
+          20.55
+        ]
+      },
+      {
+        "label": "Washing dishes",
+        "segment": [
+          20.82,
+          32.57
+        ]
+      },
+      {
+        "label": "Washing dishes",
+        "segment": [
+          33.37,
+          35.24
+        ]
+      },
+      {
+        "label": "Washing dishes",
+        "segment": [
+          36.57,
+          41.64
+        ]
+      },
+      {
+        "label": "Washing dishes",
+        "segment": [
+          41.91,
+          44.58
+        ]
+      },
+      {
+        "label": "Washing dishes",
+        "segment": [
+          44.84,
+          46.98
+        ]
+      },
+      {
+        "label": "Washing dishes",
+        "segment": [
+          49.92,
+          53.12
+        ]
+      }
+    ]
+  },
+  "v_0h4UT-2XTAw.mp4": {
+    "annotations": [
+      {
+        "label": "Removing curlers",
+        "segment": [
+          7.56,
+          9.24
+        ]
+      },
+      {
+        "label": "Removing curlers",
+        "segment": [
+          24.36,
+          33.6
+        ]
+      },
+      {
+        "label": "Removing curlers",
+        "segment": [
+          34.44,
+          43.68
+        ]
+      },
+      {
+        "label": "Removing curlers",
+        "segment": [
+          44.52,
+          47.04
+        ]
+      },
+      {
+        "label": "Removing curlers",
+        "segment": [
+          47.88,
+          61.32
+        ]
+      },
+      {
+        "label": "Removing curlers",
+        "segment": [
+          62.16,
+          73.92
+        ]
+      },
+      {
+        "label": "Removing curlers",
+        "segment": [
+          75.6,
+          82.32
+        ]
+      },
+      {
+        "label": "Removing curlers",
+        "segment": [
+          83.16,
+          85.68
+        ]
+      },
+      {
+        "label": "Removing curlers",
+        "segment": [
+          86.52,
+          89.04
+        ]
+      },
+      {
+        "label": "Removing curlers",
+        "segment": [
+          90.72,
+          92.4
+        ]
+      },
+      {
+        "label": "Removing curlers",
+        "segment": [
+          93.24,
+          96.6
+        ]
+      },
+      {
+        "label": "Removing curlers",
+        "segment": [
+          97.44,
+          102.48
+        ]
+      },
+      {
+        "label": "Removing curlers",
+        "segment": [
+          105.0,
+          108.36
+        ]
+      },
+      {
+        "label": "Removing curlers",
+        "segment": [
+          120.96,
+          122.64
+        ]
+      },
+      {
+        "label": "Removing curlers",
+        "segment": [
+          133.56,
+          136.08
+        ]
+      },
+      {
+        "label": "Removing curlers",
+        "segment": [
+          136.92,
+          139.44
+        ]
+      },
+      {
+        "label": "Removing curlers",
+        "segment": [
+          140.28,
+          141.96
+        ]
+      },
+      {
+        "label": "Removing curlers",
+        "segment": [
+          156.24,
+          158.76
+        ]
+      },
+      {
+        "label": "Removing curlers",
+        "segment": [
+          161.28,
+          162.96
+        ]
+      }
+    ]
+  },
+  "v__xgGaxc1jNE.mp4": {
+    "annotations": [
+      {
+        "label": "Speaking",
+        "segment": [
+          0.0,
+          179.07
+        ]
+      }
+    ]
+  },
+  "v_W3ozAI2ozCs.mp4": {
+    "annotations": [
+      {
+        "label": "Using parallel bars",
+        "segment": [
+          0.0,
+          19.35
+        ]
+      },
+      {
+        "label": "Using parallel bars",
+        "segment": [
+          19.52,
+          33.2
+        ]
+      }
+    ]
+  },
+  "v_ssHXm1LqovI.mp4": {
+    "annotations": [
+      {
+        "label": "Dodgeball",
+        "segment": [
+          0.59,
+          3.11
+        ]
+      },
+      {
+        "label": "Dodgeball",
+        "segment": [
+          4.04,
+          5.52
+        ]
+      },
+      {
+        "label": "Dodgeball",
+        "segment": [
+          5.59,
+          7.37
+        ]
+      }
+    ]
+  },
+  "v_KEXm-3H6eTg.mp4": {
+    "annotations": [
+      {
+        "label": "Mixing drinks",
+        "segment": [
+          15.01,
+          27.68
+        ]
+      },
+      {
+        "label": "Mixing drinks",
+        "segment": [
+          29.02,
+          37.69
+        ]
+      },
+      {
+        "label": "Mixing drinks",
+        "segment": [
+          40.02,
+          41.36
+        ]
+      },
+      {
+        "label": "Mixing drinks",
+        "segment": [
+          42.02,
+          43.02
+        ]
+      },
+      {
+        "label": "Mixing drinks",
+        "segment": [
+          43.36,
+          44.69
+        ]
+      },
+      {
+        "label": "Mixing drinks",
+        "segment": [
+          45.02,
+          49.36
+        ]
+      },
+      {
+        "label": "Mixing drinks",
+        "segment": [
+          50.69,
+          62.37
+        ]
+      }
+    ]
+  },
+  "v_3TxZTZEEg44.mp4": {
+    "annotations": [
+      {
+        "label": "Tennis serve with ball bouncing",
+        "segment": [
+          29.16,
+          31.46
+        ]
+      },
+      {
+        "label": "Tennis serve with ball bouncing",
+        "segment": [
+          46.05,
+          48.35
+        ]
+      },
+      {
+        "label": "Tennis serve with ball bouncing",
+        "segment": [
+          86.72,
+          88.25
+        ]
+      },
+      {
+        "label": "Tennis serve with ball bouncing",
+        "segment": [
+          100.53,
+          102.07
+        ]
+      }
+    ]
+  },
+  "v_wdD-UHM8rTg.mp4": {
+    "annotations": [
+      {
+        "label": "Playing violin",
+        "segment": [
+          23.12,
+          25.33
+        ]
+      },
+      {
+        "label": "Playing violin",
+        "segment": [
+          109.01,
+          110.11
+        ]
+      },
+      {
+        "label": "Playing violin",
+        "segment": [
+          113.41,
+          117.82
+        ]
+      },
+      {
+        "label": "Playing violin",
+        "segment": [
+          121.12,
+          123.32
+        ]
+      },
+      {
+        "label": "Playing violin",
+        "segment": [
+          124.42,
+          125.53
+        ]
+      },
+      {
+        "label": "Playing violin",
+        "segment": [
+          136.54,
+          139.84
+        ]
+      },
+      {
+        "label": "Playing violin",
+        "segment": [
+          143.14,
+          145.35
+        ]
+      },
+      {
+        "label": "Playing violin",
+        "segment": [
+          156.36,
+          157.46
+        ]
+      },
+      {
+        "label": "Playing violin",
+        "segment": [
+          165.16,
+          167.37
+        ]
+      },
+      {
+        "label": "Playing violin",
+        "segment": [
+          169.57,
+          170.67
+        ]
+      }
+    ]
+  },
+  "v_-8awLlFLcQc.mp4": {
+    "annotations": [
+      {
+        "label": "Vacuuming floor",
+        "segment": [
+          38.44,
+          42.44
+        ]
+      },
+      {
+        "label": "Vacuuming floor",
+        "segment": [
+          47.25,
+          49.65
+        ]
+      },
+      {
+        "label": "Vacuuming floor",
+        "segment": [
+          53.65,
+          55.26
+        ]
+      },
+      {
+        "label": "Vacuuming floor",
+        "segment": [
+          56.06,
+          64.06
+        ]
+      },
+      {
+        "label": "Vacuuming floor",
+        "segment": [
+          64.86,
+          68.87
+        ]
+      },
+      {
+        "label": "Vacuuming floor",
+        "segment": [
+          69.67,
+          83.28
+        ]
+      },
+      {
+        "label": "Vacuuming floor",
+        "segment": [
+          86.49,
+          90.49
+        ]
+      },
+      {
+        "label": "Vacuuming floor",
+        "segment": [
+          93.69,
+          105.71
+        ]
+      },
+      {
+        "label": "Vacuuming floor",
+        "segment": [
+          106.51,
+          112.11
+        ]
+      },
+      {
+        "label": "Vacuuming floor",
+        "segment": [
+          134.53,
+          137.74
+        ]
+      },
+      {
+        "label": "Vacuuming floor",
+        "segment": [
+          138.54,
+          140.14
+        ]
+      }
+    ]
+  },
+  "v_2-S2fehRKVc.mp4": {
+    "annotations": [
+      {
+        "label": "Chopping wood",
+        "segment": [
+          0.0,
+          4.6
+        ]
+      }
+    ]
+  },
+  "v_8wB0BOjuyes.mp4": {
+    "annotations": [
+      {
+        "label": "Playing polo",
+        "segment": [
+          0.0,
+          2.4
+        ]
+      },
+      {
+        "label": "Playing polo",
+        "segment": [
+          3.33,
+          6.73
+        ]
+      },
+      {
+        "label": "Playing polo",
+        "segment": [
+          7.73,
+          13.25
+        ]
+      }
+    ]
+  },
+  "v_NLuNMeYBeoc.mp4": {
+    "annotations": [
+      {
+        "label": "Using parallel bars",
+        "segment": [
+          4.67,
+          8.41
+        ]
+      },
+      {
+        "label": "Using parallel bars",
+        "segment": [
+          8.88,
+          28.03
+        ]
+      },
+      {
+        "label": "Using parallel bars",
+        "segment": [
+          28.5,
+          33.63
+        ]
+      },
+      {
+        "label": "Using parallel bars",
+        "segment": [
+          57.46,
+          92.96
+        ]
+      }
+    ]
+  },
+  "v_fKDl_CnA8nY.mp4": {
+    "annotations": [
+      {
+        "label": "Playing saxophone",
+        "segment": [
+          5.12,
+          7.68
+        ]
+      },
+      {
+        "label": "Playing saxophone",
+        "segment": [
+          28.16,
+          29.44
+        ]
+      },
+      {
+        "label": "Playing saxophone",
+        "segment": [
+          33.92,
+          35.84
+        ]
+      },
+      {
+        "label": "Playing saxophone",
+        "segment": [
+          37.12,
+          38.4
+        ]
+      },
+      {
+        "label": "Playing saxophone",
+        "segment": [
+          42.88,
+          44.8
+        ]
+      },
+      {
+        "label": "Playing saxophone",
+        "segment": [
+          45.44,
+          48.64
+        ]
+      },
+      {
+        "label": "Playing saxophone",
+        "segment": [
+          49.28,
+          51.84
+        ]
+      },
+      {
+        "label": "Playing saxophone",
+        "segment": [
+          52.48,
+          89.6
+        ]
+      },
+      {
+        "label": "Playing saxophone",
+        "segment": [
+          90.88,
+          97.28
+        ]
+      },
+      {
+        "label": "Playing saxophone",
+        "segment": [
+          98.56,
+          108.16
+        ]
+      },
+      {
+        "label": "Playing saxophone",
+        "segment": [
+          110.08,
+          113.28
+        ]
+      },
+      {
+        "label": "Playing saxophone",
+        "segment": [
+          119.68,
+          120.96
+        ]
+      }
+    ]
+  },
+  "v_kWN4zFblj6o.mp4": {
+    "annotations": [
+      {
+        "label": "Doing step aerobics",
+        "segment": [
+          0.0,
+          79.68
+        ]
+      }
+    ]
+  },
+  "v_5vDPgcyRtOU.mp4": {
+    "annotations": [
+      {
+        "label": "Polishing forniture",
+        "segment": [
+          34.32,
+          45.24
+        ]
+      },
+      {
+        "label": "Polishing forniture",
+        "segment": [
+          45.76,
+          46.8
+        ]
+      },
+      {
+        "label": "Polishing forniture",
+        "segment": [
+          47.32,
+          49.92
+        ]
+      },
+      {
+        "label": "Polishing forniture",
+        "segment": [
+          52.0,
+          56.68
+        ]
+      },
+      {
+        "label": "Polishing forniture",
+        "segment": [
+          57.2,
+          63.96
+        ]
+      },
+      {
+        "label": "Polishing forniture",
+        "segment": [
+          65.52,
+          69.16
+        ]
+      },
+      {
+        "label": "Polishing forniture",
+        "segment": [
+          70.72,
+          79.56
+        ]
+      },
+      {
+        "label": "Polishing forniture",
+        "segment": [
+          82.16,
+          95.16
+        ]
+      },
+      {
+        "label": "Polishing forniture",
+        "segment": [
+          95.68,
+          96.72
+        ]
+      },
+      {
+        "label": "Polishing forniture",
+        "segment": [
+          98.28,
+          100.88
+        ]
+      }
+    ]
+  },
+  "v_-5Q7iNtaWCU.mp4": {
+    "annotations": [
+      {
+        "label": "Dodgeball",
+        "segment": [
+          0.37,
+          2.93
+        ]
+      },
+      {
+        "label": "Dodgeball",
+        "segment": [
+          3.67,
+          13.93
+        ]
+      },
+      {
+        "label": "Dodgeball",
+        "segment": [
+          14.3,
+          28.6
+        ]
+      },
+      {
+        "label": "Dodgeball",
+        "segment": [
+          29.33,
+          38.13
+        ]
+      },
+      {
+        "label": "Dodgeball",
+        "segment": [
+          38.87,
+          45.47
+        ]
+      },
+      {
+        "label": "Dodgeball",
+        "segment": [
+          46.2,
+          55.0
+        ]
+      },
+      {
+        "label": "Dodgeball",
+        "segment": [
+          55.37,
+          68.57
+        ]
+      },
+      {
+        "label": "Dodgeball",
+        "segment": [
+          69.3,
+          72.97
+        ]
+      }
+    ]
+  },
+  "v_QwnUZ-5JaOM.mp4": {
+    "annotations": [
+      {
+        "label": "Long jump",
+        "segment": [
+          50.48,
+          60.69
+        ]
+      },
+      {
+        "label": "Long jump",
+        "segment": [
+          62.96,
+          67.5
+        ]
+      },
+      {
+        "label": "Long jump",
+        "segment": [
+          68.07,
+          74.31
+        ]
+      },
+      {
+        "label": "Long jump",
+        "segment": [
+          74.87,
+          78.85
+        ]
+      },
+      {
+        "label": "Long jump",
+        "segment": [
+          79.41,
+          81.11
+        ]
+      },
+      {
+        "label": "Long jump",
+        "segment": [
+          82.25,
+          85.09
+        ]
+      },
+      {
+        "label": "Long jump",
+        "segment": [
+          85.65,
+          90.19
+        ]
+      },
+      {
+        "label": "Long jump",
+        "segment": [
+          92.46,
+          94.16
+        ]
+      }
+    ]
+  },
+  "v_F51cKkjt6tk.mp4": {
+    "annotations": [
+      {
+        "label": "Putting on makeup",
+        "segment": [
+          3.36,
+          9.72
+        ]
+      },
+      {
+        "label": "Putting on makeup",
+        "segment": [
+          10.32,
+          13.68
+        ]
+      },
+      {
+        "label": "Putting on makeup",
+        "segment": [
+          15.6,
+          23.88
+        ]
+      }
+    ]
+  },
+  "v_8AsV0ojyUMU.mp4": {
+    "annotations": [
+      {
+        "label": "Fixing bicycle",
+        "segment": [
+          1.13,
+          112.88
+        ]
+      }
+    ]
+  },
+  "v_K5wPwCFVkhU.mp4": {
+    "annotations": [
+      {
+        "label": "Grooming dog",
+        "segment": [
+          5.73,
+          7.53
+        ]
+      }
+    ]
+  },
+  "v_J76bFZWXHFY.mp4": {
+    "annotations": [
+      {
+        "label": "Rock climbing",
+        "segment": [
+          0.0,
+          15.48
+        ]
+      },
+      {
+        "label": "Rock climbing",
+        "segment": [
+          20.32,
+          127.73
+        ]
+      },
+      {
+        "label": "Rock climbing",
+        "segment": [
+          130.63,
+          169.34
+        ]
+      },
+      {
+        "label": "Rock climbing",
+        "segment": [
+          171.27,
+          188.69
+        ]
+      }
+    ]
+  },
+  "v_lVOBMs6op7o.mp4": {
+    "annotations": [
+      {
+        "label": "Drinking coffee",
+        "segment": [
+          6.42,
+          6.62
+        ]
+      }
+    ]
+  },
+  "v_B1DNoole3Wo.mp4": {
+    "annotations": [
+      {
+        "label": "Smoking a cigarette",
+        "segment": [
+          15.18,
+          16.48
+        ]
+      },
+      {
+        "label": "Smoking a cigarette",
+        "segment": [
+          24.72,
+          26.89
+        ]
+      },
+      {
+        "label": "Smoking a cigarette",
+        "segment": [
+          37.74,
+          39.91
+        ]
+      },
+      {
+        "label": "Smoking a cigarette",
+        "segment": [
+          48.58,
+          52.49
+        ]
+      }
+    ]
+  },
+  "v_gwZleaX_ZR8.mp4": {
+    "annotations": [
+      {
+        "label": "Platform diving",
+        "segment": [
+          8.07,
+          13.94
+        ]
+      },
+      {
+        "label": "Platform diving",
+        "segment": [
+          14.68,
+          80.0
+        ]
+      },
+      {
+        "label": "Platform diving",
+        "segment": [
+          81.46,
+          144.58
+        ]
+      }
+    ]
+  },
+  "v_wUvC0TXK1PM.mp4": {
+    "annotations": [
+      {
+        "label": "Painting",
+        "segment": [
+          2.4,
+          6.0
+        ]
+      },
+      {
+        "label": "Painting",
+        "segment": [
+          6.4,
+          9.2
+        ]
+      },
+      {
+        "label": "Painting",
+        "segment": [
+          9.6,
+          17.2
+        ]
+      },
+      {
+        "label": "Painting",
+        "segment": [
+          18.8,
+          28.4
+        ]
+      },
+      {
+        "label": "Painting",
+        "segment": [
+          28.8,
+          38.4
+        ]
+      },
+      {
+        "label": "Painting",
+        "segment": [
+          38.8,
+          40.4
+        ]
+      },
+      {
+        "label": "Painting",
+        "segment": [
+          40.8,
+          48.4
+        ]
+      },
+      {
+        "label": "Painting",
+        "segment": [
+          48.8,
+          55.2
+        ]
+      },
+      {
+        "label": "Painting",
+        "segment": [
+          55.6,
+          58.4
+        ]
+      },
+      {
+        "label": "Painting",
+        "segment": [
+          60.0,
+          64.0
+        ]
+      },
+      {
+        "label": "Painting",
+        "segment": [
+          64.4,
+          65.6
+        ]
+      },
+      {
+        "label": "Painting",
+        "segment": [
+          66.0,
+          67.2
+        ]
+      },
+      {
+        "label": "Painting",
+        "segment": [
+          67.6,
+          74.0
+        ]
+      },
+      {
+        "label": "Painting",
+        "segment": [
+          74.4,
+          77.6
+        ]
+      },
+      {
+        "label": "Painting",
+        "segment": [
+          78.0,
+          79.2
+        ]
+      }
+    ]
+  },
+  "v_8xvoAyY70I8.mp4": {
+    "annotations": [
+      {
+        "label": "Starting a campfire",
+        "segment": [
+          10.0,
+          11.33
+        ]
+      },
+      {
+        "label": "Starting a campfire",
+        "segment": [
+          32.83,
+          33.17
+        ]
+      }
+    ]
+  },
+  "v_Vtsv9iPHDqg.mp4": {
+    "annotations": [
+      {
+        "label": "Long jump",
+        "segment": [
+          6.44,
+          8.28
+        ]
+      },
+      {
+        "label": "Long jump",
+        "segment": [
+          11.04,
+          12.88
+        ]
+      },
+      {
+        "label": "Long jump",
+        "segment": [
+          21.16,
+          25.76
+        ]
+      },
+      {
+        "label": "Long jump",
+        "segment": [
+          26.68,
+          33.12
+        ]
+      },
+      {
+        "label": "Long jump",
+        "segment": [
+          57.96,
+          62.56
+        ]
+      },
+      {
+        "label": "Long jump",
+        "segment": [
+          64.4,
+          67.16
+        ]
+      },
+      {
+        "label": "Long jump",
+        "segment": [
+          74.52,
+          79.12
+        ]
+      },
+      {
+        "label": "Long jump",
+        "segment": [
+          80.04,
+          87.4
+        ]
+      },
+      {
+        "label": "Long jump",
+        "segment": [
+          105.8,
+          109.48
+        ]
+      },
+      {
+        "label": "Long jump",
+        "segment": [
+          110.4,
+          113.16
+        ]
+      },
+      {
+        "label": "Long jump",
+        "segment": [
+          123.28,
+          126.96
+        ]
+      },
+      {
+        "label": "Long jump",
+        "segment": [
+          127.88,
+          136.16
+        ]
+      },
+      {
+        "label": "Long jump",
+        "segment": [
+          149.96,
+          151.8
+        ]
+      },
+      {
+        "label": "Long jump",
+        "segment": [
+          156.4,
+          158.24
+        ]
+      }
+    ]
+  },
+  "v_aDaazrgvjJg.mp4": {
+    "annotations": [
+      {
+        "label": "Clean and jerk",
+        "segment": [
+          0.0,
+          19.9
+        ]
+      }
+    ]
+  },
+  "v_Eu3QFCldg0s.mp4": {
+    "annotations": [
+      {
+        "label": "Walking the dog",
+        "segment": [
+          0.0,
+          27.36
+        ]
+      },
+      {
+        "label": "Walking the dog",
+        "segment": [
+          28.12,
+          40.28
+        ]
+      },
+      {
+        "label": "Walking the dog",
+        "segment": [
+          45.6,
+          48.64
+        ]
+      },
+      {
+        "label": "Walking the dog",
+        "segment": [
+          49.4,
+          63.08
+        ]
+      },
+      {
+        "label": "Walking the dog",
+        "segment": [
+          63.84,
+          65.36
+        ]
+      },
+      {
+        "label": "Walking the dog",
+        "segment": [
+          66.12,
+          67.64
+        ]
+      },
+      {
+        "label": "Walking the dog",
+        "segment": [
+          68.4,
+          70.68
+        ]
+      },
+      {
+        "label": "Walking the dog",
+        "segment": [
+          71.44,
+          77.52
+        ]
+      },
+      {
+        "label": "Walking the dog",
+        "segment": [
+          78.28,
+          79.8
+        ]
+      },
+      {
+        "label": "Walking the dog",
+        "segment": [
+          81.32,
+          82.84
+        ]
+      },
+      {
+        "label": "Walking the dog",
+        "segment": [
+          83.6,
+          95.0
+        ]
+      },
+      {
+        "label": "Walking the dog",
+        "segment": [
+          95.76,
+          98.8
+        ]
+      },
+      {
+        "label": "Walking the dog",
+        "segment": [
+          99.56,
+          107.16
+        ]
+      },
+      {
+        "label": "Walking the dog",
+        "segment": [
+          107.92,
+          109.44
+        ]
+      },
+      {
+        "label": "Walking the dog",
+        "segment": [
+          110.2,
+          118.56
+        ]
+      },
+      {
+        "label": "Walking the dog",
+        "segment": [
+          119.32,
+          126.92
+        ]
+      }
+    ]
+  },
+  "v_xcBJP14YBvg.mp4": {
+    "annotations": [
+      {
+        "label": "Using the pommel horse",
+        "segment": [
+          1.5,
+          39.94
+        ]
+      },
+      {
+        "label": "Using the pommel horse",
+        "segment": [
+          40.24,
+          41.44
+        ]
+      }
+    ]
+  },
+  "v_7-_Nur_xiV4.mp4": {
+    "annotations": [
+      {
+        "label": "Breakdancing",
+        "segment": [
+          2.7,
+          14.41
+        ]
+      },
+      {
+        "label": "Breakdancing",
+        "segment": [
+          15.32,
+          26.13
+        ]
+      },
+      {
+        "label": "Breakdancing",
+        "segment": [
+          27.03,
+          31.53
+        ]
+      },
+      {
+        "label": "Breakdancing",
+        "segment": [
+          32.43,
+          49.55
+        ]
+      },
+      {
+        "label": "Breakdancing",
+        "segment": [
+          50.45,
+          54.05
+        ]
+      },
+      {
+        "label": "Breakdancing",
+        "segment": [
+          54.95,
+          65.77
+        ]
+      },
+      {
+        "label": "Breakdancing",
+        "segment": [
+          68.47,
+          82.88
+        ]
+      },
+      {
+        "label": "Breakdancing",
+        "segment": [
+          83.78,
+          94.59
+        ]
+      },
+      {
+        "label": "Breakdancing",
+        "segment": [
+          95.5,
+          118.02
+        ]
+      },
+      {
+        "label": "Breakdancing",
+        "segment": [
+          119.82,
+          134.23
+        ]
+      },
+      {
+        "label": "Breakdancing",
+        "segment": [
+          135.13,
+          139.64
+        ]
+      },
+      {
+        "label": "Breakdancing",
+        "segment": [
+          140.54,
+          142.34
+        ]
+      },
+      {
+        "label": "Breakdancing",
+        "segment": [
+          143.24,
+          154.05
+        ]
+      },
+      {
+        "label": "Breakdancing",
+        "segment": [
+          154.95,
+          165.77
+        ]
+      },
+      {
+        "label": "Breakdancing",
+        "segment": [
+          166.67,
+          177.48
+        ]
+      },
+      {
+        "label": "Breakdancing",
+        "segment": [
+          178.38,
+          179.28
+        ]
+      }
+    ]
+  },
+  "v_O0KUnuhLwj0.mp4": {
+    "annotations": [
+      {
+        "label": "Smoking a cigarette",
+        "segment": [
+          3.74,
+          5.34
+        ]
+      },
+      {
+        "label": "Smoking a cigarette",
+        "segment": [
+          5.87,
+          7.47
+        ]
+      },
+      {
+        "label": "Smoking a cigarette",
+        "segment": [
+          19.75,
+          24.02
+        ]
+      },
+      {
+        "label": "Smoking a cigarette",
+        "segment": [
+          25.08,
+          106.21
+        ]
+      }
+    ]
+  },
+  "v_5Wp2dxIAocI.mp4": {
+    "annotations": [
+      {
+        "label": "Wrapping presents",
+        "segment": [
+          0.0,
+          12.48
+        ]
+      },
+      {
+        "label": "Wrapping presents",
+        "segment": [
+          13.52,
+          20.8
+        ]
+      },
+      {
+        "label": "Wrapping presents",
+        "segment": [
+          21.84,
+          22.88
+        ]
+      },
+      {
+        "label": "Wrapping presents",
+        "segment": [
+          26.0,
+          29.12
+        ]
+      },
+      {
+        "label": "Wrapping presents",
+        "segment": [
+          30.16,
+          34.32
+        ]
+      },
+      {
+        "label": "Wrapping presents",
+        "segment": [
+          36.4,
+          43.68
+        ]
+      },
+      {
+        "label": "Wrapping presents",
+        "segment": [
+          44.72,
+          70.72
+        ]
+      },
+      {
+        "label": "Wrapping presents",
+        "segment": [
+          72.8,
+          196.56
+        ]
+      },
+      {
+        "label": "Wrapping presents",
+        "segment": [
+          197.6,
+          206.96
+        ]
+      }
+    ]
+  },
+  "v_4KE6dUAGZ94.mp4": {
+    "annotations": [
+      {
+        "label": "Using the pommel horse",
+        "segment": [
+          0.0,
+          3.12
+        ]
+      },
+      {
+        "label": "Using the pommel horse",
+        "segment": [
+          4.16,
+          29.12
+        ]
+      },
+      {
+        "label": "Using the pommel horse",
+        "segment": [
+          30.16,
+          42.64
+        ]
+      },
+      {
+        "label": "Using the pommel horse",
+        "segment": [
+          44.72,
+          46.8
+        ]
+      },
+      {
+        "label": "Using the pommel horse",
+        "segment": [
+          47.84,
+          116.48
+        ]
+      },
+      {
+        "label": "Using the pommel horse",
+        "segment": [
+          117.52,
+          119.6
+        ]
+      },
+      {
+        "label": "Using the pommel horse",
+        "segment": [
+          120.64,
+          123.76
+        ]
+      },
+      {
+        "label": "Using the pommel horse",
+        "segment": [
+          137.28,
+          138.32
+        ]
+      }
+    ]
+  },
+  "v_n9TuUTNpKwg.mp4": {
+    "annotations": [
+      {
+        "label": "Long jump",
+        "segment": [
+          12.31,
+          21.99
+        ]
+      },
+      {
+        "label": "Long jump",
+        "segment": [
+          46.18,
+          65.97
+        ]
+      },
+      {
+        "label": "Long jump",
+        "segment": [
+          69.05,
+          70.37
+        ]
+      }
+    ]
+  },
+  "v_TRXLUcm2CuQ.mp4": {
+    "annotations": [
+      {
+        "label": "Shaving legs",
+        "segment": [
+          15.96,
+          31.92
+        ]
+      },
+      {
+        "label": "Shaving legs",
+        "segment": [
+          32.76,
+          47.88
+        ]
+      },
+      {
+        "label": "Shaving legs",
+        "segment": [
+          48.72,
+          63.84
+        ]
+      },
+      {
+        "label": "Shaving legs",
+        "segment": [
+          68.88,
+          70.56
+        ]
+      },
+      {
+        "label": "Shaving legs",
+        "segment": [
+          91.56,
+          94.08
+        ]
+      },
+      {
+        "label": "Shaving legs",
+        "segment": [
+          99.12,
+          115.92
+        ]
+      },
+      {
+        "label": "Shaving legs",
+        "segment": [
+          117.6,
+          119.28
+        ]
+      },
+      {
+        "label": "Shaving legs",
+        "segment": [
+          145.32,
+          161.28
+        ]
+      }
+    ]
+  },
+  "v_ulV37d5wFaw.mp4": {
+    "annotations": [
+      {
+        "label": "Removing curlers",
+        "segment": [
+          3.0,
+          5.0
+        ]
+      },
+      {
+        "label": "Removing curlers",
+        "segment": [
+          6.0,
+          7.0
+        ]
+      },
+      {
+        "label": "Removing curlers",
+        "segment": [
+          10.0,
+          11.0
+        ]
+      },
+      {
+        "label": "Removing curlers",
+        "segment": [
+          13.0,
+          17.0
+        ]
+      },
+      {
+        "label": "Removing curlers",
+        "segment": [
+          18.0,
+          22.0
+        ]
+      },
+      {
+        "label": "Removing curlers",
+        "segment": [
+          23.0,
+          26.0
+        ]
+      },
+      {
+        "label": "Removing curlers",
+        "segment": [
+          30.0,
+          32.0
+        ]
+      },
+      {
+        "label": "Removing curlers",
+        "segment": [
+          33.0,
+          37.0
+        ]
+      },
+      {
+        "label": "Removing curlers",
+        "segment": [
+          42.0,
+          44.0
+        ]
+      },
+      {
+        "label": "Removing curlers",
+        "segment": [
+          47.0,
+          48.0
+        ]
+      },
+      {
+        "label": "Removing curlers",
+        "segment": [
+          49.0,
+          51.0
+        ]
+      },
+      {
+        "label": "Removing curlers",
+        "segment": [
+          52.0,
+          53.0
+        ]
+      },
+      {
+        "label": "Removing curlers",
+        "segment": [
+          62.0,
+          63.0
+        ]
+      },
+      {
+        "label": "Removing curlers",
+        "segment": [
+          67.0,
+          68.0
+        ]
+      },
+      {
+        "label": "Removing curlers",
+        "segment": [
+          73.0,
+          75.0
+        ]
+      },
+      {
+        "label": "Removing curlers",
+        "segment": [
+          84.0,
+          93.0
+        ]
+      },
+      {
+        "label": "Removing curlers",
+        "segment": [
+          95.0,
+          105.0
+        ]
+      },
+      {
+        "label": "Removing curlers",
+        "segment": [
+          112.0,
+          114.0
+        ]
+      },
+      {
+        "label": "Removing curlers",
+        "segment": [
+          115.0,
+          116.0
+        ]
+      },
+      {
+        "label": "Removing curlers",
+        "segment": [
+          117.0,
+          121.0
+        ]
+      },
+      {
+        "label": "Removing curlers",
+        "segment": [
+          122.0,
+          123.0
+        ]
+      },
+      {
+        "label": "Removing curlers",
+        "segment": [
+          124.0,
+          130.0
+        ]
+      },
+      {
+        "label": "Removing curlers",
+        "segment": [
+          132.0,
+          137.0
+        ]
+      },
+      {
+        "label": "Removing curlers",
+        "segment": [
+          140.0,
+          141.0
+        ]
+      },
+      {
+        "label": "Removing curlers",
+        "segment": [
+          145.0,
+          146.0
+        ]
+      },
+      {
+        "label": "Removing curlers",
+        "segment": [
+          147.0,
+          151.0
+        ]
+      },
+      {
+        "label": "Removing curlers",
+        "segment": [
+          152.0,
+          153.0
+        ]
+      },
+      {
+        "label": "Removing curlers",
+        "segment": [
+          155.0,
+          156.0
+        ]
+      },
+      {
+        "label": "Removing curlers",
+        "segment": [
+          157.0,
+          158.0
+        ]
+      },
+      {
+        "label": "Removing curlers",
+        "segment": [
+          159.0,
+          160.0
+        ]
+      },
+      {
+        "label": "Removing curlers",
+        "segment": [
+          161.0,
+          172.0
+        ]
+      },
+      {
+        "label": "Removing curlers",
+        "segment": [
+          176.0,
+          178.0
+        ]
+      },
+      {
+        "label": "Removing curlers",
+        "segment": [
+          179.0,
+          184.0
+        ]
+      },
+      {
+        "label": "Removing curlers",
+        "segment": [
+          186.0,
+          187.0
+        ]
+      },
+      {
+        "label": "Removing curlers",
+        "segment": [
+          188.0,
+          191.0
+        ]
+      },
+      {
+        "label": "Removing curlers",
+        "segment": [
+          192.0,
+          196.0
+        ]
+      },
+      {
+        "label": "Removing curlers",
+        "segment": [
+          197.0,
+          198.0
+        ]
+      }
+    ]
+  },
+  "v_qTAG23IVSeM.mp4": {
+    "annotations": [
+      {
+        "label": "Playing polo",
+        "segment": [
+          9.07,
+          10.13
+        ]
+      },
+      {
+        "label": "Playing polo",
+        "segment": [
+          14.93,
+          26.67
+        ]
+      },
+      {
+        "label": "Playing polo",
+        "segment": [
+          35.2,
+          37.87
+        ]
+      },
+      {
+        "label": "Playing polo",
+        "segment": [
+          38.93,
+          43.2
+        ]
+      },
+      {
+        "label": "Playing polo",
+        "segment": [
+          44.27,
+          52.27
+        ]
+      },
+      {
+        "label": "Playing polo",
+        "segment": [
+          53.87,
+          54.93
+        ]
+      },
+      {
+        "label": "Playing polo",
+        "segment": [
+          55.47,
+          87.47
+        ]
+      },
+      {
+        "label": "Playing polo",
+        "segment": [
+          89.07,
+          101.87
+        ]
+      }
+    ]
+  },
+  "v_3SjuIcAfeWk.mp4": {
+    "annotations": [
+      {
+        "label": "Wrapping presents",
+        "segment": [
+          7.93,
+          80.27
+        ]
+      },
+      {
+        "label": "Wrapping presents",
+        "segment": [
+          82.13,
+          83.53
+        ]
+      },
+      {
+        "label": "Wrapping presents",
+        "segment": [
+          84.93,
+          92.87
+        ]
+      }
+    ]
+  },
+  "v_GGv0sCOf_tM.mp4": {
+    "annotations": [
+      {
+        "label": "Cleaning shoes",
+        "segment": [
+          0.88,
+          3.2
+        ]
+      },
+      {
+        "label": "Cleaning shoes",
+        "segment": [
+          3.28,
+          15.92
+        ]
+      }
+    ]
+  },
+  "v_suyh4tGuScw.mp4": {
+    "annotations": [
+      {
+        "label": "Tango",
+        "segment": [
+          0.0,
+          4.48
+        ]
+      },
+      {
+        "label": "Tango",
+        "segment": [
+          5.6,
+          11.76
+        ]
+      },
+      {
+        "label": "Tango",
+        "segment": [
+          12.32,
+          14.56
+        ]
+      },
+      {
+        "label": "Tango",
+        "segment": [
+          15.12,
+          23.52
+        ]
+      },
+      {
+        "label": "Tango",
+        "segment": [
+          24.08,
+          58.8
+        ]
+      },
+      {
+        "label": "Tango",
+        "segment": [
+          59.36,
+          73.92
+        ]
+      },
+      {
+        "label": "Tango",
+        "segment": [
+          74.48,
+          86.8
+        ]
+      },
+      {
+        "label": "Tango",
+        "segment": [
+          87.36,
+          106.4
+        ]
+      }
+    ]
+  },
+  "v_2XOTxAZZhsQ.mp4": {
+    "annotations": [
+      {
+        "label": "Washing dishes",
+        "segment": [
+          4.53,
+          6.93
+        ]
+      },
+      {
+        "label": "Washing dishes",
+        "segment": [
+          7.47,
+          11.47
+        ]
+      },
+      {
+        "label": "Washing dishes",
+        "segment": [
+          11.73,
+          15.73
+        ]
+      },
+      {
+        "label": "Washing dishes",
+        "segment": [
+          16.27,
+          18.4
+        ]
+      },
+      {
+        "label": "Washing dishes",
+        "segment": [
+          28.53,
+          34.4
+        ]
+      },
+      {
+        "label": "Washing dishes",
+        "segment": [
+          45.07,
+          46.13
+        ]
+      }
+    ]
+  },
+  "v_H1cKUnazzFM.mp4": {
+    "annotations": [
+      {
+        "label": "Discus throw",
+        "segment": [
+          0.0,
+          3.47
+        ]
+      },
+      {
+        "label": "Discus throw",
+        "segment": [
+          4.27,
+          6.27
+        ]
+      },
+      {
+        "label": "Discus throw",
+        "segment": [
+          6.4,
+          26.53
+        ]
+      }
+    ]
+  },
+  "v_IEqnfSiCIXc.mp4": {
+    "annotations": [
+      {
+        "label": "Skateboarding",
+        "segment": [
+          1.94,
+          4.84
+        ]
+      },
+      {
+        "label": "Skateboarding",
+        "segment": [
+          17.42,
+          19.35
+        ]
+      },
+      {
+        "label": "Skateboarding",
+        "segment": [
+          20.32,
+          23.22
+        ]
+      },
+      {
+        "label": "Skateboarding",
+        "segment": [
+          25.16,
+          30.96
+        ]
+      },
+      {
+        "label": "Skateboarding",
+        "segment": [
+          31.93,
+          37.74
+        ]
+      },
+      {
+        "label": "Skateboarding",
+        "segment": [
+          39.67,
+          41.61
+        ]
+      },
+      {
+        "label": "Skateboarding",
+        "segment": [
+          43.54,
+          45.48
+        ]
+      },
+      {
+        "label": "Skateboarding",
+        "segment": [
+          47.41,
+          70.64
+        ]
+      },
+      {
+        "label": "Skateboarding",
+        "segment": [
+          74.51,
+          87.09
+        ]
+      },
+      {
+        "label": "Skateboarding",
+        "segment": [
+          88.05,
+          93.86
+        ]
+      },
+      {
+        "label": "Skateboarding",
+        "segment": [
+          95.8,
+          101.6
+        ]
+      },
+      {
+        "label": "Skateboarding",
+        "segment": [
+          103.54,
+          106.44
+        ]
+      },
+      {
+        "label": "Skateboarding",
+        "segment": [
+          107.41,
+          109.34
+        ]
+      },
+      {
+        "label": "Skateboarding",
+        "segment": [
+          110.31,
+          116.12
+        ]
+      },
+      {
+        "label": "Skateboarding",
+        "segment": [
+          119.02,
+          121.92
+        ]
+      },
+      {
+        "label": "Skateboarding",
+        "segment": [
+          122.89,
+          125.79
+        ]
+      },
+      {
+        "label": "Skateboarding",
+        "segment": [
+          126.76,
+          154.82
+        ]
+      },
+      {
+        "label": "Skateboarding",
+        "segment": [
+          155.79,
+          157.72
+        ]
+      },
+      {
+        "label": "Skateboarding",
+        "segment": [
+          158.69,
+          165.47
+        ]
+      },
+      {
+        "label": "Skateboarding",
+        "segment": [
+          166.43,
+          174.17
+        ]
+      },
+      {
+        "label": "Skateboarding",
+        "segment": [
+          185.79,
+          192.56
+        ]
+      }
+    ]
+  },
+  "v_SyOdA4ZKEtQ.mp4": {
+    "annotations": [
+      {
+        "label": "Tumbling",
+        "segment": [
+          11.27,
+          13.87
+        ]
+      },
+      {
+        "label": "Tumbling",
+        "segment": [
+          14.3,
+          16.47
+        ]
+      },
+      {
+        "label": "Tumbling",
+        "segment": [
+          21.67,
+          25.57
+        ]
+      },
+      {
+        "label": "Tumbling",
+        "segment": [
+          28.6,
+          35.97
+        ]
+      },
+      {
+        "label": "Tumbling",
+        "segment": [
+          38.57,
+          40.3
+        ]
+      },
+      {
+        "label": "Tumbling",
+        "segment": [
+          40.73,
+          43.33
+        ]
+      },
+      {
+        "label": "Tumbling",
+        "segment": [
+          44.63,
+          50.27
+        ]
+      },
+      {
+        "label": "Tumbling",
+        "segment": [
+          58.07,
+          59.37
+        ]
+      },
+      {
+        "label": "Tumbling",
+        "segment": [
+          61.53,
+          66.3
+        ]
+      }
+    ]
+  },
+  "v_Hn3-SRXssY4.mp4": {
+    "annotations": [
+      {
+        "label": "High jump",
+        "segment": [
+          20.68,
+          21.72
+        ]
+      },
+      {
+        "label": "High jump",
+        "segment": [
+          22.75,
+          23.79
+        ]
+      },
+      {
+        "label": "High jump",
+        "segment": [
+          40.33,
+          41.37
+        ]
+      },
+      {
+        "label": "High jump",
+        "segment": [
+          45.51,
+          63.09
+        ]
+      },
+      {
+        "label": "High jump",
+        "segment": [
+          87.91,
+          92.04
+        ]
+      },
+      {
+        "label": "High jump",
+        "segment": [
+          95.15,
+          99.28
+        ]
+      },
+      {
+        "label": "High jump",
+        "segment": [
+          105.49,
+          108.59
+        ]
+      },
+      {
+        "label": "High jump",
+        "segment": [
+          177.88,
+          179.95
+        ]
+      }
+    ]
+  },
+  "v_yfjnahzAPSc.mp4": {
+    "annotations": [
+      {
+        "label": "Cricket",
+        "segment": [
+          10.34,
+          14.48
+        ]
+      },
+      {
+        "label": "Cricket",
+        "segment": [
+          28.96,
+          32.07
+        ]
+      },
+      {
+        "label": "Cricket",
+        "segment": [
+          33.1,
+          36.2
+        ]
+      },
+      {
+        "label": "Cricket",
+        "segment": [
+          43.44,
+          51.72
+        ]
+      },
+      {
+        "label": "Cricket",
+        "segment": [
+          54.82,
+          57.92
+        ]
+      },
+      {
+        "label": "Cricket",
+        "segment": [
+          89.99,
+          94.13
+        ]
+      },
+      {
+        "label": "Cricket",
+        "segment": [
+          96.2,
+          97.23
+        ]
+      },
+      {
+        "label": "Cricket",
+        "segment": [
+          101.37,
+          106.54
+        ]
+      },
+      {
+        "label": "Cricket",
+        "segment": [
+          107.57,
+          108.61
+        ]
+      },
+      {
+        "label": "Cricket",
+        "segment": [
+          109.64,
+          111.71
+        ]
+      },
+      {
+        "label": "Cricket",
+        "segment": [
+          113.78,
+          115.85
+        ]
+      },
+      {
+        "label": "Cricket",
+        "segment": [
+          116.88,
+          123.09
+        ]
+      },
+      {
+        "label": "Cricket",
+        "segment": [
+          128.26,
+          130.33
+        ]
+      },
+      {
+        "label": "Cricket",
+        "segment": [
+          131.36,
+          134.47
+        ]
+      },
+      {
+        "label": "Cricket",
+        "segment": [
+          135.5,
+          136.54
+        ]
+      },
+      {
+        "label": "Cricket",
+        "segment": [
+          142.74,
+          143.78
+        ]
+      },
+      {
+        "label": "Cricket",
+        "segment": [
+          146.88,
+          151.02
+        ]
+      },
+      {
+        "label": "Cricket",
+        "segment": [
+          165.5,
+          173.77
+        ]
+      },
+      {
+        "label": "Cricket",
+        "segment": [
+          179.98,
+          185.15
+        ]
+      },
+      {
+        "label": "Cricket",
+        "segment": [
+          186.19,
+          188.25
+        ]
+      },
+      {
+        "label": "Cricket",
+        "segment": [
+          189.29,
+          190.32
+        ]
+      },
+      {
+        "label": "Cricket",
+        "segment": [
+          191.36,
+          194.46
+        ]
+      },
+      {
+        "label": "Cricket",
+        "segment": [
+          198.6,
+          203.77
+        ]
+      }
+    ]
+  },
+  "v_EbQJuDQdW8U.mp4": {
+    "annotations": [
+      {
+        "label": "Ironing clothes",
+        "segment": [
+          3.6,
+          119.52
+        ]
+      }
+    ]
+  },
+  "v_pem8BpCspUM.mp4": {
+    "annotations": [
+      {
+        "label": "Dodgeball",
+        "segment": [
+          0.0,
+          2.97
+        ]
+      },
+      {
+        "label": "Dodgeball",
+        "segment": [
+          3.3,
+          3.97
+        ]
+      }
+    ]
+  },
+  "v_wcmO0R3Kqzo.mp4": {
+    "annotations": [
+      {
+        "label": "Doing nails",
+        "segment": [
+          31.2,
+          32.5
+        ]
+      },
+      {
+        "label": "Doing nails",
+        "segment": [
+          32.93,
+          37.27
+        ]
+      },
+      {
+        "label": "Doing nails",
+        "segment": [
+          37.7,
+          53.3
+        ]
+      },
+      {
+        "label": "Doing nails",
+        "segment": [
+          54.6,
+          56.33
+        ]
+      },
+      {
+        "label": "Doing nails",
+        "segment": [
+          58.07,
+          71.5
+        ]
+      },
+      {
+        "label": "Doing nails",
+        "segment": [
+          72.37,
+          81.9
+        ]
+      }
+    ]
+  },
+  "v_xftFhOCEqFs.mp4": {
+    "annotations": [
+      {
+        "label": "Pole vault",
+        "segment": [
+          12.01,
+          16.01
+        ]
+      },
+      {
+        "label": "Pole vault",
+        "segment": [
+          23.22,
+          27.22
+        ]
+      },
+      {
+        "label": "Pole vault",
+        "segment": [
+          28.02,
+          29.62
+        ]
+      },
+      {
+        "label": "Pole vault",
+        "segment": [
+          32.83,
+          36.03
+        ]
+      },
+      {
+        "label": "Pole vault",
+        "segment": [
+          37.63,
+          40.03
+        ]
+      },
+      {
+        "label": "Pole vault",
+        "segment": [
+          40.83,
+          44.04
+        ]
+      },
+      {
+        "label": "Pole vault",
+        "segment": [
+          44.84,
+          47.24
+        ]
+      },
+      {
+        "label": "Pole vault",
+        "segment": [
+          49.64,
+          52.04
+        ]
+      },
+      {
+        "label": "Pole vault",
+        "segment": [
+          58.45,
+          60.85
+        ]
+      },
+      {
+        "label": "Pole vault",
+        "segment": [
+          64.05,
+          66.45
+        ]
+      },
+      {
+        "label": "Pole vault",
+        "segment": [
+          72.86,
+          77.66
+        ]
+      },
+      {
+        "label": "Pole vault",
+        "segment": [
+          80.06,
+          83.27
+        ]
+      },
+      {
+        "label": "Pole vault",
+        "segment": [
+          88.07,
+          89.67
+        ]
+      },
+      {
+        "label": "Pole vault",
+        "segment": [
+          92.87,
+          95.28
+        ]
+      },
+      {
+        "label": "Pole vault",
+        "segment": [
+          96.08,
+          97.68
+        ]
+      },
+      {
+        "label": "Pole vault",
+        "segment": [
+          98.48,
+          101.68
+        ]
+      },
+      {
+        "label": "Pole vault",
+        "segment": [
+          104.88,
+          108.89
+        ]
+      },
+      {
+        "label": "Pole vault",
+        "segment": [
+          124.1,
+          128.1
+        ]
+      },
+      {
+        "label": "Pole vault",
+        "segment": [
+          133.71,
+          136.11
+        ]
+      },
+      {
+        "label": "Pole vault",
+        "segment": [
+          140.91,
+          143.31
+        ]
+      }
+    ]
+  },
+  "v_rDT4ngAfeHs.mp4": {
+    "annotations": [
+      {
+        "label": "Vacuuming floor",
+        "segment": [
+          1.64,
+          7.96
+        ]
+      }
+    ]
+  },
+  "v_V1SEaTS9hos.mp4": {
+    "annotations": [
+      {
+        "label": "Hand washing clothes",
+        "segment": [
+          0.0,
+          1.76
+        ]
+      },
+      {
+        "label": "Hand washing clothes",
+        "segment": [
+          2.03,
+          6.62
+        ]
+      }
+    ]
+  },
+  "v_KzZlSbM16aY.mp4": {
+    "annotations": [
+      {
+        "label": "Playing flauta",
+        "segment": [
+          0.0,
+          1.87
+        ]
+      },
+      {
+        "label": "Playing flauta",
+        "segment": [
+          2.33,
+          4.67
+        ]
+      },
+      {
+        "label": "Playing flauta",
+        "segment": [
+          10.27,
+          11.67
+        ]
+      },
+      {
+        "label": "Playing flauta",
+        "segment": [
+          12.61,
+          17.75
+        ]
+      },
+      {
+        "label": "Playing flauta",
+        "segment": [
+          19.61,
+          21.01
+        ]
+      },
+      {
+        "label": "Playing flauta",
+        "segment": [
+          23.82,
+          60.24
+        ]
+      },
+      {
+        "label": "Playing flauta",
+        "segment": [
+          65.84,
+          69.58
+        ]
+      },
+      {
+        "label": "Playing flauta",
+        "segment": [
+          71.45,
+          83.59
+        ]
+      },
+      {
+        "label": "Playing flauta",
+        "segment": [
+          92.93,
+          92.93
+        ]
+      }
+    ]
+  },
+  "v_GV_BDNmUiLY.mp4": {
+    "annotations": [
+      {
+        "label": "Sailing",
+        "segment": [
+          6.6,
+          9.0
+        ]
+      },
+      {
+        "label": "Sailing",
+        "segment": [
+          19.8,
+          24.6
+        ]
+      },
+      {
+        "label": "Sailing",
+        "segment": [
+          34.2,
+          35.4
+        ]
+      },
+      {
+        "label": "Sailing",
+        "segment": [
+          36.0,
+          40.8
+        ]
+      },
+      {
+        "label": "Sailing",
+        "segment": [
+          41.4,
+          44.4
+        ]
+      },
+      {
+        "label": "Sailing",
+        "segment": [
+          48.0,
+          49.2
+        ]
+      },
+      {
+        "label": "Sailing",
+        "segment": [
+          49.8,
+          56.4
+        ]
+      },
+      {
+        "label": "Sailing",
+        "segment": [
+          62.4,
+          64.2
+        ]
+      },
+      {
+        "label": "Sailing",
+        "segment": [
+          67.2,
+          71.4
+        ]
+      },
+      {
+        "label": "Sailing",
+        "segment": [
+          96.6,
+          97.8
+        ]
+      },
+      {
+        "label": "Sailing",
+        "segment": [
+          98.4,
+          99.6
+        ]
+      },
+      {
+        "label": "Sailing",
+        "segment": [
+          100.2,
+          101.4
+        ]
+      }
+    ]
+  },
+  "v_dAcdSkaoK64.mp4": {
+    "annotations": [
+      {
+        "label": "Using the pommel horse",
+        "segment": [
+          5.64,
+          43.38
+        ]
+      },
+      {
+        "label": "Using the pommel horse",
+        "segment": [
+          59.43,
+          86.32
+        ]
+      }
+    ]
+  },
+  "v_R0B5bBr6t8w.mp4": {
+    "annotations": [
+      {
+        "label": "Layup drill in basketball",
+        "segment": [
+          1.47,
+          2.47
+        ]
+      },
+      {
+        "label": "Layup drill in basketball",
+        "segment": [
+          2.54,
+          3.8
+        ]
+      },
+      {
+        "label": "Layup drill in basketball",
+        "segment": [
+          3.87,
+          5.54
+        ]
+      },
+      {
+        "label": "Layup drill in basketball",
+        "segment": [
+          5.87,
+          7.01
+        ]
+      },
+      {
+        "label": "Layup drill in basketball",
+        "segment": [
+          9.14,
+          10.48
+        ]
+      },
+      {
+        "label": "Layup drill in basketball",
+        "segment": [
+          11.14,
+          12.41
+        ]
+      },
+      {
+        "label": "Layup drill in basketball",
+        "segment": [
+          12.48,
+          13.28
+        ]
+      }
+    ]
+  },
+  "v_8nQGd6hiduA.mp4": {
+    "annotations": [
+      {
+        "label": "Tennis serve with ball bouncing",
+        "segment": [
+          8.34,
+          10.01
+        ]
+      },
+      {
+        "label": "Tennis serve with ball bouncing",
+        "segment": [
+          14.18,
+          20.85
+        ]
+      },
+      {
+        "label": "Tennis serve with ball bouncing",
+        "segment": [
+          23.36,
+          25.03
+        ]
+      },
+      {
+        "label": "Tennis serve with ball bouncing",
+        "segment": [
+          25.86,
+          27.53
+        ]
+      },
+      {
+        "label": "Tennis serve with ball bouncing",
+        "segment": [
+          35.87,
+          37.54
+        ]
+      },
+      {
+        "label": "Tennis serve with ball bouncing",
+        "segment": [
+          39.21,
+          45.88
+        ]
+      },
+      {
+        "label": "Tennis serve with ball bouncing",
+        "segment": [
+          50.88,
+          52.55
+        ]
+      },
+      {
+        "label": "Tennis serve with ball bouncing",
+        "segment": [
+          55.05,
+          63.4
+        ]
+      },
+      {
+        "label": "Tennis serve with ball bouncing",
+        "segment": [
+          65.9,
+          67.57
+        ]
+      },
+      {
+        "label": "Tennis serve with ball bouncing",
+        "segment": [
+          68.4,
+          70.07
+        ]
+      },
+      {
+        "label": "Tennis serve with ball bouncing",
+        "segment": [
+          76.74,
+          79.25
+        ]
+      },
+      {
+        "label": "Tennis serve with ball bouncing",
+        "segment": [
+          83.42,
+          88.42
+        ]
+      },
+      {
+        "label": "Tennis serve with ball bouncing",
+        "segment": [
+          90.09,
+          95.93
+        ]
+      },
+      {
+        "label": "Tennis serve with ball bouncing",
+        "segment": [
+          105.11,
+          107.61
+        ]
+      },
+      {
+        "label": "Tennis serve with ball bouncing",
+        "segment": [
+          109.28,
+          110.94
+        ]
+      },
+      {
+        "label": "Tennis serve with ball bouncing",
+        "segment": [
+          117.62,
+          166.0
+        ]
+      }
+    ]
+  },
+  "v_0KqeKi2CBqg.mp4": {
+    "annotations": [
+      {
+        "label": "Smoking a cigarette",
+        "segment": [
+          56.32,
+          61.6
+        ]
+      },
+      {
+        "label": "Smoking a cigarette",
+        "segment": [
+          64.24,
+          73.92
+        ]
+      },
+      {
+        "label": "Smoking a cigarette",
+        "segment": [
+          77.44,
+          83.16
+        ]
+      }
+    ]
+  },
+  "v_UrQ7Jq1s95o.mp4": {
+    "annotations": [
+      {
+        "label": "Clean and jerk",
+        "segment": [
+          0.0,
+          15.2
+        ]
+      }
+    ]
+  },
+  "v_-faeAVsbBG0.mp4": {
+    "annotations": [
+      {
+        "label": "Doing step aerobics",
+        "segment": [
+          0.0,
+          79.6
+        ]
+      }
+    ]
+  },
+  "v_K2Pws9z20Do.mp4": {
+    "annotations": [
+      {
+        "label": "Zumba",
+        "segment": [
+          6.81,
+          7.94
+        ]
+      },
+      {
+        "label": "Zumba",
+        "segment": [
+          11.34,
+          70.34
+        ]
+      },
+      {
+        "label": "Zumba",
+        "segment": [
+          71.47,
+          225.76
+        ]
+      }
+    ]
+  },
+  "v_xbcP38aF5Ok.mp4": {
+    "annotations": [
+      {
+        "label": "Tumbling",
+        "segment": [
+          14.75,
+          22.56
+        ]
+      },
+      {
+        "label": "Tumbling",
+        "segment": [
+          24.29,
+          26.03
+        ]
+      },
+      {
+        "label": "Tumbling",
+        "segment": [
+          26.89,
+          32.97
+        ]
+      },
+      {
+        "label": "Tumbling",
+        "segment": [
+          33.83,
+          39.04
+        ]
+      }
+    ]
+  },
+  "v_IXUh06YCtjw.mp4": {
+    "annotations": [
+      {
+        "label": "Drinking coffee",
+        "segment": [
+          1.2,
+          4.4
+        ]
+      },
+      {
+        "label": "Drinking coffee",
+        "segment": [
+          8.4,
+          10.4
+        ]
+      },
+      {
+        "label": "Drinking coffee",
+        "segment": [
+          23.2,
+          26.0
+        ]
+      },
+      {
+        "label": "Drinking coffee",
+        "segment": [
+          27.2,
+          28.4
+        ]
+      },
+      {
+        "label": "Drinking coffee",
+        "segment": [
+          28.8,
+          32.8
+        ]
+      },
+      {
+        "label": "Drinking coffee",
+        "segment": [
+          33.2,
+          34.4
+        ]
+      },
+      {
+        "label": "Drinking coffee",
+        "segment": [
+          40.8,
+          43.2
+        ]
+      },
+      {
+        "label": "Drinking coffee",
+        "segment": [
+          43.6,
+          44.8
+        ]
+      },
+      {
+        "label": "Drinking coffee",
+        "segment": [
+          48.8,
+          50.0
+        ]
+      },
+      {
+        "label": "Drinking coffee",
+        "segment": [
+          67.2,
+          68.4
+        ]
+      },
+      {
+        "label": "Drinking coffee",
+        "segment": [
+          74.4,
+          75.6
+        ]
+      }
+    ]
+  },
+  "v_mbGpp_nDwI4.mp4": {
+    "annotations": [
+      {
+        "label": "Using parallel bars",
+        "segment": [
+          1.87,
+          58.39
+        ]
+      },
+      {
+        "label": "Using parallel bars",
+        "segment": [
+          63.53,
+          67.27
+        ]
+      },
+      {
+        "label": "Using parallel bars",
+        "segment": [
+          67.73,
+          71.47
+        ]
+      },
+      {
+        "label": "Using parallel bars",
+        "segment": [
+          71.94,
+          92.96
+        ]
+      }
+    ]
+  },
+  "v_UFVeN-ThOwU.mp4": {
+    "annotations": [
+      {
+        "label": "Washing dishes",
+        "segment": [
+          0.0,
+          36.39
+        ]
+      },
+      {
+        "label": "Washing dishes",
+        "segment": [
+          37.09,
+          40.59
+        ]
+      },
+      {
+        "label": "Washing dishes",
+        "segment": [
+          41.29,
+          58.09
+        ]
+      },
+      {
+        "label": "Washing dishes",
+        "segment": [
+          58.79,
+          74.88
+        ]
+      },
+      {
+        "label": "Washing dishes",
+        "segment": [
+          76.28,
+          97.28
+        ]
+      },
+      {
+        "label": "Washing dishes",
+        "segment": [
+          98.68,
+          107.08
+        ]
+      },
+      {
+        "label": "Washing dishes",
+        "segment": [
+          109.17,
+          110.57
+        ]
+      },
+      {
+        "label": "Washing dishes",
+        "segment": [
+          114.07,
+          128.77
+        ]
+      },
+      {
+        "label": "Washing dishes",
+        "segment": [
+          132.97,
+          139.27
+        ]
+      }
+    ]
+  },
+  "v_8_jbsmj5Z9w.mp4": {
+    "annotations": [
+      {
+        "label": "Shaving",
+        "segment": [
+          8.01,
+          13.01
+        ]
+      },
+      {
+        "label": "Shaving",
+        "segment": [
+          14.01,
+          29.53
+        ]
+      },
+      {
+        "label": "Shaving",
+        "segment": [
+          30.53,
+          75.58
+        ]
+      },
+      {
+        "label": "Shaving",
+        "segment": [
+          76.08,
+          98.6
+        ]
+      }
+    ]
+  },
+  "v_x_FAc0KqMVw.mp4": {
+    "annotations": [
+      {
+        "label": "Playing guitarra",
+        "segment": [
+          4.54,
+          8.51
+        ]
+      },
+      {
+        "label": "Playing guitarra",
+        "segment": [
+          12.48,
+          14.18
+        ]
+      },
+      {
+        "label": "Playing guitarra",
+        "segment": [
+          14.75,
+          16.45
+        ]
+      },
+      {
+        "label": "Playing guitarra",
+        "segment": [
+          18.15,
+          20.42
+        ]
+      },
+      {
+        "label": "Playing guitarra",
+        "segment": [
+          22.12,
+          25.53
+        ]
+      },
+      {
+        "label": "Playing guitarra",
+        "segment": [
+          26.09,
+          27.79
+        ]
+      },
+      {
+        "label": "Playing guitarra",
+        "segment": [
+          30.06,
+          31.77
+        ]
+      },
+      {
+        "label": "Playing guitarra",
+        "segment": [
+          34.6,
+          36.87
+        ]
+      },
+      {
+        "label": "Playing guitarra",
+        "segment": [
+          38.57,
+          42.54
+        ]
+      },
+      {
+        "label": "Playing guitarra",
+        "segment": [
+          43.11,
+          45.95
+        ]
+      },
+      {
+        "label": "Playing guitarra",
+        "segment": [
+          50.48,
+          52.19
+        ]
+      },
+      {
+        "label": "Playing guitarra",
+        "segment": [
+          61.26,
+          65.23
+        ]
+      },
+      {
+        "label": "Playing guitarra",
+        "segment": [
+          65.8,
+          112.88
+        ]
+      }
+    ]
+  },
+  "v_62Dwj4l7_qs.mp4": {
+    "annotations": [
+      {
+        "label": "Clean and jerk",
+        "segment": [
+          0.0,
+          13.87
+        ]
+      },
+      {
+        "label": "Clean and jerk",
+        "segment": [
+          14.73,
+          76.27
+        ]
+      },
+      {
+        "label": "Clean and jerk",
+        "segment": [
+          78.0,
+          97.07
+        ]
+      },
+      {
+        "label": "Clean and jerk",
+        "segment": [
+          97.93,
+          110.07
+        ]
+      },
+      {
+        "label": "Clean and jerk",
+        "segment": [
+          110.93,
+          124.8
+        ]
+      },
+      {
+        "label": "Clean and jerk",
+        "segment": [
+          126.53,
+          136.93
+        ]
+      },
+      {
+        "label": "Clean and jerk",
+        "segment": [
+          146.47,
+          148.2
+        ]
+      },
+      {
+        "label": "Clean and jerk",
+        "segment": [
+          157.73,
+          172.47
+        ]
+      }
+    ]
+  },
+  "v_eRHbpYeYtxo.mp4": {
+    "annotations": [
+      {
+        "label": "Clean and jerk",
+        "segment": [
+          0.0,
+          9.94
+        ]
+      },
+      {
+        "label": "Clean and jerk",
+        "segment": [
+          13.28,
+          13.28
+        ]
+      }
+    ]
+  },
+  "v_rXgC48CLncg.mp4": {
+    "annotations": [
+      {
+        "label": "Blow-drying hair",
+        "segment": [
+          1.0,
+          7.0
+        ]
+      },
+      {
+        "label": "Blow-drying hair",
+        "segment": [
+          9.0,
+          10.0
+        ]
+      },
+      {
+        "label": "Blow-drying hair",
+        "segment": [
+          13.0,
+          15.0
+        ]
+      },
+      {
+        "label": "Blow-drying hair",
+        "segment": [
+          17.0,
+          24.0
+        ]
+      },
+      {
+        "label": "Blow-drying hair",
+        "segment": [
+          25.0,
+          26.0
+        ]
+      },
+      {
+        "label": "Blow-drying hair",
+        "segment": [
+          31.0,
+          32.0
+        ]
+      },
+      {
+        "label": "Blow-drying hair",
+        "segment": [
+          33.0,
+          34.0
+        ]
+      },
+      {
+        "label": "Blow-drying hair",
+        "segment": [
+          35.0,
+          36.0
+        ]
+      },
+      {
+        "label": "Blow-drying hair",
+        "segment": [
+          38.0,
+          41.0
+        ]
+      },
+      {
+        "label": "Blow-drying hair",
+        "segment": [
+          42.0,
+          48.0
+        ]
+      },
+      {
+        "label": "Blow-drying hair",
+        "segment": [
+          54.0,
+          55.0
+        ]
+      },
+      {
+        "label": "Blow-drying hair",
+        "segment": [
+          57.0,
+          59.0
+        ]
+      },
+      {
+        "label": "Blow-drying hair",
+        "segment": [
+          60.0,
+          61.0
+        ]
+      },
+      {
+        "label": "Blow-drying hair",
+        "segment": [
+          62.0,
+          65.0
+        ]
+      },
+      {
+        "label": "Blow-drying hair",
+        "segment": [
+          69.0,
+          70.0
+        ]
+      },
+      {
+        "label": "Blow-drying hair",
+        "segment": [
+          76.0,
+          85.0
+        ]
+      },
+      {
+        "label": "Blow-drying hair",
+        "segment": [
+          86.0,
+          88.0
+        ]
+      },
+      {
+        "label": "Blow-drying hair",
+        "segment": [
+          89.0,
+          90.0
+        ]
+      },
+      {
+        "label": "Blow-drying hair",
+        "segment": [
+          91.0,
+          102.0
+        ]
+      },
+      {
+        "label": "Blow-drying hair",
+        "segment": [
+          103.0,
+          106.0
+        ]
+      },
+      {
+        "label": "Blow-drying hair",
+        "segment": [
+          112.0,
+          113.0
+        ]
+      },
+      {
+        "label": "Blow-drying hair",
+        "segment": [
+          114.0,
+          117.0
+        ]
+      },
+      {
+        "label": "Blow-drying hair",
+        "segment": [
+          118.0,
+          131.0
+        ]
+      },
+      {
+        "label": "Blow-drying hair",
+        "segment": [
+          133.0,
+          138.0
+        ]
+      },
+      {
+        "label": "Blow-drying hair",
+        "segment": [
+          139.0,
+          140.0
+        ]
+      },
+      {
+        "label": "Blow-drying hair",
+        "segment": [
+          142.0,
+          143.0
+        ]
+      },
+      {
+        "label": "Blow-drying hair",
+        "segment": [
+          146.0,
+          147.0
+        ]
+      },
+      {
+        "label": "Blow-drying hair",
+        "segment": [
+          150.0,
+          151.0
+        ]
+      },
+      {
+        "label": "Blow-drying hair",
+        "segment": [
+          152.0,
+          154.0
+        ]
+      },
+      {
+        "label": "Blow-drying hair",
+        "segment": [
+          155.0,
+          156.0
+        ]
+      },
+      {
+        "label": "Blow-drying hair",
+        "segment": [
+          157.0,
+          159.0
+        ]
+      },
+      {
+        "label": "Blow-drying hair",
+        "segment": [
+          160.0,
+          162.0
+        ]
+      },
+      {
+        "label": "Blow-drying hair",
+        "segment": [
+          164.0,
+          165.0
+        ]
+      },
+      {
+        "label": "Blow-drying hair",
+        "segment": [
+          168.0,
+          171.0
+        ]
+      },
+      {
+        "label": "Blow-drying hair",
+        "segment": [
+          172.0,
+          174.0
+        ]
+      },
+      {
+        "label": "Blow-drying hair",
+        "segment": [
+          178.0,
+          179.0
+        ]
+      },
+      {
+        "label": "Blow-drying hair",
+        "segment": [
+          180.0,
+          190.0
+        ]
+      },
+      {
+        "label": "Blow-drying hair",
+        "segment": [
+          192.0,
+          195.0
+        ]
+      }
+    ]
+  },
+  "v_RLMvrl_vaqc.mp4": {
+    "annotations": [
+      {
+        "label": "Smoking hookah",
+        "segment": [
+          0.6,
+          3.2
+        ]
+      },
+      {
+        "label": "Smoking hookah",
+        "segment": [
+          5.7,
+          7.4
+        ]
+      },
+      {
+        "label": "Smoking hookah",
+        "segment": [
+          7.5,
+          9.9
+        ]
+      },
+      {
+        "label": "Smoking hookah",
+        "segment": [
+          10.0,
+          11.3
+        ]
+      },
+      {
+        "label": "Smoking hookah",
+        "segment": [
+          11.4,
+          13.2
+        ]
+      }
+    ]
+  },
+  "v_jYU215e-dKg.mp4": {
+    "annotations": [
+      {
+        "label": "Playing guitarra",
+        "segment": [
+          3.0,
+          10.67
+        ]
+      },
+      {
+        "label": "Playing guitarra",
+        "segment": [
+          19.67,
+          20.67
+        ]
+      },
+      {
+        "label": "Playing guitarra",
+        "segment": [
+          24.67,
+          26.33
+        ]
+      },
+      {
+        "label": "Playing guitarra",
+        "segment": [
+          29.0,
+          30.0
+        ]
+      }
+    ]
+  },
+  "v_RPkH81M6-NE.mp4": {
+    "annotations": [
+      {
+        "label": "Sailing",
+        "segment": [
+          9.8,
+          37.1
+        ]
+      },
+      {
+        "label": "Sailing",
+        "segment": [
+          43.4,
+          70.7
+        ]
+      },
+      {
+        "label": "Sailing",
+        "segment": [
+          72.8,
+          77.7
+        ]
+      },
+      {
+        "label": "Sailing",
+        "segment": [
+          81.2,
+          91.7
+        ]
+      },
+      {
+        "label": "Sailing",
+        "segment": [
+          93.8,
+          101.5
+        ]
+      },
+      {
+        "label": "Sailing",
+        "segment": [
+          102.9,
+          138.6
+        ]
+      },
+      {
+        "label": "Sailing",
+        "segment": [
+          139.3,
+          139.3
+        ]
+      }
+    ]
+  },
+  "v_-r_bvqjYjYg.mp4": {
+    "annotations": [
+      {
+        "label": "Shot put",
+        "segment": [
+          0.0,
+          3.9
+        ]
+      },
+      {
+        "label": "Shot put",
+        "segment": [
+          4.5,
+          6.01
+        ]
+      },
+      {
+        "label": "Shot put",
+        "segment": [
+          6.31,
+          11.41
+        ]
+      },
+      {
+        "label": "Shot put",
+        "segment": [
+          17.12,
+          29.43
+        ]
+      },
+      {
+        "label": "Shot put",
+        "segment": [
+          35.14,
+          37.24
+        ]
+      },
+      {
+        "label": "Shot put",
+        "segment": [
+          37.54,
+          39.04
+        ]
+      }
+    ]
+  },
+  "v_ZTHsS5lQyvQ.mp4": {
+    "annotations": [
+      {
+        "label": "Making a sandwich",
+        "segment": [
+          64.6,
+          70.68
+        ]
+      },
+      {
+        "label": "Making a sandwich",
+        "segment": [
+          71.44,
+          88.16
+        ]
+      },
+      {
+        "label": "Making a sandwich",
+        "segment": [
+          91.2,
+          98.04
+        ]
+      },
+      {
+        "label": "Making a sandwich",
+        "segment": [
+          103.36,
+          108.68
+        ]
+      },
+      {
+        "label": "Making a sandwich",
+        "segment": [
+          110.96,
+          114.76
+        ]
+      },
+      {
+        "label": "Making a sandwich",
+        "segment": [
+          117.8,
+          127.68
+        ]
+      }
+    ]
+  },
+  "v_bOBQLGfEeyg.mp4": {
+    "annotations": [
+      {
+        "label": "Dodgeball",
+        "segment": [
+          6.41,
+          13.61
+        ]
+      },
+      {
+        "label": "Dodgeball",
+        "segment": [
+          13.88,
+          19.49
+        ]
+      },
+      {
+        "label": "Dodgeball",
+        "segment": [
+          19.75,
+          21.62
+        ]
+      },
+      {
+        "label": "Dodgeball",
+        "segment": [
+          22.42,
+          29.1
+        ]
+      },
+      {
+        "label": "Dodgeball",
+        "segment": [
+          29.36,
+          30.43
+        ]
+      },
+      {
+        "label": "Dodgeball",
+        "segment": [
+          31.23,
+          32.57
+        ]
+      },
+      {
+        "label": "Dodgeball",
+        "segment": [
+          32.83,
+          34.17
+        ]
+      },
+      {
+        "label": "Dodgeball",
+        "segment": [
+          34.7,
+          40.31
+        ]
+      },
+      {
+        "label": "Dodgeball",
+        "segment": [
+          40.57,
+          41.64
+        ]
+      },
+      {
+        "label": "Dodgeball",
+        "segment": [
+          41.91,
+          44.04
+        ]
+      },
+      {
+        "label": "Dodgeball",
+        "segment": [
+          44.31,
+          51.52
+        ]
+      },
+      {
+        "label": "Dodgeball",
+        "segment": [
+          51.79,
+          53.12
+        ]
+      }
+    ]
+  },
+  "v_NrlITLsd7Fk.mp4": {
+    "annotations": [
+      {
+        "label": "Using the pommel horse",
+        "segment": [
+          0.0,
+          7.36
+        ]
+      },
+      {
+        "label": "Using the pommel horse",
+        "segment": [
+          7.52,
+          7.96
+        ]
+      }
+    ]
+  },
+  "v_fO8b3U8fuGo.mp4": {
+    "annotations": [
+      {
+        "label": "Horseback riding",
+        "segment": [
+          0.0,
+          13.28
+        ]
+      }
+    ]
+  },
+  "v_xmW27Mi-jbg.mp4": {
+    "annotations": [
+      {
+        "label": "Starting a campfire",
+        "segment": [
+          4.2,
+          10.21
+        ]
+      },
+      {
+        "label": "Starting a campfire",
+        "segment": [
+          29.42,
+          37.23
+        ]
+      },
+      {
+        "label": "Starting a campfire",
+        "segment": [
+          39.63,
+          57.04
+        ]
+      },
+      {
+        "label": "Starting a campfire",
+        "segment": [
+          58.84,
+          74.45
+        ]
+      },
+      {
+        "label": "Starting a campfire",
+        "segment": [
+          75.05,
+          78.66
+        ]
+      },
+      {
+        "label": "Starting a campfire",
+        "segment": [
+          79.26,
+          82.86
+        ]
+      },
+      {
+        "label": "Starting a campfire",
+        "segment": [
+          87.06,
+          104.48
+        ]
+      },
+      {
+        "label": "Starting a campfire",
+        "segment": [
+          106.28,
+          108.68
+        ]
+      },
+      {
+        "label": "Starting a campfire",
+        "segment": [
+          110.48,
+          113.48
+        ]
+      }
+    ]
+  },
+  "v_QVdsLRKpCT0.mp4": {
+    "annotations": [
+      {
+        "label": "Using parallel bars",
+        "segment": [
+          0.0,
+          59.76
+        ]
+      }
+    ]
+  },
+  "v_jNJg1TYq3c8.mp4": {
+    "annotations": [
+      {
+        "label": "Cleaning windows",
+        "segment": [
+          5.14,
+          43.21
+        ]
+      },
+      {
+        "label": "Cleaning windows",
+        "segment": [
+          43.44,
+          46.48
+        ]
+      }
+    ]
+  },
+  "v_AyicWbHhUWc.mp4": {
+    "annotations": [
+      {
+        "label": "Clean and jerk",
+        "segment": [
+          23.04,
+          47.76
+        ]
+      }
+    ]
+  },
+  "v_NNfAlym-xh8.mp4": {
+    "annotations": [
+      {
+        "label": "Using parallel bars",
+        "segment": [
+          0.0,
+          2.0
+        ]
+      },
+      {
+        "label": "Using parallel bars",
+        "segment": [
+          2.67,
+          28.03
+        ]
+      },
+      {
+        "label": "Using parallel bars",
+        "segment": [
+          28.7,
+          33.37
+        ]
+      },
+      {
+        "label": "Using parallel bars",
+        "segment": [
+          60.06,
+          72.74
+        ]
+      },
+      {
+        "label": "Using parallel bars",
+        "segment": [
+          73.41,
+          75.41
+        ]
+      },
+      {
+        "label": "Using parallel bars",
+        "segment": [
+          76.08,
+          77.41
+        ]
+      },
+      {
+        "label": "Using parallel bars",
+        "segment": [
+          78.75,
+          82.08
+        ]
+      },
+      {
+        "label": "Using parallel bars",
+        "segment": [
+          82.75,
+          86.75
+        ]
+      },
+      {
+        "label": "Using parallel bars",
+        "segment": [
+          87.42,
+          89.42
+        ]
+      },
+      {
+        "label": "Using parallel bars",
+        "segment": [
+          91.42,
+          100.77
+        ]
+      },
+      {
+        "label": "Using parallel bars",
+        "segment": [
+          101.43,
+          110.78
+        ]
+      },
+      {
+        "label": "Using parallel bars",
+        "segment": [
+          111.44,
+          114.11
+        ]
+      },
+      {
+        "label": "Using parallel bars",
+        "segment": [
+          114.78,
+          117.45
+        ]
+      },
+      {
+        "label": "Using parallel bars",
+        "segment": [
+          122.79,
+          126.79
+        ]
+      },
+      {
+        "label": "Using parallel bars",
+        "segment": [
+          127.46,
+          130.8
+        ]
+      }
+    ]
+  },
+  "v_rulzKikXMHo.mp4": {
+    "annotations": [
+      {
+        "label": "Dodgeball",
+        "segment": [
+          9.58,
+          10.74
+        ]
+      },
+      {
+        "label": "Dodgeball",
+        "segment": [
+          14.25,
+          16.35
+        ]
+      },
+      {
+        "label": "Dodgeball",
+        "segment": [
+          16.82,
+          17.98
+        ]
+      }
+    ]
+  },
+  "v_H1bmoIihWwo.mp4": {
+    "annotations": [
+      {
+        "label": "Platform diving",
+        "segment": [
+          0.0,
+          4.27
+        ]
+      },
+      {
+        "label": "Platform diving",
+        "segment": [
+          4.54,
+          6.14
+        ]
+      },
+      {
+        "label": "Platform diving",
+        "segment": [
+          12.55,
+          15.75
+        ]
+      },
+      {
+        "label": "Platform diving",
+        "segment": [
+          16.82,
+          43.78
+        ]
+      },
+      {
+        "label": "Platform diving",
+        "segment": [
+          49.65,
+          53.12
+        ]
+      }
+    ]
+  },
+  "v_qXD7myRvw0M.mp4": {
+    "annotations": [
+      {
+        "label": "Playing badminton",
+        "segment": [
+          1.07,
+          2.4
+        ]
+      },
+      {
+        "label": "Playing badminton",
+        "segment": [
+          3.2,
+          5.07
+        ]
+      },
+      {
+        "label": "Playing badminton",
+        "segment": [
+          6.27,
+          7.47
+        ]
+      },
+      {
+        "label": "Playing badminton",
+        "segment": [
+          9.08,
+          10.28
+        ]
+      },
+      {
+        "label": "Playing badminton",
+        "segment": [
+          12.01,
+          13.08
+        ]
+      },
+      {
+        "label": "Playing badminton",
+        "segment": [
+          13.75,
+          15.75
+        ]
+      },
+      {
+        "label": "Playing badminton",
+        "segment": [
+          24.16,
+          25.23
+        ]
+      },
+      {
+        "label": "Playing badminton",
+        "segment": [
+          26.56,
+          26.56
+        ]
+      }
+    ]
+  },
+  "v_aKacWW7Mn2c.mp4": {
+    "annotations": [
+      {
+        "label": "Platform diving",
+        "segment": [
+          0.0,
+          17.02
+        ]
+      },
+      {
+        "label": "Platform diving",
+        "segment": [
+          18.52,
+          19.92
+        ]
+      }
+    ]
+  },
+  "v_VNUVKrN4ndc.mp4": {
+    "annotations": [
+      {
+        "label": "Using parallel bars",
+        "segment": [
+          2.0,
+          6.41
+        ]
+      },
+      {
+        "label": "Using parallel bars",
+        "segment": [
+          7.21,
+          25.63
+        ]
+      },
+      {
+        "label": "Using parallel bars",
+        "segment": [
+          26.43,
+          44.84
+        ]
+      },
+      {
+        "label": "Using parallel bars",
+        "segment": [
+          52.85,
+          55.26
+        ]
+      },
+      {
+        "label": "Using parallel bars",
+        "segment": [
+          58.46,
+          77.28
+        ]
+      }
+    ]
+  },
+  "v_2aw1pVJsnKs.mp4": {
+    "annotations": [
+      {
+        "label": "Doing motocross",
+        "segment": [
+          0.0,
+          27.72
+        ]
+      },
+      {
+        "label": "Doing motocross",
+        "segment": [
+          28.16,
+          70.4
+        ]
+      },
+      {
+        "label": "Doing motocross",
+        "segment": [
+          70.84,
+          87.56
+        ]
+      }
+    ]
+  },
+  "v_FtbrPGaINt0.mp4": {
+    "annotations": [
+      {
+        "label": "Platform diving",
+        "segment": [
+          0.4,
+          10.8
+        ]
+      },
+      {
+        "label": "Platform diving",
+        "segment": [
+          11.6,
+          34.0
+        ]
+      },
+      {
+        "label": "Platform diving",
+        "segment": [
+          39.6,
+          41.6
+        ]
+      },
+      {
+        "label": "Platform diving",
+        "segment": [
+          42.0,
+          62.8
+        ]
+      },
+      {
+        "label": "Platform diving",
+        "segment": [
+          69.6,
+          76.4
+        ]
+      }
+    ]
+  },
+  "v_mDaZqz7lB0o.mp4": {
+    "annotations": [
+      {
+        "label": "Playing piano",
+        "segment": [
+          0.0,
+          2.2
+        ]
+      },
+      {
+        "label": "Playing piano",
+        "segment": [
+          29.73,
+          60.56
+        ]
+      },
+      {
+        "label": "Playing piano",
+        "segment": [
+          61.66,
+          66.07
+        ]
+      },
+      {
+        "label": "Playing piano",
+        "segment": [
+          67.17,
+          68.27
+        ]
+      },
+      {
+        "label": "Playing piano",
+        "segment": [
+          69.37,
+          70.47
+        ]
+      },
+      {
+        "label": "Playing piano",
+        "segment": [
+          72.67,
+          82.58
+        ]
+      },
+      {
+        "label": "Playing piano",
+        "segment": [
+          88.09,
+          127.73
+        ]
+      },
+      {
+        "label": "Playing piano",
+        "segment": [
+          128.83,
+          145.35
+        ]
+      },
+      {
+        "label": "Playing piano",
+        "segment": [
+          179.48,
+          180.58
+        ]
+      }
+    ]
+  },
+  "v_b1QkoG9hxk8.mp4": {
+    "annotations": [
+      {
+        "label": "Mixing drinks",
+        "segment": [
+          2.94,
+          4.04
+        ]
+      },
+      {
+        "label": "Mixing drinks",
+        "segment": [
+          5.87,
+          22.02
+        ]
+      },
+      {
+        "label": "Mixing drinks",
+        "segment": [
+          22.39,
+          27.53
+        ]
+      },
+      {
+        "label": "Mixing drinks",
+        "segment": [
+          28.63,
+          65.33
+        ]
+      },
+      {
+        "label": "Mixing drinks",
+        "segment": [
+          65.7,
+          66.8
+        ]
+      },
+      {
+        "label": "Mixing drinks",
+        "segment": [
+          67.53,
+          69.37
+        ]
+      },
+      {
+        "label": "Mixing drinks",
+        "segment": [
+          70.84,
+          73.04
+        ]
+      }
+    ]
+  },
+  "v_qdE6dbQOnt0.mp4": {
+    "annotations": [
+      {
+        "label": "Washing hands",
+        "segment": [
+          0.6,
+          4.4
+        ]
+      },
+      {
+        "label": "Washing hands",
+        "segment": [
+          4.6,
+          8.0
+        ]
+      },
+      {
+        "label": "Washing hands",
+        "segment": [
+          8.2,
+          9.6
+        ]
+      },
+      {
+        "label": "Washing hands",
+        "segment": [
+          9.8,
+          10.8
+        ]
+      },
+      {
+        "label": "Washing hands",
+        "segment": [
+          14.4,
+          20.0
+        ]
+      },
+      {
+        "label": "Washing hands",
+        "segment": [
+          20.8,
+          24.4
+        ]
+      },
+      {
+        "label": "Washing hands",
+        "segment": [
+          24.6,
+          31.0
+        ]
+      },
+      {
+        "label": "Washing hands",
+        "segment": [
+          31.6,
+          34.8
+        ]
+      },
+      {
+        "label": "Washing hands",
+        "segment": [
+          35.4,
+          38.4
+        ]
+      },
+      {
+        "label": "Washing hands",
+        "segment": [
+          38.8,
+          39.8
+        ]
+      }
+    ]
+  },
+  "v_E7C91KoML-o.mp4": {
+    "annotations": [
+      {
+        "label": "Snatch",
+        "segment": [
+          0.08,
+          16.07
+        ]
+      }
+    ]
+  },
+  "v_BhAQhPasmhU.mp4": {
+    "annotations": [
+      {
+        "label": "Discus throw",
+        "segment": [
+          3.04,
+          4.56
+        ]
+      },
+      {
+        "label": "Discus throw",
+        "segment": [
+          5.32,
+          6.84
+        ]
+      },
+      {
+        "label": "Discus throw",
+        "segment": [
+          7.6,
+          96.5
+        ]
+      },
+      {
+        "label": "Discus throw",
+        "segment": [
+          97.26,
+          105.61
+        ]
+      },
+      {
+        "label": "Discus throw",
+        "segment": [
+          106.37,
+          110.17
+        ]
+      },
+      {
+        "label": "Discus throw",
+        "segment": [
+          110.93,
+          151.2
+        ]
+      }
+    ]
+  },
+  "v_GX1EjqXAszM.mp4": {
+    "annotations": [
+      {
+        "label": "Making a sandwich",
+        "segment": [
+          11.41,
+          16.82
+        ]
+      },
+      {
+        "label": "Making a sandwich",
+        "segment": [
+          17.42,
+          18.92
+        ]
+      },
+      {
+        "label": "Making a sandwich",
+        "segment": [
+          26.13,
+          41.44
+        ]
+      },
+      {
+        "label": "Making a sandwich",
+        "segment": [
+          45.05,
+          46.25
+        ]
+      },
+      {
+        "label": "Making a sandwich",
+        "segment": [
+          49.25,
+          50.75
+        ]
+      }
+    ]
+  },
+  "v_onBAyGhqubg.mp4": {
+    "annotations": [
+      {
+        "label": "Springboard diving",
+        "segment": [
+          0.73,
+          11.01
+        ]
+      },
+      {
+        "label": "Springboard diving",
+        "segment": [
+          11.38,
+          15.78
+        ]
+      },
+      {
+        "label": "Springboard diving",
+        "segment": [
+          22.02,
+          23.12
+        ]
+      },
+      {
+        "label": "Springboard diving",
+        "segment": [
+          23.49,
+          28.26
+        ]
+      },
+      {
+        "label": "Springboard diving",
+        "segment": [
+          29.36,
+          41.84
+        ]
+      },
+      {
+        "label": "Springboard diving",
+        "segment": [
+          42.21,
+          43.31
+        ]
+      },
+      {
+        "label": "Springboard diving",
+        "segment": [
+          45.51,
+          50.28
+        ]
+      },
+      {
+        "label": "Springboard diving",
+        "segment": [
+          53.59,
+          57.26
+        ]
+      },
+      {
+        "label": "Springboard diving",
+        "segment": [
+          57.62,
+          60.93
+        ]
+      },
+      {
+        "label": "Springboard diving",
+        "segment": [
+          61.29,
+          63.13
+        ]
+      },
+      {
+        "label": "Springboard diving",
+        "segment": [
+          72.67,
+          73.04
+        ]
+      }
+    ]
+  },
+  "v_IjULOynkK5I.mp4": {
+    "annotations": [
+      {
+        "label": "Spinning",
+        "segment": [
+          14.67,
+          44.36
+        ]
+      },
+      {
+        "label": "Spinning",
+        "segment": [
+          50.36,
+          66.37
+        ]
+      }
+    ]
+  },
+  "v_f4UdgFrorCo.mp4": {
+    "annotations": [
+      {
+        "label": "Tango",
+        "segment": [
+          60.32,
+          63.44
+        ]
+      },
+      {
+        "label": "Tango",
+        "segment": [
+          92.56,
+          94.64
+        ]
+      },
+      {
+        "label": "Tango",
+        "segment": [
+          95.68,
+          96.72
+        ]
+      },
+      {
+        "label": "Tango",
+        "segment": [
+          99.84,
+          107.12
+        ]
+      },
+      {
+        "label": "Tango",
+        "segment": [
+          112.32,
+          115.44
+        ]
+      },
+      {
+        "label": "Tango",
+        "segment": [
+          116.48,
+          120.64
+        ]
+      },
+      {
+        "label": "Tango",
+        "segment": [
+          121.68,
+          126.88
+        ]
+      },
+      {
+        "label": "Tango",
+        "segment": [
+          128.96,
+          134.16
+        ]
+      },
+      {
+        "label": "Tango",
+        "segment": [
+          144.56,
+          145.6
+        ]
+      },
+      {
+        "label": "Tango",
+        "segment": [
+          147.68,
+          149.76
+        ]
+      },
+      {
+        "label": "Tango",
+        "segment": [
+          150.8,
+          151.84
+        ]
+      },
+      {
+        "label": "Tango",
+        "segment": [
+          157.04,
+          158.08
+        ]
+      },
+      {
+        "label": "Tango",
+        "segment": [
+          161.2,
+          163.28
+        ]
+      },
+      {
+        "label": "Tango",
+        "segment": [
+          164.32,
+          166.4
+        ]
+      },
+      {
+        "label": "Tango",
+        "segment": [
+          168.48,
+          169.52
+        ]
+      },
+      {
+        "label": "Tango",
+        "segment": [
+          171.6,
+          172.64
+        ]
+      },
+      {
+        "label": "Tango",
+        "segment": [
+          183.04,
+          184.08
+        ]
+      },
+      {
+        "label": "Tango",
+        "segment": [
+          187.2,
+          190.32
+        ]
+      },
+      {
+        "label": "Tango",
+        "segment": [
+          195.52,
+          197.6
+        ]
+      }
+    ]
+  }
+}

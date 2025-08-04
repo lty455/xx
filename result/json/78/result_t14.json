@@ -1,0 +1,2178 @@
+{
+    "video_test_0000004.mp4": {
+        "annotations": [
+            {
+                "label": "CricketBowling",
+                "segment": [
+                    0.0,
+                    1.3333333333333333
+                ]
+            },
+            {
+                "label": "CricketBowling",
+                "segment": [
+                    2.533333333333333,
+                    6.6
+                ]
+            },
+            {
+                "label": "CricketBowling",
+                "segment": [
+                    15.733333333333333,
+                    16.233333333333334
+                ]
+            },
+            {
+                "label": "CricketBowling",
+                "segment": [
+                    28.266666666666666,
+                    30.3
+                ]
+            },
+            {
+                "label": "CricketShot",
+                "segment": [
+                    0.0,
+                    1.3333333333333333
+                ]
+            },
+            {
+                "label": "CricketShot",
+                "segment": [
+                    16.233333333333334,
+                    17.266666666666666
+                ]
+            },
+            {
+                "label": "CricketShot",
+                "segment": [
+                    21.333333333333332,
+                    21.833333333333332
+                ]
+            },
+            {
+                "label": "CricketShot",
+                "segment": [
+                    30.8,
+                    32.0
+                ]
+            },
+            {
+                "label": "CricketShot",
+                "segment": [
+                    32.833333333333336,
+                    33.7
+                ]
+            }
+        ]
+    },
+    "video_test_0000011.mp4": {
+        "annotations": [
+            {
+                "label": "HammerThrow",
+                "segment": [
+                    15.866666666666667,
+                    23.833333333333332
+                ]
+            },
+            {
+                "label": "HammerThrow",
+                "segment": [
+                    40.9,
+                    52.03333333333333
+                ]
+            },
+            {
+                "label": "HammerThrow",
+                "segment": [
+                    58.8,
+                    59.96666666666667
+                ]
+            },
+            {
+                "label": "HammerThrow",
+                "segment": [
+                    75.46666666666667,
+                    79.06666666666666
+                ]
+            }
+        ]
+    },
+    "video_test_0000028.mp4": {
+        "annotations": [
+            {
+                "label": "GolfSwing",
+                "segment": [
+                    8.033333333333333,
+                    20.5
+                ]
+            },
+            {
+                "label": "GolfSwing",
+                "segment": [
+                    39.56666666666667,
+                    47.63333333333333
+                ]
+            },
+            {
+                "label": "GolfSwing",
+                "segment": [
+                    56.4,
+                    68.13333333333334
+                ]
+            },
+            {
+                "label": "GolfSwing",
+                "segment": [
+                    73.26666666666667,
+                    75.46666666666667
+                ]
+            },
+            {
+                "label": "GolfSwing",
+                "segment": [
+                    93.8,
+                    116.5
+                ]
+            },
+            {
+                "label": "GolfSwing",
+                "segment": [
+                    123.83333333333333,
+                    135.56666666666666
+                ]
+            }
+        ]
+    },
+    "video_test_0000039.mp4": {
+        "annotations": [
+            {
+                "label": "TennisSwing",
+                "segment": [
+                    0.0,
+                    6.833333333333333
+                ]
+            },
+            {
+                "label": "TennisSwing",
+                "segment": [
+                    12.533333333333333,
+                    19.4
+                ]
+            },
+            {
+                "label": "TennisSwing",
+                "segment": [
+                    51.36666666666667,
+                    66.23333333333333
+                ]
+            },
+            {
+                "label": "TennisSwing",
+                "segment": [
+                    151.86666666666667,
+                    158.73333333333332
+                ]
+            },
+            {
+                "label": "TennisSwing",
+                "segment": [
+                    164.43333333333334,
+                    169.0
+                ]
+            }
+        ]
+    },
+    "video_test_0000045.mp4": {
+        "annotations": [
+            {
+                "label": "ThrowDiscus",
+                "segment": [
+                    0.0,
+                    5.9
+                ]
+            },
+            {
+                "label": "ThrowDiscus",
+                "segment": [
+                    13.0,
+                    17.733333333333334
+                ]
+            },
+            {
+                "label": "ThrowDiscus",
+                "segment": [
+                    33.1,
+                    59.1
+                ]
+            },
+            {
+                "label": "ThrowDiscus",
+                "segment": [
+                    66.2,
+                    100.5
+                ]
+            },
+            {
+                "label": "ThrowDiscus",
+                "segment": [
+                    125.33333333333333,
+                    137.13333333333333
+                ]
+            },
+            {
+                "label": "ThrowDiscus",
+                "segment": [
+                    146.6,
+                    172.6
+                ]
+            },
+            {
+                "label": "ThrowDiscus",
+                "segment": [
+                    180.9,
+                    193.9
+                ]
+            },
+            {
+                "label": "ThrowDiscus",
+                "segment": [
+                    209.26666666666668,
+                    225.83333333333334
+                ]
+            }
+        ]
+    },
+    "video_test_0000046.mp4": {
+        "annotations": [
+            {
+                "label": "GolfSwing",
+                "segment": [
+                    29.466666666666665,
+                    37.5
+                ]
+            },
+            {
+                "label": "GolfSwing",
+                "segment": [
+                    45.56666666666667,
+                    177.83333333333334
+                ]
+            }
+        ]
+    },
+    "video_test_0000062.mp4": {
+        "annotations": [
+            {
+                "label": "LongJump",
+                "segment": [
+                    0.2,
+                    1.1666666666666667
+                ]
+            },
+            {
+                "label": "LongJump",
+                "segment": [
+                    3.7333333333333334,
+                    9.633333333333333
+                ]
+            },
+            {
+                "label": "LongJump",
+                "segment": [
+                    10.166666666666666,
+                    10.6
+                ]
+            },
+            {
+                "label": "LongJump",
+                "segment": [
+                    11.666666666666666,
+                    11.9
+                ]
+            },
+            {
+                "label": "LongJump",
+                "segment": [
+                    13.166666666666666,
+                    14.9
+                ]
+            }
+        ]
+    },
+    "video_test_0000085.mp4": {
+        "annotations": [
+            {
+                "label": "Diving",
+                "segment": [
+                    18.833333333333332,
+                    44.333333333333336
+                ]
+            },
+            {
+                "label": "Diving",
+                "segment": [
+                    51.0,
+                    169.63333333333333
+                ]
+            },
+            {
+                "label": "Diving",
+                "segment": [
+                    206.23333333333332,
+                    211.76666666666668
+                ]
+            }
+        ]
+    },
+    "video_test_0000113.mp4": {
+        "annotations": [
+            {
+                "label": "GolfSwing",
+                "segment": [
+                    0.0,
+                    73.53333333333333
+                ]
+            },
+            {
+                "label": "GolfSwing",
+                "segment": [
+                    76.56666666666666,
+                    86.1
+                ]
+            }
+        ]
+    },
+    "video_test_0000129.mp4": {
+        "annotations": [
+            {
+                "label": "HammerThrow",
+                "segment": [
+                    38.53333333333333,
+                    48.2
+                ]
+            }
+        ]
+    },
+    "video_test_0000211.mp4": {
+        "annotations": [
+            {
+                "label": "VolleyballSpiking",
+                "segment": [
+                    6.933333333333334,
+                    17.833333333333332
+                ]
+            },
+            {
+                "label": "VolleyballSpiking",
+                "segment": [
+                    47.6,
+                    51.1
+                ]
+            },
+            {
+                "label": "VolleyballSpiking",
+                "segment": [
+                    60.5,
+                    82.83333333333333
+                ]
+            }
+        ]
+    },
+    "video_test_0000238.mp4": {
+        "annotations": [
+            {
+                "label": "GolfSwing",
+                "segment": [
+                    2.033333333333333,
+                    11.833333333333334
+                ]
+            },
+            {
+                "label": "GolfSwing",
+                "segment": [
+                    18.033333333333335,
+                    26.8
+                ]
+            },
+            {
+                "label": "GolfSwing",
+                "segment": [
+                    33.5,
+                    56.7
+                ]
+            },
+            {
+                "label": "GolfSwing",
+                "segment": [
+                    59.266666666666666,
+                    68.03333333333333
+                ]
+            },
+            {
+                "label": "GolfSwing",
+                "segment": [
+                    80.93333333333334,
+                    84.03333333333333
+                ]
+            }
+        ]
+    },
+    "video_test_0000242.mp4": {
+        "annotations": [
+            {
+                "label": "LongJump",
+                "segment": [
+                    15.3,
+                    16.966666666666665
+                ]
+            },
+            {
+                "label": "LongJump",
+                "segment": [
+                    27.333333333333332,
+                    33.2
+                ]
+            },
+            {
+                "label": "LongJump",
+                "segment": [
+                    41.233333333333334,
+                    46.9
+                ]
+            }
+        ]
+    },
+    "video_test_0000273.mp4": {
+        "annotations": [
+            {
+                "label": "CricketBowling",
+                "segment": [
+                    0.0,
+                    4.655172413793103
+                ]
+            },
+            {
+                "label": "CricketBowling",
+                "segment": [
+                    119.55172413793103,
+                    122.24137931034483
+                ]
+            },
+            {
+                "label": "CricketShot",
+                "segment": [
+                    0.0,
+                    4.655172413793103
+                ]
+            },
+            {
+                "label": "CricketShot",
+                "segment": [
+                    8.655172413793103,
+                    10.655172413793103
+                ]
+            },
+            {
+                "label": "CricketShot",
+                "segment": [
+                    22.03448275862069,
+                    26.03448275862069
+                ]
+            },
+            {
+                "label": "CricketShot",
+                "segment": [
+                    34.03448275862069,
+                    38.724137931034484
+                ]
+            },
+            {
+                "label": "CricketShot",
+                "segment": [
+                    47.41379310344828,
+                    53.41379310344828
+                ]
+            },
+            {
+                "label": "CricketShot",
+                "segment": [
+                    74.13793103448276,
+                    79.48275862068965
+                ]
+            },
+            {
+                "label": "CricketShot",
+                "segment": [
+                    90.17241379310344,
+                    97.51724137931035
+                ]
+            },
+            {
+                "label": "CricketShot",
+                "segment": [
+                    103.51724137931035,
+                    110.86206896551724
+                ]
+            },
+            {
+                "label": "CricketShot",
+                "segment": [
+                    114.86206896551724,
+                    122.89655172413794
+                ]
+            },
+            {
+                "label": "CricketShot",
+                "segment": [
+                    129.58620689655172,
+                    132.93103448275863
+                ]
+            }
+        ]
+    },
+    "video_test_0000292.mp4": {
+        "annotations": [
+            {
+                "label": "SoccerPenalty",
+                "segment": [
+                    64.86666666666666,
+                    66.0
+                ]
+            }
+        ]
+    },
+    "video_test_0000308.mp4": {
+        "annotations": [
+            {
+                "label": "HighJump",
+                "segment": [
+                    25.533333333333335,
+                    74.16666666666667
+                ]
+            },
+            {
+                "label": "HighJump",
+                "segment": [
+                    133.76666666666668,
+                    139.86666666666667
+                ]
+            },
+            {
+                "label": "HighJump",
+                "segment": [
+                    153.23333333333332,
+                    186.06666666666666
+                ]
+            },
+            {
+                "label": "HighJump",
+                "segment": [
+                    192.16666666666666,
+                    200.66666666666666
+                ]
+            }
+        ]
+    },
+    "video_test_0000319.mp4": {
+        "annotations": [
+            {
+                "label": "HammerThrow",
+                "segment": [
+                    8.366666666666667,
+                    10.433333333333334
+                ]
+            },
+            {
+                "label": "HammerThrow",
+                "segment": [
+                    36.233333333333334,
+                    52.266666666666666
+                ]
+            },
+            {
+                "label": "HammerThrow",
+                "segment": [
+                    62.733333333333334,
+                    65.53333333333333
+                ]
+            },
+            {
+                "label": "HammerThrow",
+                "segment": [
+                    93.43333333333334,
+                    102.5
+                ]
+            }
+        ]
+    },
+    "video_test_0000324.mp4": {
+        "annotations": [
+            {
+                "label": "BaseballPitch",
+                "segment": [
+                    29.933333333333334,
+                    32.166666666666664
+                ]
+            },
+            {
+                "label": "BaseballPitch",
+                "segment": [
+                    35.9,
+                    50.9
+                ]
+            }
+        ]
+    },
+    "video_test_0000372.mp4": {
+        "annotations": [
+            {
+                "label": "Shotput",
+                "segment": [
+                    45.766666666666666,
+                    51.666666666666664
+                ]
+            },
+            {
+                "label": "Shotput",
+                "segment": [
+                    76.8,
+                    82.7
+                ]
+            },
+            {
+                "label": "Shotput",
+                "segment": [
+                    93.03333333333333,
+                    106.33333333333333
+                ]
+            },
+            {
+                "label": "Shotput",
+                "segment": [
+                    115.2,
+                    119.63333333333334
+                ]
+            },
+            {
+                "label": "Shotput",
+                "segment": [
+                    147.7,
+                    248.13333333333333
+                ]
+            },
+            {
+                "label": "Shotput",
+                "segment": [
+                    288.0,
+                    293.93333333333334
+                ]
+            },
+            {
+                "label": "HammerThrow",
+                "segment": [
+                    183.13333333333333,
+                    196.43333333333334
+                ]
+            }
+        ]
+    },
+    "video_test_0000392.mp4": {
+        "annotations": [
+            {
+                "label": "CricketBowling",
+                "segment": [
+                    4.433333333333334,
+                    28.266666666666666
+                ]
+            },
+            {
+                "label": "CricketBowling",
+                "segment": [
+                    50.46666666666667,
+                    52.666666666666664
+                ]
+            },
+            {
+                "label": "CricketBowling",
+                "segment": [
+                    98.13333333333334,
+                    105.36666666666666
+                ]
+            }
+        ]
+    },
+    "video_test_0000405.mp4": {
+        "annotations": [
+            {
+                "label": "CricketShot",
+                "segment": [
+                    11.066666666666666,
+                    108.03333333333333
+                ]
+            },
+            {
+                "label": "CricketShot",
+                "segment": [
+                    113.6,
+                    131.13333333333333
+                ]
+            },
+            {
+                "label": "CricketBowling",
+                "segment": [
+                    12.0,
+                    14.766666666666667
+                ]
+            },
+            {
+                "label": "CricketBowling",
+                "segment": [
+                    21.233333333333334,
+                    27.7
+                ]
+            },
+            {
+                "label": "CricketBowling",
+                "segment": [
+                    126.53333333333333,
+                    129.3
+                ]
+            }
+        ]
+    },
+    "video_test_0000423.mp4": {
+        "annotations": [
+            {
+                "label": "TennisSwing",
+                "segment": [
+                    0.0,
+                    166.1
+                ]
+            }
+        ]
+    },
+    "video_test_0000442.mp4": {
+        "annotations": [
+            {
+                "label": "LongJump",
+                "segment": [
+                    59.93333333333333,
+                    62.266666666666666
+                ]
+            }
+        ]
+    },
+    "video_test_0000444.mp4": {
+        "annotations": [
+            {
+                "label": "PoleVault",
+                "segment": [
+                    55.2,
+                    59.166666666666664
+                ]
+            },
+            {
+                "label": "PoleVault",
+                "segment": [
+                    67.83333333333333,
+                    70.2
+                ]
+            },
+            {
+                "label": "PoleVault",
+                "segment": [
+                    95.43333333333334,
+                    102.53333333333333
+                ]
+            },
+            {
+                "label": "PoleVault",
+                "segment": [
+                    119.9,
+                    125.43333333333334
+                ]
+            },
+            {
+                "label": "PoleVault",
+                "segment": [
+                    130.16666666666666,
+                    140.4
+                ]
+            }
+        ]
+    },
+    "video_test_0000448.mp4": {
+        "annotations": [
+            {
+                "label": "CricketShot",
+                "segment": [
+                    30.766666666666666,
+                    35.8
+                ]
+            },
+            {
+                "label": "CricketShot",
+                "segment": [
+                    46.4,
+                    51.93333333333333
+                ]
+            },
+            {
+                "label": "CricketShot",
+                "segment": [
+                    57.5,
+                    59.53333333333333
+                ]
+            }
+        ]
+    },
+    "video_test_0000461.mp4": {
+        "annotations": [
+            {
+                "label": "Diving",
+                "segment": [
+                    78.53333333333333,
+                    80.4
+                ]
+            }
+        ]
+    },
+    "video_test_0000504.mp4": {
+        "annotations": [
+            {
+                "label": "CleanAndJerk",
+                "segment": [
+                    9.1,
+                    13.5
+                ]
+            },
+            {
+                "label": "CleanAndJerk",
+                "segment": [
+                    25.9,
+                    40.166666666666664
+                ]
+            },
+            {
+                "label": "CleanAndJerk",
+                "segment": [
+                    42.7,
+                    52.2
+                ]
+            },
+            {
+                "label": "CleanAndJerk",
+                "segment": [
+                    54.4,
+                    72.66666666666667
+                ]
+            }
+        ]
+    },
+    "video_test_0000505.mp4": {
+        "annotations": [
+            {
+                "label": "CleanAndJerk",
+                "segment": [
+                    2.3666666666666667,
+                    7.166666666666667
+                ]
+            },
+            {
+                "label": "CleanAndJerk",
+                "segment": [
+                    57.43333333333333,
+                    62.2
+                ]
+            },
+            {
+                "label": "CleanAndJerk",
+                "segment": [
+                    166.33333333333334,
+                    173.5
+                ]
+            }
+        ]
+    },
+    "video_test_0000538.mp4": {
+        "annotations": [
+            {
+                "label": "HighJump",
+                "segment": [
+                    141.13333333333333,
+                    146.63333333333333
+                ]
+            }
+        ]
+    },
+    "video_test_0000549.mp4": {
+        "annotations": [
+            {
+                "label": "CricketBowling",
+                "segment": [
+                    36.3,
+                    39.53333333333333
+                ]
+            },
+            {
+                "label": "CricketBowling",
+                "segment": [
+                    45.666666666666664,
+                    53.93333333333333
+                ]
+            },
+            {
+                "label": "CricketShot",
+                "segment": [
+                    11.133333333333333,
+                    13.3
+                ]
+            },
+            {
+                "label": "CricketShot",
+                "segment": [
+                    21.566666666666666,
+                    23.0
+                ]
+            },
+            {
+                "label": "CricketShot",
+                "segment": [
+                    36.666666666666664,
+                    39.166666666666664
+                ]
+            }
+        ]
+    },
+    "video_test_0000556.mp4": {
+        "annotations": [
+            {
+                "label": "Billiards",
+                "segment": [
+                    4.066666666666666,
+                    9.833333333333334
+                ]
+            },
+            {
+                "label": "Billiards",
+                "segment": [
+                    18.333333333333332,
+                    28.866666666666667
+                ]
+            },
+            {
+                "label": "Billiards",
+                "segment": [
+                    33.63333333333333,
+                    44.166666666666664
+                ]
+            },
+            {
+                "label": "Billiards",
+                "segment": [
+                    50.96666666666667,
+                    56.4
+                ]
+            }
+        ]
+    },
+    "video_test_0000558.mp4": {
+        "annotations": [
+            {
+                "label": "Billiards",
+                "segment": [
+                    197.86666666666667,
+                    200.9
+                ]
+            }
+        ]
+    },
+    "video_test_0000560.mp4": {
+        "annotations": [
+            {
+                "label": "BasketballDunk",
+                "segment": [
+                    10.3,
+                    11.533333333333333
+                ]
+            },
+            {
+                "label": "BasketballDunk",
+                "segment": [
+                    39.46666666666667,
+                    42.233333333333334
+                ]
+            }
+        ]
+    },
+    "video_test_0000569.mp4": {
+        "annotations": [
+            {
+                "label": "CricketBowling",
+                "segment": [
+                    0.0,
+                    2.2
+                ]
+            },
+            {
+                "label": "CricketBowling",
+                "segment": [
+                    19.0,
+                    20.333333333333332
+                ]
+            },
+            {
+                "label": "CricketBowling",
+                "segment": [
+                    30.966666666666665,
+                    42.03333333333333
+                ]
+            },
+            {
+                "label": "CricketBowling",
+                "segment": [
+                    49.53333333333333,
+                    55.733333333333334
+                ]
+            },
+            {
+                "label": "CricketBowling",
+                "segment": [
+                    69.03333333333333,
+                    75.66666666666667
+                ]
+            },
+            {
+                "label": "CricketBowling",
+                "segment": [
+                    83.63333333333334,
+                    86.26666666666667
+                ]
+            },
+            {
+                "label": "CricketShot",
+                "segment": [
+                    36.266666666666666,
+                    42.03333333333333
+                ]
+            }
+        ]
+    },
+    "video_test_0000593.mp4": {
+        "annotations": [
+            {
+                "label": "Shotput",
+                "segment": [
+                    0.0,
+                    0.8333333333333334
+                ]
+            },
+            {
+                "label": "Shotput",
+                "segment": [
+                    2.5,
+                    27.266666666666666
+                ]
+            },
+            {
+                "label": "Shotput",
+                "segment": [
+                    29.233333333333334,
+                    56.0
+                ]
+            }
+        ]
+    },
+    "video_test_0000611.mp4": {
+        "annotations": [
+            {
+                "label": "GolfSwing",
+                "segment": [
+                    122.03333333333333,
+                    124.73333333333333
+                ]
+            }
+        ]
+    },
+    "video_test_0000615.mp4": {
+        "annotations": [
+            {
+                "label": "VolleyballSpiking",
+                "segment": [
+                    9.333333333333334,
+                    14.5
+                ]
+            },
+            {
+                "label": "VolleyballSpiking",
+                "segment": [
+                    20.733333333333334,
+                    32.166666666666664
+                ]
+            },
+            {
+                "label": "VolleyballSpiking",
+                "segment": [
+                    49.8,
+                    53.96666666666667
+                ]
+            },
+            {
+                "label": "VolleyballSpiking",
+                "segment": [
+                    93.4,
+                    102.73333333333333
+                ]
+            },
+            {
+                "label": "VolleyballSpiking",
+                "segment": [
+                    112.06666666666666,
+                    120.36666666666666
+                ]
+            },
+            {
+                "label": "VolleyballSpiking",
+                "segment": [
+                    129.7,
+                    140.1
+                ]
+            },
+            {
+                "label": "VolleyballSpiking",
+                "segment": [
+                    163.96666666666667,
+                    171.23333333333332
+                ]
+            }
+        ]
+    },
+    "video_test_0000622.mp4": {
+        "annotations": [
+            {
+                "label": "CricketBowling",
+                "segment": [
+                    78.4,
+                    88.7
+                ]
+            },
+            {
+                "label": "CricketShot",
+                "segment": [
+                    34.03333333333333,
+                    39.2
+                ]
+            },
+            {
+                "label": "CricketShot",
+                "segment": [
+                    74.26666666666667,
+                    84.56666666666666
+                ]
+            }
+        ]
+    },
+    "video_test_0000635.mp4": {
+        "annotations": [
+            {
+                "label": "CleanAndJerk",
+                "segment": [
+                    8.2,
+                    8.7
+                ]
+            },
+            {
+                "label": "CleanAndJerk",
+                "segment": [
+                    17.066666666666666,
+                    18.033333333333335
+                ]
+            },
+            {
+                "label": "CleanAndJerk",
+                "segment": [
+                    26.433333333333334,
+                    27.2
+                ]
+            }
+        ]
+    },
+    "video_test_0000671.mp4": {
+        "annotations": [
+            {
+                "label": "ThrowDiscus",
+                "segment": [
+                    5.833333333333333,
+                    10.533333333333333
+                ]
+            },
+            {
+                "label": "Shotput",
+                "segment": [
+                    5.266666666666667,
+                    9.366666666666667
+                ]
+            }
+        ]
+    },
+    "video_test_0000673.mp4": {
+        "annotations": [
+            {
+                "label": "CliffDiving",
+                "segment": [
+                    106.8,
+                    111.9
+                ]
+            }
+        ]
+    },
+    "video_test_0000691.mp4": {
+        "annotations": [
+            {
+                "label": "HammerThrow",
+                "segment": [
+                    20.433333333333334,
+                    24.866666666666667
+                ]
+            },
+            {
+                "label": "HammerThrow",
+                "segment": [
+                    80.03333333333333,
+                    100.46666666666667
+                ]
+            }
+        ]
+    },
+    "video_test_0000698.mp4": {
+        "annotations": [
+            {
+                "label": "CleanAndJerk",
+                "segment": [
+                    0.0,
+                    5.433333333333334
+                ]
+            },
+            {
+                "label": "CleanAndJerk",
+                "segment": [
+                    6.3,
+                    7.666666666666667
+                ]
+            },
+            {
+                "label": "CleanAndJerk",
+                "segment": [
+                    11.566666666666666,
+                    12.766666666666667
+                ]
+            }
+        ]
+    },
+    "video_test_0000716.mp4": {
+        "annotations": [
+            {
+                "label": "BasketballDunk",
+                "segment": [
+                    327.37931034482756,
+                    337.82758620689657
+                ]
+            }
+        ]
+    },
+    "video_test_0000718.mp4": {
+        "annotations": [
+            {
+                "label": "BasketballDunk",
+                "segment": [
+                    13.433333333333334,
+                    14.866666666666667
+                ]
+            },
+            {
+                "label": "BasketballDunk",
+                "segment": [
+                    16.5,
+                    18.333333333333332
+                ]
+            }
+        ]
+    },
+    "video_test_0000724.mp4": {
+        "annotations": [
+            {
+                "label": "CliffDiving",
+                "segment": [
+                    57.53333333333333,
+                    60.43333333333333
+                ]
+            },
+            {
+                "label": "CliffDiving",
+                "segment": [
+                    96.13333333333334,
+                    100.5
+                ]
+            }
+        ]
+    },
+    "video_test_0000740.mp4": {
+        "annotations": [
+            {
+                "label": "CleanAndJerk",
+                "segment": [
+                    33.06666666666667,
+                    53.733333333333334
+                ]
+            },
+            {
+                "label": "CleanAndJerk",
+                "segment": [
+                    95.06666666666666,
+                    109.53333333333333
+                ]
+            },
+            {
+                "label": "CleanAndJerk",
+                "segment": [
+                    217.03333333333333,
+                    227.36666666666667
+                ]
+            }
+        ]
+    },
+    "video_test_0000756.mp4": {
+        "annotations": [
+            {
+                "label": "TennisSwing",
+                "segment": [
+                    12.433333333333334,
+                    14.6
+                ]
+            }
+        ]
+    },
+    "video_test_0000765.mp4": {
+        "annotations": [
+            {
+                "label": "Shotput",
+                "segment": [
+                    35.3,
+                    37.63333333333333
+                ]
+            },
+            {
+                "label": "HammerThrow",
+                "segment": [
+                    101.2,
+                    106.5
+                ]
+            }
+        ]
+    },
+    "video_test_0000771.mp4": {
+        "annotations": [
+            {
+                "label": "Billiards",
+                "segment": [
+                    17.933333333333334,
+                    31.366666666666667
+                ]
+            },
+            {
+                "label": "Billiards",
+                "segment": [
+                    42.6,
+                    62.766666666666666
+                ]
+            },
+            {
+                "label": "Billiards",
+                "segment": [
+                    70.63333333333334,
+                    82.96666666666667
+                ]
+            },
+            {
+                "label": "Billiards",
+                "segment": [
+                    105.36666666666666,
+                    108.73333333333333
+                ]
+            },
+            {
+                "label": "Billiards",
+                "segment": [
+                    117.73333333333333,
+                    126.7
+                ]
+            },
+            {
+                "label": "Billiards",
+                "segment": [
+                    139.03333333333333,
+                    152.46666666666667
+                ]
+            },
+            {
+                "label": "Billiards",
+                "segment": [
+                    163.7,
+                    178.26666666666668
+                ]
+            }
+        ]
+    },
+    "video_test_0000793.mp4": {
+        "annotations": [
+            {
+                "label": "PoleVault",
+                "segment": [
+                    443.17241379310343,
+                    469.2413793103448
+                ]
+            }
+        ]
+    },
+    "video_test_0000796.mp4": {
+        "annotations": [
+            {
+                "label": "CricketShot",
+                "segment": [
+                    34.53333333333333,
+                    39.63333333333333
+                ]
+            },
+            {
+                "label": "CricketShot",
+                "segment": [
+                    46.666666666666664,
+                    54.333333333333336
+                ]
+            },
+            {
+                "label": "CricketShot",
+                "segment": [
+                    64.56666666666666,
+                    67.76666666666667
+                ]
+            },
+            {
+                "label": "CricketShot",
+                "segment": [
+                    84.4,
+                    92.7
+                ]
+            }
+        ]
+    },
+    "video_test_0000798.mp4": {
+        "annotations": [
+            {
+                "label": "CricketShot",
+                "segment": [
+                    16.366666666666667,
+                    21.266666666666666
+                ]
+            },
+            {
+                "label": "CricketShot",
+                "segment": [
+                    44.2,
+                    46.93333333333333
+                ]
+            },
+            {
+                "label": "CricketShot",
+                "segment": [
+                    58.4,
+                    60.6
+                ]
+            },
+            {
+                "label": "CricketShot",
+                "segment": [
+                    91.16666666666667,
+                    102.63333333333334
+                ]
+            }
+        ]
+    },
+    "video_test_0000807.mp4": {
+        "annotations": [
+            {
+                "label": "Diving",
+                "segment": [
+                    56.8,
+                    60.8
+                ]
+            },
+            {
+                "label": "Diving",
+                "segment": [
+                    130.4,
+                    140.8
+                ]
+            }
+        ]
+    },
+    "video_test_0000814.mp4": {
+        "annotations": [
+            {
+                "label": "Shotput",
+                "segment": [
+                    22.733333333333334,
+                    25.466666666666665
+                ]
+            },
+            {
+                "label": "Shotput",
+                "segment": [
+                    53.666666666666664,
+                    60.96666666666667
+                ]
+            },
+            {
+                "label": "Shotput",
+                "segment": [
+                    76.43333333333334,
+                    83.7
+                ]
+            },
+            {
+                "label": "Shotput",
+                "segment": [
+                    141.96666666666667,
+                    144.66666666666666
+                ]
+            },
+            {
+                "label": "Shotput",
+                "segment": [
+                    150.13333333333333,
+                    154.7
+                ]
+            },
+            {
+                "label": "Shotput",
+                "segment": [
+                    161.06666666666666,
+                    164.7
+                ]
+            },
+            {
+                "label": "Shotput",
+                "segment": [
+                    170.16666666666666,
+                    174.7
+                ]
+            },
+            {
+                "label": "ThrowDiscus",
+                "segment": [
+                    10.0,
+                    20.9
+                ]
+            },
+            {
+                "label": "ThrowDiscus",
+                "segment": [
+                    106.46666666666667,
+                    117.36666666666666
+                ]
+            }
+        ]
+    },
+    "video_test_0000844.mp4": {
+        "annotations": [
+            {
+                "label": "CliffDiving",
+                "segment": [
+                    0.0,
+                    8.5
+                ]
+            },
+            {
+                "label": "CliffDiving",
+                "segment": [
+                    13.6,
+                    22.1
+                ]
+            },
+            {
+                "label": "CliffDiving",
+                "segment": [
+                    70.63333333333334,
+                    90.2
+                ]
+            },
+            {
+                "label": "CliffDiving",
+                "segment": [
+                    98.7,
+                    101.26666666666667
+                ]
+            },
+            {
+                "label": "CliffDiving",
+                "segment": [
+                    112.33333333333333,
+                    117.43333333333334
+                ]
+            },
+            {
+                "label": "CliffDiving",
+                "segment": [
+                    130.2,
+                    137.86666666666667
+                ]
+            },
+            {
+                "label": "CliffDiving",
+                "segment": [
+                    142.96666666666667,
+                    155.73333333333332
+                ]
+            }
+        ]
+    },
+    "video_test_0000854.mp4": {
+        "annotations": [
+            {
+                "label": "Shotput",
+                "segment": [
+                    15.966666666666667,
+                    19.4
+                ]
+            },
+            {
+                "label": "Shotput",
+                "segment": [
+                    65.03333333333333,
+                    69.6
+                ]
+            }
+        ]
+    },
+    "video_test_0000882.mp4": {
+        "annotations": [
+            {
+                "label": "Shotput",
+                "segment": [
+                    12.466666666666667,
+                    21.2
+                ]
+            },
+            {
+                "label": "Shotput",
+                "segment": [
+                    31.2,
+                    43.666666666666664
+                ]
+            },
+            {
+                "label": "Shotput",
+                "segment": [
+                    51.166666666666664,
+                    84.86666666666666
+                ]
+            },
+            {
+                "label": "Shotput",
+                "segment": [
+                    108.56666666666666,
+                    128.53333333333333
+                ]
+            },
+            {
+                "label": "Shotput",
+                "segment": [
+                    137.26666666666668,
+                    151.0
+                ]
+            },
+            {
+                "label": "Shotput",
+                "segment": [
+                    187.2,
+                    194.66666666666666
+                ]
+            },
+            {
+                "label": "Shotput",
+                "segment": [
+                    229.63333333333333,
+                    237.13333333333333
+                ]
+            },
+            {
+                "label": "HammerThrow",
+                "segment": [
+                    12.466666666666667,
+                    21.2
+                ]
+            },
+            {
+                "label": "HammerThrow",
+                "segment": [
+                    31.2,
+                    43.666666666666664
+                ]
+            },
+            {
+                "label": "HammerThrow",
+                "segment": [
+                    51.166666666666664,
+                    99.83333333333333
+                ]
+            },
+            {
+                "label": "HammerThrow",
+                "segment": [
+                    109.8,
+                    128.53333333333333
+                ]
+            },
+            {
+                "label": "HammerThrow",
+                "segment": [
+                    137.26666666666668,
+                    159.73333333333332
+                ]
+            },
+            {
+                "label": "HammerThrow",
+                "segment": [
+                    207.16666666666666,
+                    210.9
+                ]
+            },
+            {
+                "label": "HammerThrow",
+                "segment": [
+                    229.63333333333333,
+                    237.13333333333333
+                ]
+            }
+        ]
+    },
+    "video_test_0000940.mp4": {
+        "annotations": [
+            {
+                "label": "CliffDiving",
+                "segment": [
+                    36.5,
+                    41.166666666666664
+                ]
+            },
+            {
+                "label": "CliffDiving",
+                "segment": [
+                    48.2,
+                    52.4
+                ]
+            }
+        ]
+    },
+    "video_test_0000946.mp4": {
+        "annotations": [
+            {
+                "label": "BaseballPitch",
+                "segment": [
+                    0.0,
+                    6.4
+                ]
+            },
+            {
+                "label": "BaseballPitch",
+                "segment": [
+                    13.1,
+                    17.833333333333332
+                ]
+            },
+            {
+                "label": "BaseballPitch",
+                "segment": [
+                    22.433333333333334,
+                    24.4
+                ]
+            }
+        ]
+    },
+    "video_test_0000991.mp4": {
+        "annotations": [
+            {
+                "label": "SoccerPenalty",
+                "segment": [
+                    8.666666666666666,
+                    11.566666666666666
+                ]
+            },
+            {
+                "label": "SoccerPenalty",
+                "segment": [
+                    26.433333333333334,
+                    27.666666666666668
+                ]
+            },
+            {
+                "label": "SoccerPenalty",
+                "segment": [
+                    46.266666666666666,
+                    49.56666666666667
+                ]
+            },
+            {
+                "label": "SoccerPenalty",
+                "segment": [
+                    55.36666666666667,
+                    58.666666666666664
+                ]
+            }
+        ]
+    },
+    "video_test_0001039.mp4": {
+        "annotations": [
+            {
+                "label": "Shotput",
+                "segment": [
+                    48.333333333333336,
+                    51.86666666666667
+                ]
+            },
+            {
+                "label": "Shotput",
+                "segment": [
+                    79.0,
+                    88.43333333333334
+                ]
+            },
+            {
+                "label": "Shotput",
+                "segment": [
+                    121.43333333333334,
+                    129.7
+                ]
+            },
+            {
+                "label": "Shotput",
+                "segment": [
+                    140.3,
+                    148.56666666666666
+                ]
+            },
+            {
+                "label": "Shotput",
+                "segment": [
+                    207.53333333333333,
+                    229.93333333333334
+                ]
+            },
+            {
+                "label": "HammerThrow",
+                "segment": [
+                    48.333333333333336,
+                    51.86666666666667
+                ]
+            },
+            {
+                "label": "HammerThrow",
+                "segment": [
+                    122.63333333333334,
+                    129.7
+                ]
+            },
+            {
+                "label": "HammerThrow",
+                "segment": [
+                    140.3,
+                    148.56666666666666
+                ]
+            }
+        ]
+    },
+    "video_test_0001040.mp4": {
+        "annotations": [
+            {
+                "label": "Shotput",
+                "segment": [
+                    86.2,
+                    95.96666666666667
+                ]
+            },
+            {
+                "label": "Shotput",
+                "segment": [
+                    109.3,
+                    111.96666666666667
+                ]
+            },
+            {
+                "label": "Shotput",
+                "segment": [
+                    148.4,
+                    155.53333333333333
+                ]
+            }
+        ]
+    },
+    "video_test_0001072.mp4": {
+        "annotations": [
+            {
+                "label": "HammerThrow",
+                "segment": [
+                    32.9,
+                    41.5
+                ]
+            },
+            {
+                "label": "HammerThrow",
+                "segment": [
+                    62.96666666666667,
+                    73.0
+                ]
+            },
+            {
+                "label": "HammerThrow",
+                "segment": [
+                    91.6,
+                    95.9
+                ]
+            },
+            {
+                "label": "HammerThrow",
+                "segment": [
+                    117.36666666666666,
+                    131.66666666666666
+                ]
+            },
+            {
+                "label": "HammerThrow",
+                "segment": [
+                    247.63333333333333,
+                    251.93333333333334
+                ]
+            }
+        ]
+    },
+    "video_test_0001076.mp4": {
+        "annotations": [
+            {
+                "label": "CliffDiving",
+                "segment": [
+                    54.86666666666667,
+                    57.46666666666667
+                ]
+            }
+        ]
+    },
+    "video_test_0001081.mp4": {
+        "annotations": [
+            {
+                "label": "Diving",
+                "segment": [
+                    10.0,
+                    12.933333333333334
+                ]
+            }
+        ]
+    },
+    "video_test_0001098.mp4": {
+        "annotations": [
+            {
+                "label": "HighJump",
+                "segment": [
+                    0.0,
+                    12.5
+                ]
+            },
+            {
+                "label": "HighJump",
+                "segment": [
+                    55.93333333333333,
+                    58.43333333333333
+                ]
+            },
+            {
+                "label": "HighJump",
+                "segment": [
+                    104.36666666666666,
+                    106.9
+                ]
+            },
+            {
+                "label": "HighJump",
+                "segment": [
+                    120.23333333333333,
+                    122.76666666666667
+                ]
+            }
+        ]
+    },
+    "video_test_0001114.mp4": {
+        "annotations": [
+            {
+                "label": "Shotput",
+                "segment": [
+                    4.6,
+                    7.766666666666667
+                ]
+            },
+            {
+                "label": "Shotput",
+                "segment": [
+                    21.4,
+                    25.766666666666666
+                ]
+            }
+        ]
+    },
+    "video_test_0001118.mp4": {
+        "annotations": [
+            {
+                "label": "SoccerPenalty",
+                "segment": [
+                    22.933333333333334,
+                    24.0
+                ]
+            },
+            {
+                "label": "SoccerPenalty",
+                "segment": [
+                    27.533333333333335,
+                    29.3
+                ]
+            },
+            {
+                "label": "SoccerPenalty",
+                "segment": [
+                    48.03333333333333,
+                    49.8
+                ]
+            },
+            {
+                "label": "SoccerPenalty",
+                "segment": [
+                    55.8,
+                    61.46666666666667
+                ]
+            }
+        ]
+    },
+    "video_test_0001127.mp4": {
+        "annotations": [
+            {
+                "label": "GolfSwing",
+                "segment": [
+                    5.433333333333334,
+                    18.166666666666668
+                ]
+            },
+            {
+                "label": "GolfSwing",
+                "segment": [
+                    24.533333333333335,
+                    86.3
+                ]
+            },
+            {
+                "label": "GolfSwing",
+                "segment": [
+                    91.76666666666667,
+                    169.9
+                ]
+            }
+        ]
+    },
+    "video_test_0001163.mp4": {
+        "annotations": [
+            {
+                "label": "GolfSwing",
+                "segment": [
+                    1.5,
+                    6.566666666666666
+                ]
+            },
+            {
+                "label": "GolfSwing",
+                "segment": [
+                    15.166666666666666,
+                    23.766666666666666
+                ]
+            },
+            {
+                "label": "GolfSwing",
+                "segment": [
+                    27.333333333333332,
+                    28.833333333333332
+                ]
+            },
+            {
+                "label": "GolfSwing",
+                "segment": [
+                    33.4,
+                    42.0
+                ]
+            },
+            {
+                "label": "GolfSwing",
+                "segment": [
+                    45.53333333333333,
+                    100.73333333333333
+                ]
+            }
+        ]
+    },
+    "video_test_0001164.mp4": {
+        "annotations": [
+            {
+                "label": "HammerThrow",
+                "segment": [
+                    158.20689655172413,
+                    175.79310344827587
+                ]
+            }
+        ]
+    },
+    "video_test_0001174.mp4": {
+        "annotations": [
+            {
+                "label": "JavelinThrow",
+                "segment": [
+                    145.73333333333332,
+                    156.3
+                ]
+            }
+        ]
+    },
+    "video_test_0001182.mp4": {
+        "annotations": [
+            {
+                "label": "BaseballPitch",
+                "segment": [
+                    0.0,
+                    4.166666666666667
+                ]
+            },
+            {
+                "label": "BaseballPitch",
+                "segment": [
+                    90.53333333333333,
+                    97.13333333333334
+                ]
+            }
+        ]
+    },
+    "video_test_0001201.mp4": {
+        "annotations": [
+            {
+                "label": "PoleVault",
+                "segment": [
+                    398.3666666666667,
+                    404.6
+                ]
+            }
+        ]
+    }
+}
